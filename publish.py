@@ -17,7 +17,7 @@ HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 from build import VAULT, build  # noqa: E402
 
-DOMAIN = ""  # e.g. "espanol.example.com" — the Porkbun CNAME points this at <user>.github.io
+DOMAIN = "espanol.dunne.systems"  # Porkbun CNAME espanol → andheeheee.github.io
 OUT = HERE / "public"
 SITE_FILES = ["index.html", "app.js", "style.css", "content.js"]
 
