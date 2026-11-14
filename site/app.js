@@ -253,8 +253,8 @@ function home() {
   };
 }
 
-const TABS = [['lesson', 'Lesson'], ['drills', '🎯 Drills'], ['worksheet', 'Worksheet'], ['quiz', 'Quiz'], ['grammar', '✅ Grammar'], ['cyber', '🛡️ Cyber'], ['practice', 'Practice']];
-const tabsFor = w => TABS.filter(([k]) => (k !== 'drills' || w.drills) && (k !== 'grammar' || w.grammar.length) && (k !== 'cyber' || w.cyber));
+const TABS = [['lesson', 'Lesson'], ['words', '📖 Words'], ['drills', '🎯 Drills'], ['worksheet', 'Worksheet'], ['quiz', 'Quiz'], ['grammar', '✅ Grammar'], ['cyber', '🛡️ Cyber'], ['practice', 'Practice']];
+const tabsFor = w => TABS.filter(([k]) => (k !== 'drills' || w.drills) && (k !== 'words' || (w.words || []).length) && (k !== 'grammar' || w.grammar.length) && (k !== 'cyber' || w.cyber));
 // The tab after `tab` for this week, so "Next →" never points at a tab the week doesn't have.
 const tabAfter = (w, tab) => { const t = tabsFor(w).map(([k]) => k); return t[t.indexOf(tab) + 1] || 'practice'; };
 
@@ -275,7 +275,7 @@ function week(n, tab) {
     </div>`;
   const pane = document.getElementById('pane');
   if (!tabsFor(w).some(([k]) => k === tab)) tab = 'lesson';
-  ({ lesson: lessonPane, drills: drillsPane, grammar: grammarPane, worksheet: worksheetPane, quiz: quizPane, cyber: cyberPane, practice: practicePane })[tab](pane, w, p);
+  ({ lesson: lessonPane, words: wordsPane, drills: drillsPane, grammar: grammarPane, worksheet: worksheetPane, quiz: quizPane, cyber: cyberPane, practice: practicePane })[tab](pane, w, p);
 }
 
 function photoGallery(w) {
@@ -566,6 +566,60 @@ function drillModes(D) {
       return { prompt: 'Listen to the letters being spelled, then type the word', audio: spellTokens(w, D, false).flatMap(t => t.say), typed: true, accept: [w], after: [w], reveal: w };
     } },
   };
+}
+
+// 📖 Words: themed word lists for the week (words.py) — 🔊, ➕, hide-English self-test and a quick quiz per list
+function wordsPane(pane, w) {
+  const S = w.words, topic = `Week ${w.week} words`;
+  const row = ([es, en, note, clip]) => `<tr><td><strong>${esc(es)}</strong> ${sayBtn(clip)}</td><td class="en">${esc(en)}${note ? `<div class="note">${esc(note)}</div>` : ''}</td>
+    <td><button class="add vault-only" data-es="${attr(clip)}" data-en="${attr(en)}" data-topic="${attr(topic)}" title="Add to my Vocab">➕</button></td></tr>`;
+  pane.innerHTML = `<p class="muted">${S.reduce((a, s) => a + s.rows.length, 0)} words in ${S.length} lists. Mexican Spanish first: 🌎 = what other Latin American countries say, 🇪🇸 = Spain, 💡 = tip.
+      <span class="vault-only">➕ copies a word into My Notes/Vocab.md.</span></p>
+    <div class="row"><label class="chip" style="cursor:pointer"><input type="checkbox" id="hide-en"> 🙈 Hide English (tap to peek)</label></div>
+    <div id="wsets">${S.map((s, i) => `<button class="chip" data-go="${i}">${esc(s.title)}</button>`).join(' ')}</div>
+    <div class="prose">${S.map((s, i) => `<h2 id="ws-${i}">${esc(s.title)} <span class="muted" style="font-size:.8rem;font-weight:400">${s.rows.length}</span></h2>
+      <div class="row"><button class="btn ghost" data-quiz="${i}">🎲 Quiz me</button>${s.bank ? `<a class="btn ghost vault-only" href="#/vocab/${s.bank}">📚 More in the Vocabulary Bank</a>` : ''}</div>
+      <div class="wquiz" id="wq-${i}"></div>
+      <table class="vocab words"><thead><tr><th>Español</th><th>English</th><th></th></tr></thead><tbody>${s.rows.map(row).join('')}</tbody></table>`).join('')}</div>`;
+  pane.querySelector('#hide-en').onchange = e => pane.classList.toggle('hide-en', e.target.checked);
+  pane.onclick = e => {
+    const go = e.target.closest('[data-go]'), qz = e.target.closest('[data-quiz]'), en = e.target.closest('td.en');
+    if (go) document.getElementById('ws-' + go.dataset.go).scrollIntoView({ behavior: 'smooth' });
+    else if (qz) wordQuiz(document.getElementById('wq-' + qz.dataset.quiz), S[+qz.dataset.quiz].rows);
+    else if (en && pane.classList.contains('hide-en')) en.classList.toggle('peek');
+  };
+}
+
+// 10 questions: see the English, pick the Spanish. Right answers play the word.
+function wordQuiz(box, rows) {
+  const qs = shuffle(rows).slice(0, 10);
+  let i = 0, score = 0;
+  const ask = () => {
+    if (i === qs.length) {
+      box.innerHTML = `<div class="card result"><b>${score}/${qs.length}</b> — ${score === qs.length ? '🎉 Perfect!' : score >= qs.length * .8 ? 'Nice work!' : 'Keep practicing — try again.'}
+        <div class="row"><button class="btn ghost" data-again>Again</button><button class="btn ghost" data-close>Close</button></div></div>`;
+      box.querySelector('[data-again]').onclick = () => wordQuiz(box, rows);
+      box.querySelector('[data-close]').onclick = () => { box.innerHTML = ''; };
+      return;
+    }
+    const q = qs[i], opts = shuffle([q, ...shuffle(rows.filter(r => r !== q && r[1] !== q[1])).slice(0, 3)]);
+    box.innerHTML = `<div class="card"><div class="muted" style="font-size:.85rem">${i + 1} / ${qs.length}</div>
+      <div class="q" style="margin:6px 0"><b>${esc(q[1])}</b></div>
+      <div class="opts">${opts.map((o, k) => `<label data-k="${k}">${esc(o[0])}</label>`).join('')}</div><div class="fb" hidden></div></div>`;
+    box.querySelectorAll('.opts label').forEach(l => l.onclick = () => {
+      if (box.querySelector('.opts .right')) return;
+      const o = opts[+l.dataset.k], fb = box.querySelector('.fb');
+      box.querySelectorAll('.opts label').forEach(x => opts[+x.dataset.k] === q && x.classList.add('right'));
+      if (o === q) score++; else l.classList.add('wrong');
+      fb.hidden = false;
+      fb.className = 'fb ' + (o === q ? 'good' : 'bad');
+      fb.innerHTML = `${o === q ? '✓' : '✗'} ${esc(q[0])} — ${esc(q[1])} ${sayBtn(q[3])}${q[2] ? `<div class="note">${esc(q[2])}</div>` : ''}`;
+      const b = fb.querySelector('.play');
+      if (o === q && b) b.click();
+      setTimeout(() => { i++; ask(); }, o === q ? 1300 : 2600);
+    });
+  };
+  ask();
 }
 
 function drillsPane(pane, w) {

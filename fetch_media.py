@@ -20,7 +20,7 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
-from build import COURSE, REFERENCE, VAULT, daily_words, drill_texts, grammar_texts, rr_texts, spell_texts
+from build import COURSE, REFERENCE, VAULT, daily_words, drill_texts, grammar_texts, rr_texts, spell_texts, words_texts
 
 HERE = Path(__file__).resolve().parent
 MEDIA = VAULT / "Media"
@@ -152,6 +152,7 @@ def audio_texts():
         texts += ITALIC.findall(line) if line.startswith("- ") else []
     texts += drill_texts() + grammar_texts() + rr_texts() + ["slow:" + t for t in rr_texts()]  # slow versions for hearing the trill
     texts += [x for d in daily_words() for x in (d["es"], d["ex"])]
+    texts += words_texts()
     seen, out = set(), []
     for t in (t.strip() for t in texts):
         if re.search(r"[a-záéíóúñ]", t, re.I) and t not in seen:

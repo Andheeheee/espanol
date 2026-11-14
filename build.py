@@ -3836,6 +3836,7 @@ Week 0 pronunciation, then present → future → past tense told through neighb
 - [[Alphabet & Letter Sounds]]
 - [[Verb Endings Cheat Sheet]]
 - [[Word Bank]] — every Palabra del día word, by topic
+- [[Word Lists]] — themed vocabulary for every week (fruit, family, clothes…)
 - [[Ser vs Estar]]
 - [[Question Words]]
 - [[Latin American Spanish Notes]]
@@ -3860,9 +3861,36 @@ MY_NOTES = {
 }
 
 
+from words import WORDS, words_data  # noqa: E402  (📖 Words tab lists)
+
+
+def word_clip(es):
+    """The text the voice reads for a word-list entry: drop (notes) and trailing …"""
+    t = re.sub(r"\s*\([^)]*\)", "", es).replace("…", "").replace(" / ", ", ")
+    return re.sub(r"\s+", " ", t).strip(" ,")
+
+
+def words_texts():
+    return [r[3] for sections in words_data(word_clip).values() for sec in sections for r in sec["rows"]]
+
+
+def word_list_note(w, sections):
+    out = [f"# Words — {w['title']}", f"Themed word lists for [[{note_name(w)}]]. Mexican Spanish first; 🌎 = other Latin American countries, 🇪🇸 = Spain, 💡 = tip.",
+           "On the site: open the week → **📖 Words** (🔊 audio, ➕ add to [[Vocab]], 🙈 hide English, 🎲 quiz).", ""]
+    for sec in sections:
+        out += [f"## {sec['title']}", "| Español | English | Note |", "|---|---|---|"]
+        out += [f"| **{es}** | {en} | {note} |" for es, en, note, _ in sec["rows"]]
+        out.append("")
+    out.append("Back to [[Word Lists]]")
+    return "\n".join(out)
+
+
 def build(force=False):
     site = HERE / "site"
     site.mkdir(exist_ok=True)
+    wd = words_data(word_clip)
+    for w in COURSE:
+        w["words"] = wd.get(w["id"], [])
     data = {"phases": PHASES, "weeks": COURSE, "media": MEDIA, "rr_lab": {**RR_LAB, "say": {t: say_it(t) for t in rr_texts()}}, "guides": guides_data(), "daily": daily_words()}
     (site / "content.js").write_text(
         "window.COURSE = " + json.dumps(data, ensure_ascii=False, indent=1) + ";\n", encoding="utf-8")
@@ -3883,6 +3911,14 @@ def build(force=False):
         text = re.sub(r"\[\[@([\w-]+)\]\]", lambda m: f"[[{note_name(by_id[m[1]])}]]", text)  # [[@id]] links to that week's lesson
         if write_note(VAULT / "Reference" / f"{name}.md", text, force):
             created.append(name)
+    folder = VAULT / "Word Lists"
+    index = ["# Word Lists", "Themed vocabulary for every week — the **📖 Words** tab on the site. Mexican Spanish first.", ""]
+    for w in COURSE:
+        if w["words"]:
+            name = f"Week {w['week']:02d} Words"
+            write_note(folder / f"{name}.md", word_list_note(w, w["words"]), True)  # generated — no learner notes in here
+            index.append(f"- [[{name}]] — {w['title']}: " + ", ".join(re.sub(r"^[^\w¿¡-]+", "", sec["title"]) for sec in w["words"]))
+    write_note(folder / "Word Lists.md", "\n".join(index), True)
     lessons = "\n".join(f"- [[{note_name(w)}]]" for w in COURSE)
     for path, text in [(VAULT / "CLAUDE.md", CLAUDE_MD.replace("{n}", str(len(COURSE))).replace("{last}", str(COURSE[-1]["week"]))), (VAULT / "Home.md", HOME_MD.replace("{lessons}", lessons).replace("{guides}", "\n".join(f"- [[{name}]] — {blurb}" for _, name, _, blurb, _ in GUIDES)))]:
         if write_note(path, text, force):
