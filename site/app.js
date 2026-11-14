@@ -576,10 +576,12 @@ const artWord = es => {
   const m = es.match(ARTICLE);
   return m ? `<span class="art ${/^(el|los)$/i.test(m[1]) ? 'm' : 'f'}">${esc(m[1])}</span> ${esc(m[2])}` : esc(es);
 };
+const notePills = note => (note ? note.split(' · ') : []).map(n =>
+  `<span class="pill ${n.startsWith('🌎') ? 'latam' : n.startsWith('🇪🇸') ? 'spain' : 'tip'}">${esc(n)}</span>`).join('');
+const rowCard = ([es, en, note, clip]) => ({ es, en, note, clip });  // a Words-tab row as a flashcard
 function wordCard([es, en, note, clip], topic) {
   const word = artWord(es);
-  const pills = (note ? note.split(' · ') : []).map(n =>
-    `<span class="pill ${n.startsWith('🌎') ? 'latam' : n.startsWith('🇪🇸') ? 'spain' : 'tip'}">${esc(n)}</span>`).join('');
+  const pills = notePills(note) + (isKnown({ es }) ? '<span class="pill known">✅ known</span>' : '');
   return `<div class="wcard" data-f="${attr(fold([es, en, note].join(' ')))}">
     <div class="es">${word} ${sayBtn(clip)}</div><div class="en">${esc(en)}</div>${pills ? `<div class="pills">${pills}</div>` : ''}
     <button class="add vault-only" data-es="${attr(clip)}" data-en="${attr(en)}" data-topic="${attr(topic)}" title="Add to my Vocab">➕</button></div>`;
@@ -594,17 +596,26 @@ function wordGrid(rows, topic) {
 }
 function wordsPane(pane, w) {
   const S = w.words, topic = `Week ${w.week} words`;
+  const countText = s => { const k = s.rows.filter(r => isKnown({ es: r[0] })).length; return `${s.rows.length} words${k ? ` · ✅ ${k} known` : ''}`; };
+  const refresh = () => {  // after a flashcard round: update ✅ badges and counts, keep the filter
+    pane.querySelectorAll('.wsec').forEach((sec, i) => {
+      sec.querySelector('.count').textContent = countText(S[i]);
+      sec.querySelector('.wgrid').outerHTML = wordGrid(S[i].rows, topic);
+    });
+    pane.querySelector('#wfilter').dispatchEvent(new Event('input'));
+  };
   pane.innerHTML = `<p class="muted wintro">${S.reduce((a, s) => a + s.rows.length, 0)} words in ${S.length} lists. Mexican Spanish first —
       <span class="pill latam">🌎 other Latin America</span> <span class="pill spain">🇪🇸 Spain</span> <span class="pill tip">💡 tip</span>
       <span class="art m">el / los</span> <span class="art f">la / las</span></p>
     <div class="wbar">
       <div class="wtools"><input type="search" id="wfilter" placeholder="Filter: fruit, mango, spicy…">
-        <label class="chip"><input type="checkbox" id="hide-en"> 🙈 Hide English</label></div>
+        <label class="chip"><input type="checkbox" id="hide-en"> 🙈 Hide English</label>
+        <button class="btn ghost" data-flash="all">🎴 Flashcards: all lists</button></div>
       <div id="wsets">${S.map((s, i) => `<button class="chip" data-go="${i}">${esc(s.title)}</button>`).join('')}</div>
     </div>
     ${S.map((s, i) => `<section class="wsec" id="ws-${i}">
-      <div class="wsec-head"><h2>${esc(s.title)} <span class="count">${s.rows.length} words</span></h2>
-        <div class="wsec-btns"><button class="btn ghost" data-quiz="${i}">🎲 Quiz me</button>${s.bank ? `<a class="btn ghost vault-only" href="#/vocab/${s.bank}">📚 Vocabulary Bank</a>` : ''}</div></div>
+      <div class="wsec-head"><h2>${esc(s.title)} <span class="count">${countText(s)}</span></h2>
+        <div class="wsec-btns"><button class="btn ghost" data-flash="${i}">🎴 Flashcards</button><button class="btn ghost" data-quiz="${i}">🎲 Quiz me</button>${s.bank ? `<a class="btn ghost vault-only" href="#/vocab/${s.bank}">📚 Vocabulary Bank</a>` : ''}</div></div>
       <div class="wquiz" id="wq-${i}"></div>${wordGrid(s.rows, topic)}</section>`).join('')}
     <p class="muted" id="wnone" hidden>No words match.</p>`;
   pane.querySelector('#hide-en').onchange = e => pane.classList.toggle('hide-en', e.target.checked);
@@ -626,8 +637,11 @@ function wordsPane(pane, w) {
     pane.querySelector('#wnone').hidden = any;
   };
   pane.onclick = e => {
-    const go = e.target.closest('[data-go]'), qz = e.target.closest('[data-quiz]'), card = e.target.closest('.wcard');
-    if (go) document.getElementById('ws-' + go.dataset.go).scrollIntoView({ behavior: 'smooth' });
+    const go = e.target.closest('[data-go]'), qz = e.target.closest('[data-quiz]'), card = e.target.closest('.wcard'), fl = e.target.closest('[data-flash]');
+    if (fl) {
+      const all = fl.dataset.flash === 'all', s = S[+fl.dataset.flash];
+      flashcards(all ? `Week ${w.week} words` : `Week ${w.week} › ${s.title}`, (all ? S.flatMap(x => x.rows) : s.rows).map(rowCard), refresh);
+    } else if (go) document.getElementById('ws-' + go.dataset.go).scrollIntoView({ behavior: 'smooth' });
     else if (qz) wordQuiz(document.getElementById('wq-' + qz.dataset.quiz), S[+qz.dataset.quiz].rows);
     else if (card && pane.classList.contains('hide-en') && !e.target.closest('button')) card.classList.toggle('peek');
   };
@@ -986,7 +1000,8 @@ async function vocab(id) {
     if (!fb) return;
     e.preventDefault();  // a button inside <summary> would otherwise also open/close the set
     const k = fb.dataset.flash;
-    k === 'all' ? flashcards(f.title, f.sets.flatMap(s => s.words), refresh) : flashcards(`${f.title} › ${f.sets[+k].title}`, f.sets[+k].words, refresh);
+    const cards = (k === 'all' ? f.sets.flatMap(s => s.words) : f.sets[+k].words).map(bankWord);
+    flashcards(k === 'all' ? f.title : `${f.title} › ${f.sets[+k].title}`, cards, refresh);
   };
   document.getElementById('vopen').onclick = e => {
     const open = e.target.textContent === 'Open all';
@@ -1003,9 +1018,9 @@ async function vocab(id) {
 
 // 🎴 Flashcards: up to 20 cards, words that are due first. Tap (or Space) to flip, then "Still learning" / "I know it"
 // (keys 1 / 2, or swipe left / right). Missed cards come back once at the end of the round. Results go to the vault.
-function flashcards(title, words, onDone) {
+function flashcards(title, cards, onDone) {
   const F = (state && state.flash) || {};
-  const pool = words.map(bankWord).filter(b => b && !b.vulgar);
+  const pool = cards.filter(b => b && !b.vulgar);
   const due = pool.filter(b => !F[b.es] || (F[b.es].due || '') <= today());
   const deck = shuffle(due.length ? due : pool).slice(0, 20).map(b => ({ b, again: false }));
   const results = new Map();
@@ -1024,7 +1039,7 @@ function flashcards(title, words, onDone) {
   document.body.appendChild(ov);
   const $ = q => ov.querySelector(q), card = $('.fcard');
   const sideEs = b => `<div class="big">${artWord(b.es)}</div>${sayBtn(b.clip)}`;
-  const sideEn = b => `<div class="big en">${esc(b.en)}</div>${b.other ? `<div class="pills"><span class="pill ${b.kind === 'also' ? 'latam' : 'spain'}">${b.kind === 'also' ? '🌎 also Latin America' : '🇪🇸 Spain'}: ${esc(b.other)}</span></div>` : ''}`;
+  const sideEn = b => `<div class="big en">${esc(b.en)}</div>${b.other ? `<div class="pills"><span class="pill ${b.kind === 'also' ? 'latam' : 'spain'}">${b.kind === 'also' ? '🌎 also Latin America' : '🇪🇸 Spain'}: ${esc(b.other)}</span></div>` : ''}${b.note ? `<div class="pills">${notePills(b.note)}</div>` : ''}`;
   const show = () => {
     const { b } = deck[i];
     flipped = false;
@@ -1058,7 +1073,7 @@ function flashcards(title, words, onDone) {
       <div class="fdone"><div class="big">${knew === r.length ? '🎉' : '💪'} ${knew} / ${r.length}</div><p class="muted">you knew on the first try</p>
       ${still.length ? `<div class="fstill"><b>Still learning</b>${still.map(x => `<div>${esc(x.es)} — <span class="muted">${esc(x.en)}</span></div>`).join('')}</div>` : ''}
       <div class="row" style="justify-content:center"><button class="btn" id="fc-again">Another round</button><button class="btn ghost fc-x">Done</button></div></div>`;
-    $('#fc-again').onclick = () => { close(); flashcards(title, words, onDone); };
+    $('#fc-again').onclick = () => { close(); flashcards(title, cards, onDone); };
     ov.querySelectorAll('.fc-x').forEach(b => b.onclick = close);
     await send({ type: 'flash', set: title, results: r }, PUBLIC ? '' : 'Flashcards saved to Obsidian');
     onDone && onDone();
