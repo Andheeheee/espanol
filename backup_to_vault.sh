@@ -5,7 +5,7 @@ set -eu
 SITE="$HOME/Documents/Spanish/Site"
 DEST="$HOME/Documents/Spanish/Spanish/Site Backup"
 mkdir -p "$DEST/systemd"
-rsync -a --delete --exclude .venv --exclude __pycache__ --exclude 'README.md' "$SITE/" "$DEST/Site/"
+rsync -a --delete --exclude .venv --exclude __pycache__ --exclude .git --exclude public --exclude 'README.md' "$SITE/" "$DEST/Site/"
 cp "$HOME/.config/systemd/user/spanish-site.service" "$HOME/.config/systemd/user/spanish-site-backup.service" \
    "$HOME/.config/systemd/user/spanish-site-backup.timer" "$DEST/systemd/"
 cat > "$DEST/README.md" <<EOF
