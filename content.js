@@ -3955,6 +3955,372 @@ window.COURSE = {
        "street snack",
        "",
        "el antojito"
+      ],
+      [
+       "los tacos de canasta",
+       "basket tacos (steamed)",
+       "",
+       "los tacos de canasta"
+      ],
+      [
+       "los tacos de suadero",
+       "tacos of thin-cut beef",
+       "💡 Mexico City",
+       "los tacos de suadero"
+      ],
+      [
+       "los tacos de lengua",
+       "beef tongue tacos",
+       "",
+       "los tacos de lengua"
+      ],
+      [
+       "la carne asada",
+       "grilled beef",
+       "",
+       "la carne asada"
+      ],
+      [
+       "la arrachera",
+       "skirt steak",
+       "",
+       "la arrachera"
+      ],
+      [
+       "la cochinita pibil",
+       "achiote slow-roasted pork",
+       "💡 Yucatán",
+       "la cochinita pibil"
+      ],
+      [
+       "la tinga",
+       "shredded chicken in chipotle sauce",
+       "",
+       "la tinga"
+      ],
+      [
+       "el chicharrón",
+       "fried pork rind",
+       "",
+       "el chicharrón"
+      ],
+      [
+       "la cecina",
+       "thin salted beef",
+       "",
+       "la cecina"
+      ],
+      [
+       "la machaca",
+       "dried shredded beef",
+       "💡 northern Mexico",
+       "la machaca"
+      ],
+      [
+       "el alambre",
+       "grilled meat with peppers, onion and cheese",
+       "",
+       "el alambre"
+      ],
+      [
+       "el cabrito",
+       "roast kid goat",
+       "💡 Monterrey",
+       "el cabrito"
+      ],
+      [
+       "la carne en su jugo",
+       "beef in its own broth",
+       "💡 Guadalajara",
+       "la carne en su jugo"
+      ],
+      [
+       "el huarache",
+       "long oval masa base with toppings",
+       "",
+       "el huarache"
+      ],
+      [
+       "la chalupa",
+       "small fried tortilla with salsa",
+       "💡 Puebla",
+       "la chalupa"
+      ],
+      [
+       "la memela",
+       "oval masa cake with beans",
+       "💡 Oaxaca, Puebla",
+       "la memela"
+      ],
+      [
+       "el panucho",
+       "bean-stuffed fried tortilla",
+       "💡 Yucatán",
+       "el panucho"
+      ],
+      [
+       "el salbute",
+       "puffy fried tortilla with toppings",
+       "💡 Yucatán",
+       "el salbute"
+      ],
+      [
+       "las enfrijoladas",
+       "tortillas in bean sauce",
+       "",
+       "las enfrijoladas"
+      ],
+      [
+       "las entomatadas",
+       "tortillas in tomato sauce",
+       "",
+       "las entomatadas"
+      ],
+      [
+       "las enmoladas",
+       "tortillas in mole",
+       "",
+       "las enmoladas"
+      ],
+      [
+       "las enchiladas suizas",
+       "enchiladas in creamy green sauce",
+       "",
+       "las enchiladas suizas"
+      ],
+      [
+       "la empanada",
+       "turnover",
+       "",
+       "la empanada"
+      ],
+      [
+       "el pambazo",
+       "chile-dipped sandwich with potato and chorizo",
+       "",
+       "el pambazo"
+      ],
+      [
+       "la guajolota",
+       "tamale inside a bread roll",
+       "💡 Mexico City",
+       "la guajolota"
+      ],
+      [
+       "la torta ahogada",
+       "\"drowned\" sandwich in salsa",
+       "💡 Guadalajara",
+       "la torta ahogada"
+      ],
+      [
+       "los molletes",
+       "open roll with beans and melted cheese",
+       "",
+       "los molletes"
+      ],
+      [
+       "los huevos rancheros",
+       "fried eggs on tortillas with salsa",
+       "",
+       "los huevos rancheros"
+      ],
+      [
+       "los huevos a la mexicana",
+       "scrambled eggs with tomato, onion and chile",
+       "",
+       "los huevos a la mexicana"
+      ],
+      [
+       "los huevos divorciados",
+       "two eggs with red and green salsa",
+       "",
+       "los huevos divorciados"
+      ],
+      [
+       "los huevos motuleños",
+       "eggs on tortillas with beans, ham and peas",
+       "💡 Yucatán",
+       "los huevos motuleños"
+      ],
+      [
+       "el menudo",
+       "tripe soup",
+       "💡 Mexico City says la pancita",
+       "el menudo"
+      ],
+      [
+       "el caldo de pollo",
+       "chicken soup",
+       "",
+       "el caldo de pollo"
+      ],
+      [
+       "el caldo de res",
+       "beef and vegetable soup",
+       "",
+       "el caldo de res"
+      ],
+      [
+       "el caldo tlalpeño",
+       "chicken soup with chipotle",
+       "",
+       "el caldo tlalpeño"
+      ],
+      [
+       "la sopa de lima",
+       "lime soup",
+       "💡 Yucatán",
+       "la sopa de lima"
+      ],
+      [
+       "la sopa de fideo",
+       "noodle soup",
+       "",
+       "la sopa de fideo"
+      ],
+      [
+       "el consomé",
+       "broth (served with birria, barbacoa)",
+       "",
+       "el consomé"
+      ],
+      [
+       "el mole de olla",
+       "beef and vegetable stew",
+       "",
+       "el mole de olla"
+      ],
+      [
+       "el arroz rojo",
+       "Mexican red rice",
+       "💡 also arroz a la mexicana",
+       "el arroz rojo"
+      ],
+      [
+       "los frijoles charros",
+       "cowboy beans with pork",
+       "",
+       "los frijoles charros"
+      ],
+      [
+       "los frijoles de la olla",
+       "whole pot beans",
+       "",
+       "los frijoles de la olla"
+      ],
+      [
+       "el aguachile",
+       "raw shrimp in lime and chile",
+       "💡 Sinaloa",
+       "el aguachile"
+      ],
+      [
+       "el coctel de camarón",
+       "shrimp cocktail",
+       "",
+       "el coctel de camarón"
+      ],
+      [
+       "el pescado a la veracruzana",
+       "fish with tomato, olives and capers",
+       "",
+       "el pescado a la veracruzana"
+      ],
+      [
+       "el pescado zarandeado",
+       "grilled butterflied fish",
+       "💡 Nayarit, Sinaloa",
+       "el pescado zarandeado"
+      ],
+      [
+       "los camarones a la diabla",
+       "shrimp in spicy red sauce",
+       "",
+       "los camarones a la diabla"
+      ],
+      [
+       "los chiles en nogada",
+       "stuffed chiles in walnut sauce",
+       "💡 Puebla, in September",
+       "los chiles en nogada"
+      ],
+      [
+       "las rajas con crema",
+       "poblano strips in cream",
+       "",
+       "las rajas con crema"
+      ],
+      [
+       "el pipián",
+       "pumpkin-seed sauce",
+       "",
+       "el pipián"
+      ],
+      [
+       "el adobo",
+       "chile marinade",
+       "",
+       "el adobo"
+      ],
+      [
+       "el queso fundido",
+       "melted cheese (often with chorizo)",
+       "",
+       "el queso fundido"
+      ],
+      [
+       "la ensalada de nopales",
+       "cactus salad",
+       "",
+       "la ensalada de nopales"
+      ],
+      [
+       "la salsa verde",
+       "green salsa",
+       "",
+       "la salsa verde"
+      ],
+      [
+       "la salsa roja",
+       "red salsa",
+       "",
+       "la salsa roja"
+      ],
+      [
+       "la salsa macha",
+       "chile oil salsa",
+       "",
+       "la salsa macha"
+      ],
+      [
+       "los chicharrones de harina",
+       "wheat crisps with hot sauce",
+       "",
+       "los chicharrones de harina"
+      ],
+      [
+       "los tostilocos",
+       "loaded tortilla-chip snack",
+       "",
+       "los tostilocos"
+      ],
+      [
+       "la fruta con chile",
+       "fruit with lime and chile powder",
+       "",
+       "la fruta con chile"
+      ],
+      [
+       "el chamoy",
+       "salty-sweet chile sauce",
+       "",
+       "el chamoy"
+      ],
+      [
+       "la chamoyada",
+       "mango slush with chamoy",
+       "💡 also la mangonada",
+       "la chamoyada"
       ]
      ]
     },
@@ -30384,7 +30750,68 @@ window.COURSE = {
    "el apoyo en casa": "audio/f8a43c78c21f.mp3",
    "firmar": "audio/8c2ef45a9469.mp3",
    "la firma": "audio/7d700c0d755b.mp3",
-   "el aviso": "audio/6ca36c0d36b3.mp3"
+   "el aviso": "audio/6ca36c0d36b3.mp3",
+   "los tacos de canasta": "audio/0dbbfa67b47c.mp3",
+   "los tacos de suadero": "audio/3887846eb00a.mp3",
+   "los tacos de lengua": "audio/b87bbe848721.mp3",
+   "la carne asada": "audio/82503ed011d8.mp3",
+   "la arrachera": "audio/eecb07b62588.mp3",
+   "la cochinita pibil": "audio/ac02ec6418cd.mp3",
+   "la tinga": "audio/cc1bfdf91309.mp3",
+   "el chicharrón": "audio/7e3776c3eeea.mp3",
+   "la cecina": "audio/ee21e62b8066.mp3",
+   "la machaca": "audio/e690f62b5a16.mp3",
+   "el alambre": "audio/1aa698d36eec.mp3",
+   "el cabrito": "audio/f1f6ede21340.mp3",
+   "la carne en su jugo": "audio/87c3c2c4564d.mp3",
+   "el huarache": "audio/dd04693fba35.mp3",
+   "la chalupa": "audio/b46b212beecf.mp3",
+   "la memela": "audio/b766670b9b79.mp3",
+   "el panucho": "audio/23032ebca064.mp3",
+   "el salbute": "audio/dcaa7fb2929c.mp3",
+   "las enfrijoladas": "audio/01e07f7124f3.mp3",
+   "las entomatadas": "audio/08445f8cd228.mp3",
+   "las enmoladas": "audio/8eb3bf36f9b7.mp3",
+   "las enchiladas suizas": "audio/3f2527f5db9d.mp3",
+   "la empanada": "audio/3b70d4cb7791.mp3",
+   "el pambazo": "audio/ace0d6fe1305.mp3",
+   "la guajolota": "audio/ccb8e0b534d1.mp3",
+   "la torta ahogada": "audio/c56d4dde7013.mp3",
+   "los molletes": "audio/dc79a9526a35.mp3",
+   "los huevos rancheros": "audio/833fe533284d.mp3",
+   "los huevos a la mexicana": "audio/c8b41b97d9f0.mp3",
+   "los huevos divorciados": "audio/a7cfc8a8acaa.mp3",
+   "los huevos motuleños": "audio/459003d1c876.mp3",
+   "el menudo": "audio/a51c8cc8fe15.mp3",
+   "el caldo de pollo": "audio/2e2a4b2ce9eb.mp3",
+   "el caldo de res": "audio/13fe26d7bdd8.mp3",
+   "el caldo tlalpeño": "audio/0021c6ea8814.mp3",
+   "la sopa de lima": "audio/538e151cb4c1.mp3",
+   "la sopa de fideo": "audio/1e84660a390f.mp3",
+   "el consomé": "audio/498047d3365d.mp3",
+   "el mole de olla": "audio/f0d08b149c99.mp3",
+   "el arroz rojo": "audio/f3044aeeed02.mp3",
+   "los frijoles charros": "audio/69c4282895f4.mp3",
+   "los frijoles de la olla": "audio/be2a3de7191e.mp3",
+   "el aguachile": "audio/770e4a93e3dd.mp3",
+   "el coctel de camarón": "audio/068452284e13.mp3",
+   "el pescado a la veracruzana": "audio/84c2eaf418ed.mp3",
+   "el pescado zarandeado": "audio/3ebd9dec2ae7.mp3",
+   "los camarones a la diabla": "audio/1db595fc3906.mp3",
+   "los chiles en nogada": "audio/d02d931f9b39.mp3",
+   "las rajas con crema": "audio/f280892c9f1b.mp3",
+   "el pipián": "audio/0969ca535735.mp3",
+   "el adobo": "audio/688b342a3205.mp3",
+   "el queso fundido": "audio/b20fb10f80d6.mp3",
+   "la ensalada de nopales": "audio/eb0fe5e7fa21.mp3",
+   "la salsa verde": "audio/f579bb4956b6.mp3",
+   "la salsa roja": "audio/06b7fbf9e2bd.mp3",
+   "la salsa macha": "audio/e02c324bed97.mp3",
+   "los chicharrones de harina": "audio/4d92b1ee8175.mp3",
+   "los tostilocos": "audio/00b324e75bfc.mp3",
+   "la fruta con chile": "audio/cd06218080ed.mp3",
+   "el chamoy": "audio/df009445b855.mp3",
+   "la chamoyada": "audio/85dad724f6c1.mp3"
   },
   "trimmed": [
    "audio/042dc4512fa3.mp3",
