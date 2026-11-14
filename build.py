@@ -3784,6 +3784,8 @@ to students who need it, within a few months.
   plus the "Not Latin American — skip" list in `Quizlet/Quizlet Index.md`, so Spain-only words show the Latin American word instead.
   Its 🔊 uses a Latin American browser voice when the device has one; otherwise `server.py` `/api/say` makes an es-MX clip
   (same Dalia voice as the course audio) the first time a word is played and caches it in `Media/audio/say/`.
+  Each set is a drop-down of word cards with 🎴 Flashcards: answers go to `flash` in `Progress/progress.json` (box 0–5 →
+  comes back after 0/1/3/7/14/30 days; box ≥ 2 shows as ✅ known) and each round is logged in `Progress/Flashcard Log.md`.
 - **Public copy** — `python3 publish.py` builds a read-only copy (no saving, no Vocabulary Bank: that's Quizlet's content)
   into `Site/public/` and pushes it to the repo's `gh-pages` branch for GitHub Pages. The tailnet site stays the main one.
 
