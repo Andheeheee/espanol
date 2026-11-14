@@ -1697,163 +1697,190 @@ window.COURSE = {
        "hola",
        "hi",
        "",
-       "hola"
+       "hola",
+       ""
       ],
       [
        "buenos días",
        "good morning",
        "",
-       "buenos días"
+       "buenos días",
+       ""
       ],
       [
        "buenas tardes",
        "good afternoon",
        "💡 from about noon until dark",
-       "buenas tardes"
+       "buenas tardes",
+       ""
       ],
       [
        "buenas noches",
        "good evening / good night",
        "",
-       "buenas noches"
+       "buenas noches",
+       ""
       ],
       [
        "¿Cómo estás?",
        "How are you? (tú)",
        "",
-       "¿Cómo estás?"
+       "¿Cómo estás?",
+       ""
       ],
       [
        "¿Cómo está usted?",
        "How are you? (usted)",
        "",
-       "¿Cómo está usted?"
+       "¿Cómo está usted?",
+       ""
       ],
       [
        "¿Qué tal?",
        "How's it going?",
        "",
-       "¿Qué tal?"
+       "¿Qué tal?",
+       ""
       ],
       [
        "¿Qué onda?",
        "What's up?",
        "💡 casual, Mexico",
-       "¿Qué onda?"
+       "¿Qué onda?",
+       ""
       ],
       [
        "bien, gracias",
        "fine, thanks",
        "",
-       "bien, gracias"
+       "bien, gracias",
+       ""
       ],
       [
        "muy bien",
        "very well",
        "",
-       "muy bien"
+       "muy bien",
+       ""
       ],
       [
        "más o menos",
        "so-so",
        "",
-       "más o menos"
+       "más o menos",
+       ""
       ],
       [
        "mal",
        "bad, not well",
        "",
-       "mal"
+       "mal",
+       ""
       ],
       [
        "¿Y tú?",
        "And you?",
        "",
-       "¿Y tú?"
+       "¿Y tú?",
+       ""
       ],
       [
        "¿Cómo te llamas?",
        "What's your name?",
        "",
-       "¿Cómo te llamas?"
+       "¿Cómo te llamas?",
+       ""
       ],
       [
        "me llamo…",
        "my name is…",
        "",
-       "me llamo"
+       "me llamo",
+       ""
       ],
       [
        "¿De dónde eres?",
        "Where are you from?",
        "",
-       "¿De dónde eres?"
+       "¿De dónde eres?",
+       ""
       ],
       [
        "soy de…",
        "I'm from…",
        "",
-       "soy de"
+       "soy de",
+       ""
       ],
       [
        "mucho gusto",
        "nice to meet you",
        "",
-       "mucho gusto"
+       "mucho gusto",
+       ""
       ],
       [
        "encantado, encantada",
        "delighted (to meet you)",
        "",
-       "encantado, encantada"
+       "encantado, encantada",
+       ""
       ],
       [
        "igualmente",
        "likewise",
        "",
-       "igualmente"
+       "igualmente",
+       ""
       ],
       [
        "bienvenido, bienvenida",
        "welcome",
        "",
-       "bienvenido, bienvenida"
+       "bienvenido, bienvenida",
+       ""
       ],
       [
        "adiós",
        "goodbye",
        "",
-       "adiós"
+       "adiós",
+       ""
       ],
       [
        "hasta luego",
        "see you later",
        "",
-       "hasta luego"
+       "hasta luego",
+       ""
       ],
       [
        "hasta mañana",
        "see you tomorrow",
        "",
-       "hasta mañana"
+       "hasta mañana",
+       ""
       ],
       [
        "nos vemos",
        "see you",
        "",
-       "nos vemos"
+       "nos vemos",
+       ""
       ],
       [
        "cuídate",
        "take care",
        "",
-       "cuídate"
+       "cuídate",
+       ""
       ],
       [
        "que te vaya bien",
        "hope it goes well for you",
        "💡 a very Mexican goodbye",
-       "que te vaya bien"
+       "que te vaya bien",
+       ""
       ]
      ]
     },
@@ -1865,103 +1892,120 @@ window.COURSE = {
        "por favor",
        "please",
        "",
-       "por favor"
+       "por favor",
+       ""
       ],
       [
        "gracias",
        "thank you",
        "",
-       "gracias"
+       "gracias",
+       ""
       ],
       [
        "muchas gracias",
        "thank you very much",
        "",
-       "muchas gracias"
+       "muchas gracias",
+       ""
       ],
       [
        "de nada",
        "you're welcome",
        "",
-       "de nada"
+       "de nada",
+       ""
       ],
       [
        "no hay de qué",
        "don't mention it",
        "",
-       "no hay de qué"
+       "no hay de qué",
+       ""
       ],
       [
        "con permiso",
        "excuse me (to get past, to leave)",
        "",
-       "con permiso"
+       "con permiso",
+       ""
       ],
       [
        "perdón",
        "sorry, pardon",
        "",
-       "perdón"
+       "perdón",
+       ""
       ],
       [
        "disculpe",
        "excuse me (to get attention, usted)",
        "",
-       "disculpe"
+       "disculpe",
+       ""
       ],
       [
        "lo siento",
        "I'm sorry",
        "",
-       "lo siento"
+       "lo siento",
+       ""
       ],
       [
        "¿Mande?",
        "Pardon? / Yes?",
        "💡 Mexico — how you answer when someone calls you",
-       "¿Mande?"
+       "¿Mande?",
+       ""
       ],
       [
        "¡Salud!",
        "Bless you! / Cheers!",
        "",
-       "¡Salud!"
+       "¡Salud!",
+       ""
       ],
       [
        "¡Buen provecho!",
        "Enjoy your meal!",
        "💡 said to people eating, even strangers",
-       "¡Buen provecho!"
+       "¡Buen provecho!",
+       ""
       ],
       [
        "sí",
        "yes",
        "",
-       "sí"
+       "sí",
+       ""
       ],
       [
        "no",
        "no",
        "",
-       "no"
+       "no",
+       ""
       ],
       [
        "claro",
        "of course",
        "",
-       "claro"
+       "claro",
+       ""
       ],
       [
        "¡Cómo no!",
        "Sure! Of course!",
        "",
-       "¡Cómo no!"
+       "¡Cómo no!",
+       ""
       ],
       [
        "ándale pues",
        "OK then, go ahead",
        "💡 Mexico",
-       "ándale pues"
+       "ándale pues",
+       ""
       ]
      ]
     },
@@ -1973,247 +2017,288 @@ window.COURSE = {
        "cero",
        "0",
        "",
-       "cero"
+       "cero",
+       ""
       ],
       [
        "uno",
        "1",
        "",
-       "uno"
+       "uno",
+       ""
       ],
       [
        "dos",
        "2",
        "",
-       "dos"
+       "dos",
+       ""
       ],
       [
        "tres",
        "3",
        "",
-       "tres"
+       "tres",
+       ""
       ],
       [
        "cuatro",
        "4",
        "",
-       "cuatro"
+       "cuatro",
+       ""
       ],
       [
        "cinco",
        "5",
        "",
-       "cinco"
+       "cinco",
+       ""
       ],
       [
        "seis",
        "6",
        "",
-       "seis"
+       "seis",
+       ""
       ],
       [
        "siete",
        "7",
        "",
-       "siete"
+       "siete",
+       ""
       ],
       [
        "ocho",
        "8",
        "",
-       "ocho"
+       "ocho",
+       ""
       ],
       [
        "nueve",
        "9",
        "",
-       "nueve"
+       "nueve",
+       ""
       ],
       [
        "diez",
        "10",
        "",
-       "diez"
+       "diez",
+       ""
       ],
       [
        "once",
        "11",
        "",
-       "once"
+       "once",
+       ""
       ],
       [
        "doce",
        "12",
        "",
-       "doce"
+       "doce",
+       ""
       ],
       [
        "trece",
        "13",
        "",
-       "trece"
+       "trece",
+       ""
       ],
       [
        "catorce",
        "14",
        "",
-       "catorce"
+       "catorce",
+       ""
       ],
       [
        "quince",
        "15",
        "",
-       "quince"
+       "quince",
+       ""
       ],
       [
        "dieciséis",
        "16",
        "",
-       "dieciséis"
+       "dieciséis",
+       ""
       ],
       [
        "diecisiete",
        "17",
        "",
-       "diecisiete"
+       "diecisiete",
+       ""
       ],
       [
        "dieciocho",
        "18",
        "",
-       "dieciocho"
+       "dieciocho",
+       ""
       ],
       [
        "diecinueve",
        "19",
        "",
-       "diecinueve"
+       "diecinueve",
+       ""
       ],
       [
        "veinte",
        "20",
        "",
-       "veinte"
+       "veinte",
+       ""
       ],
       [
        "veintiuno",
        "21",
        "",
-       "veintiuno"
+       "veintiuno",
+       ""
       ],
       [
        "veintidós",
        "22",
        "",
-       "veintidós"
+       "veintidós",
+       ""
       ],
       [
        "treinta",
        "30",
        "",
-       "treinta"
+       "treinta",
+       ""
       ],
       [
        "treinta y uno",
        "31",
        "💡 from 31 up, numbers are written as three words",
-       "treinta y uno"
+       "treinta y uno",
+       ""
       ],
       [
        "cuarenta",
        "40",
        "",
-       "cuarenta"
+       "cuarenta",
+       ""
       ],
       [
        "cincuenta",
        "50",
        "",
-       "cincuenta"
+       "cincuenta",
+       ""
       ],
       [
        "sesenta",
        "60",
        "",
-       "sesenta"
+       "sesenta",
+       ""
       ],
       [
        "setenta",
        "70",
        "",
-       "setenta"
+       "setenta",
+       ""
       ],
       [
        "ochenta",
        "80",
        "",
-       "ochenta"
+       "ochenta",
+       ""
       ],
       [
        "noventa",
        "90",
        "",
-       "noventa"
+       "noventa",
+       ""
       ],
       [
        "cien",
        "100",
        "",
-       "cien"
+       "cien",
+       ""
       ],
       [
        "ciento uno",
        "101",
        "",
-       "ciento uno"
+       "ciento uno",
+       ""
       ],
       [
        "doscientos",
        "200",
        "",
-       "doscientos"
+       "doscientos",
+       ""
       ],
       [
        "trescientos",
        "300",
        "",
-       "trescientos"
+       "trescientos",
+       ""
       ],
       [
        "quinientos",
        "500",
        "",
-       "quinientos"
+       "quinientos",
+       ""
       ],
       [
        "setecientos",
        "700",
        "",
-       "setecientos"
+       "setecientos",
+       ""
       ],
       [
        "novecientos",
        "900",
        "",
-       "novecientos"
+       "novecientos",
+       ""
       ],
       [
        "mil",
        "1,000",
        "",
-       "mil"
+       "mil",
+       ""
       ],
       [
        "dos mil",
        "2,000",
        "",
-       "dos mil"
+       "dos mil",
+       ""
       ],
       [
        "un millón",
        "1,000,000",
        "",
-       "un millón"
+       "un millón",
+       ""
       ]
      ]
     },
@@ -2225,181 +2310,211 @@ window.COURSE = {
        "lunes",
        "Monday",
        "💡 days and months are lowercase",
-       "lunes"
+       "lunes",
+       ""
       ],
       [
        "martes",
        "Tuesday",
        "",
-       "martes"
+       "martes",
+       ""
       ],
       [
        "miércoles",
        "Wednesday",
        "",
-       "miércoles"
+       "miércoles",
+       ""
       ],
       [
        "jueves",
        "Thursday",
        "",
-       "jueves"
+       "jueves",
+       ""
       ],
       [
        "viernes",
        "Friday",
        "",
-       "viernes"
+       "viernes",
+       ""
       ],
       [
        "sábado",
        "Saturday",
        "",
-       "sábado"
+       "sábado",
+       ""
       ],
       [
        "domingo",
        "Sunday",
        "",
-       "domingo"
+       "domingo",
+       ""
       ],
       [
        "enero",
        "January",
        "",
-       "enero"
+       "enero",
+       ""
       ],
       [
        "febrero",
        "February",
        "",
-       "febrero"
+       "febrero",
+       ""
       ],
       [
        "marzo",
        "March",
        "",
-       "marzo"
+       "marzo",
+       ""
       ],
       [
        "abril",
        "April",
        "",
-       "abril"
+       "abril",
+       ""
       ],
       [
        "mayo",
        "May",
        "",
-       "mayo"
+       "mayo",
+       ""
       ],
       [
        "junio",
        "June",
        "",
-       "junio"
+       "junio",
+       ""
       ],
       [
        "julio",
        "July",
        "",
-       "julio"
+       "julio",
+       ""
       ],
       [
        "agosto",
        "August",
        "",
-       "agosto"
+       "agosto",
+       ""
       ],
       [
        "septiembre",
        "September",
        "",
-       "septiembre"
+       "septiembre",
+       ""
       ],
       [
        "octubre",
        "October",
        "",
-       "octubre"
+       "octubre",
+       ""
       ],
       [
        "noviembre",
        "November",
        "",
-       "noviembre"
+       "noviembre",
+       ""
       ],
       [
        "diciembre",
        "December",
        "",
-       "diciembre"
+       "diciembre",
+       ""
       ],
       [
        "el día",
        "day",
        "",
-       "el día"
+       "el día",
+       ""
       ],
       [
        "la semana",
        "week",
        "",
-       "la semana"
+       "la semana",
+       ""
       ],
       [
        "el fin de semana",
        "weekend",
        "",
-       "el fin de semana"
+       "el fin de semana",
+       ""
       ],
       [
        "el mes",
        "month",
        "",
-       "el mes"
+       "el mes",
+       ""
       ],
       [
        "el año",
        "year",
        "",
-       "el año"
+       "el año",
+       ""
       ],
       [
        "hoy",
        "today",
        "",
-       "hoy"
+       "hoy",
+       ""
       ],
       [
        "mañana",
        "tomorrow",
        "",
-       "mañana"
+       "mañana",
+       ""
       ],
       [
        "ayer",
        "yesterday",
        "",
-       "ayer"
+       "ayer",
+       ""
       ],
       [
        "¿Qué día es hoy?",
        "What day is it today?",
        "",
-       "¿Qué día es hoy?"
+       "¿Qué día es hoy?",
+       ""
       ],
       [
        "¿Qué fecha es hoy?",
        "What's the date today?",
        "",
-       "¿Qué fecha es hoy?"
+       "¿Qué fecha es hoy?",
+       ""
       ],
       [
        "el primero de enero",
        "January 1st",
        "💡 only the 1st uses primero; then el dos, el tres…",
-       "el primero de enero"
+       "el primero de enero",
+       ""
       ]
      ]
     }
@@ -2838,307 +2953,358 @@ window.COURSE = {
        "la fruta",
        "fruit",
        "",
-       "la fruta"
+       "la fruta",
+       "Everyday fruit"
       ],
       [
        "la manzana",
        "apple",
        "",
-       "la manzana"
+       "la manzana",
+       "Everyday fruit"
       ],
       [
        "la pera",
        "pear",
        "",
-       "la pera"
+       "la pera",
+       "Everyday fruit"
       ],
       [
        "la naranja",
        "orange",
        "",
-       "la naranja"
+       "la naranja",
+       "Everyday fruit"
       ],
       [
        "la mandarina",
        "tangerine",
        "",
-       "la mandarina"
+       "la mandarina",
+       "Everyday fruit"
       ],
       [
        "la toronja",
        "grapefruit",
        "🌎 pomelo (Arg, Uru) · 🇪🇸 pomelo",
-       "la toronja"
+       "la toronja",
+       "Everyday fruit"
       ],
       [
        "el limón",
        "lime (the small green one)",
        "💡 in Mexico limón is the green lime everyone squeezes on tacos",
-       "el limón"
+       "el limón",
+       "Everyday fruit"
       ],
       [
        "el limón amarillo",
        "lemon",
        "",
-       "el limón amarillo"
+       "el limón amarillo",
+       "Everyday fruit"
       ],
       [
        "la lima",
        "sweet lime",
        "💡 a mild, sweet citrus — not the same as limón",
-       "la lima"
+       "la lima",
+       "Everyday fruit"
       ],
       [
        "el plátano",
        "banana",
        "🌎 banana (Arg), banano (Col), guineo (Caribbean)",
-       "el plátano"
+       "el plátano",
+       "Everyday fruit"
       ],
       [
        "el plátano macho",
        "plantain",
        "🌎 plátano (Caribbean, Col)",
-       "el plátano macho"
+       "el plátano macho",
+       "Everyday fruit"
       ],
       [
        "la fresa",
        "strawberry",
        "🌎 frutilla (Arg, Chile)",
-       "la fresa"
+       "la fresa",
+       "Everyday fruit"
       ],
       [
        "la uva",
        "grape",
        "",
-       "la uva"
+       "la uva",
+       "Everyday fruit"
       ],
       [
        "la sandía",
        "watermelon",
        "🌎 patilla (Ven, Col)",
-       "la sandía"
+       "la sandía",
+       "Everyday fruit"
       ],
       [
        "el melón",
        "cantaloupe, melon",
        "",
-       "el melón"
+       "el melón",
+       "Everyday fruit"
       ],
       [
        "la piña",
        "pineapple",
        "🌎 ananá (Arg, Uru)",
-       "la piña"
+       "la piña",
+       "Everyday fruit"
       ],
       [
        "el mango",
        "mango",
        "",
-       "el mango"
+       "el mango",
+       "Everyday fruit"
       ],
       [
        "la papaya",
        "papaya",
        "🌎 lechosa (Ven), fruta bomba (Cuba)",
-       "la papaya"
+       "la papaya",
+       "Everyday fruit"
       ],
       [
        "el durazno",
        "peach",
        "🇪🇸 melocotón",
-       "el durazno"
+       "el durazno",
+       "Everyday fruit"
       ],
       [
        "el chabacano",
        "apricot",
        "🌎 damasco (Arg, Chile) · 🇪🇸 albaricoque",
-       "el chabacano"
+       "el chabacano",
+       "Everyday fruit"
       ],
       [
        "la ciruela",
        "plum",
        "",
-       "la ciruela"
+       "la ciruela",
+       "Everyday fruit"
       ],
       [
        "la cereza",
        "cherry",
        "",
-       "la cereza"
+       "la cereza",
+       "Everyday fruit"
       ],
       [
        "la frambuesa",
        "raspberry",
        "",
-       "la frambuesa"
+       "la frambuesa",
+       "Everyday fruit"
       ],
       [
        "la zarzamora",
        "blackberry",
        "🌎 mora (Col, Central America)",
-       "la zarzamora"
+       "la zarzamora",
+       "Everyday fruit"
       ],
       [
        "el arándano",
        "blueberry; cranberry",
        "",
-       "el arándano"
+       "el arándano",
+       "Everyday fruit"
       ],
       [
        "el higo",
        "fig",
        "",
-       "el higo"
+       "el higo",
+       "Everyday fruit"
       ],
       [
        "la granada",
        "pomegranate",
        "",
-       "la granada"
+       "la granada",
+       "Everyday fruit"
       ],
       [
        "el coco",
        "coconut",
        "",
-       "el coco"
+       "el coco",
+       "Everyday fruit"
       ],
       [
        "el kiwi",
        "kiwi",
        "",
-       "el kiwi"
+       "el kiwi",
+       "Everyday fruit"
       ],
       [
        "la guayaba",
        "guava",
        "",
-       "la guayaba"
+       "la guayaba",
+       "Tropical & Mexican favorites"
       ],
       [
        "la tuna",
        "prickly pear (cactus fruit)",
        "🇪🇸 higo chumbo",
-       "la tuna"
+       "la tuna",
+       "Tropical & Mexican favorites"
       ],
       [
        "la pitaya",
        "dragon fruit",
        "🌎 pitahaya",
-       "la pitaya"
+       "la pitaya",
+       "Tropical & Mexican favorites"
       ],
       [
        "el mamey",
        "mamey sapote",
        "",
-       "el mamey"
+       "el mamey",
+       "Tropical & Mexican favorites"
       ],
       [
        "el zapote negro",
        "black sapote",
        "",
-       "el zapote negro"
+       "el zapote negro",
+       "Tropical & Mexican favorites"
       ],
       [
        "el chicozapote",
        "sapodilla",
        "",
-       "el chicozapote"
+       "el chicozapote",
+       "Tropical & Mexican favorites"
       ],
       [
        "la guanábana",
        "soursop",
        "",
-       "la guanábana"
+       "la guanábana",
+       "Tropical & Mexican favorites"
       ],
       [
        "la chirimoya",
        "cherimoya, custard apple",
        "",
-       "la chirimoya"
+       "la chirimoya",
+       "Tropical & Mexican favorites"
       ],
       [
        "el tamarindo",
        "tamarind",
        "",
-       "el tamarindo"
+       "el tamarindo",
+       "Tropical & Mexican favorites"
       ],
       [
        "el maracuyá",
        "passion fruit",
        "🌎 parchita (Ven), fruta de la pasión",
-       "el maracuyá"
+       "el maracuyá",
+       "Tropical & Mexican favorites"
       ],
       [
        "el lichi",
        "lychee",
        "",
-       "el lichi"
+       "el lichi",
+       "Tropical & Mexican favorites"
       ],
       [
        "la carambola",
        "starfruit",
        "",
-       "la carambola"
+       "la carambola",
+       "Tropical & Mexican favorites"
       ],
       [
        "el nanche",
        "nance (small yellow fruit)",
        "",
-       "el nanche"
+       "el nanche",
+       "Tropical & Mexican favorites"
       ],
       [
        "el tejocote",
        "Mexican hawthorn",
        "💡 goes in ponche at Christmas",
-       "el tejocote"
+       "el tejocote",
+       "Tropical & Mexican favorites"
       ],
       [
        "la jícama",
        "jicama",
        "💡 eaten raw with lime and chile",
-       "la jícama"
+       "la jícama",
+       "Tropical & Mexican favorites"
       ],
       [
        "el lulo",
        "lulo, naranjilla",
        "🌎 Colombia, Ecuador — not common in Mexico",
-       "el lulo"
+       "el lulo",
+       "From other countries"
       ],
       [
        "la uchuva",
        "goldenberry",
        "🌎 Colombia — not common in Mexico",
-       "la uchuva"
+       "la uchuva",
+       "From other countries"
       ],
       [
        "el marañón",
        "cashew fruit",
        "🌎 Central America, Venezuela",
-       "el marañón"
+       "el marañón",
+       "From other countries"
       ],
       [
        "el mamoncillo",
        "Spanish lime",
        "🌎 Caribbean, Colombia — not common in Mexico",
-       "el mamoncillo"
+       "el mamoncillo",
+       "From other countries"
       ],
       [
        "maduro, madura",
        "ripe",
        "",
-       "maduro, madura"
+       "maduro, madura",
+       "Talking about fruit"
       ],
       [
        "verde",
        "unripe; green",
        "",
-       "verde"
+       "verde",
+       "Talking about fruit"
       ],
       [
        "pelar",
        "to peel",
        "",
-       "pelar"
+       "pelar",
+       "Talking about fruit"
       ]
      ]
     },
@@ -3150,265 +3316,309 @@ window.COURSE = {
        "la verdura",
        "vegetables",
        "💡 also las legumbres",
-       "la verdura"
+       "la verdura",
+       ""
       ],
       [
        "el jitomate",
        "tomato (red)",
        "💡 Mexico; the rest of Latin America and 🇪🇸 Spain say tomate",
-       "el jitomate"
+       "el jitomate",
+       ""
       ],
       [
        "el tomate verde",
        "tomatillo",
        "💡 the green one for salsa verde; also just tomate in Mexico",
-       "el tomate verde"
+       "el tomate verde",
+       ""
       ],
       [
        "la cebolla",
        "onion",
        "",
-       "la cebolla"
+       "la cebolla",
+       ""
       ],
       [
        "el ajo",
        "garlic",
        "",
-       "el ajo"
+       "el ajo",
+       ""
       ],
       [
        "el chile",
        "chili pepper",
        "🌎 ají (South America, Caribbean) · 🇪🇸 guindilla",
-       "el chile"
+       "el chile",
+       ""
       ],
       [
        "el chile jalapeño",
        "jalapeño",
        "",
-       "el chile jalapeño"
+       "el chile jalapeño",
+       ""
       ],
       [
        "el chile serrano",
        "serrano pepper",
        "",
-       "el chile serrano"
+       "el chile serrano",
+       ""
       ],
       [
        "el chile poblano",
        "poblano pepper",
        "",
-       "el chile poblano"
+       "el chile poblano",
+       ""
       ],
       [
        "el chile chipotle",
        "chipotle (smoked jalapeño)",
        "",
-       "el chile chipotle"
+       "el chile chipotle",
+       ""
       ],
       [
        "el pimiento morrón",
        "bell pepper",
        "🌎 pimentón (Col, Ven), ají (Arg)",
-       "el pimiento morrón"
+       "el pimiento morrón",
+       ""
       ],
       [
        "la papa",
        "potato",
        "🇪🇸 patata",
-       "la papa"
+       "la papa",
+       ""
       ],
       [
        "el camote",
        "sweet potato",
        "🌎 batata (Arg, Caribbean), boniato (Cuba)",
-       "el camote"
+       "el camote",
+       ""
       ],
       [
        "la zanahoria",
        "carrot",
        "",
-       "la zanahoria"
+       "la zanahoria",
+       ""
       ],
       [
        "la lechuga",
        "lettuce",
        "",
-       "la lechuga"
+       "la lechuga",
+       ""
       ],
       [
        "la espinaca",
        "spinach",
        "",
-       "la espinaca"
+       "la espinaca",
+       ""
       ],
       [
        "el pepino",
        "cucumber",
        "",
-       "el pepino"
+       "el pepino",
+       ""
       ],
       [
        "la calabaza",
        "pumpkin, squash",
        "",
-       "la calabaza"
+       "la calabaza",
+       ""
       ],
       [
        "la calabacita",
        "zucchini",
        "🌎 zapallito (Arg) · 🇪🇸 calabacín",
-       "la calabacita"
+       "la calabacita",
+       ""
       ],
       [
        "el chayote",
        "chayote squash",
        "",
-       "el chayote"
+       "el chayote",
+       ""
       ],
       [
        "el elote",
        "corn on the cob",
        "🌎 choclo (South America), mazorca (Col)",
-       "el elote"
+       "el elote",
+       ""
       ],
       [
        "el maíz",
        "corn (the grain)",
        "",
-       "el maíz"
+       "el maíz",
+       ""
       ],
       [
        "el nopal",
        "cactus pad",
        "",
-       "el nopal"
+       "el nopal",
+       ""
       ],
       [
        "el aguacate",
        "avocado",
        "🌎 palta (Arg, Chile, Peru)",
-       "el aguacate"
+       "el aguacate",
+       ""
       ],
       [
        "el brócoli",
        "broccoli",
        "",
-       "el brócoli"
+       "el brócoli",
+       ""
       ],
       [
        "la coliflor",
        "cauliflower",
        "",
-       "la coliflor"
+       "la coliflor",
+       ""
       ],
       [
        "el repollo",
        "cabbage",
        "💡 also la col",
-       "el repollo"
+       "el repollo",
+       ""
       ],
       [
        "el betabel",
        "beet",
        "🌎 remolacha (most of Latin America) · 🇪🇸 remolacha",
-       "el betabel"
+       "el betabel",
+       ""
       ],
       [
        "el rábano",
        "radish",
        "",
-       "el rábano"
+       "el rábano",
+       ""
       ],
       [
        "el apio",
        "celery",
        "",
-       "el apio"
+       "el apio",
+       ""
       ],
       [
        "el champiñón",
        "mushroom (button)",
        "💡 any mushroom: el hongo",
-       "el champiñón"
+       "el champiñón",
+       ""
       ],
       [
        "los chícharos",
        "peas",
        "🌎 arvejas · 🇪🇸 guisantes",
-       "los chícharos"
+       "los chícharos",
+       ""
       ],
       [
        "los ejotes",
        "green beans",
        "🌎 vainitas (Ven, Peru), habichuelas (Col), chauchas (Arg) · 🇪🇸 judías verdes",
-       "los ejotes"
+       "los ejotes",
+       ""
       ],
       [
        "los frijoles",
        "beans",
        "🌎 porotos (Arg, Chile), caraotas (Ven) · 🇪🇸 judías, alubias",
-       "los frijoles"
+       "los frijoles",
+       ""
       ],
       [
        "las lentejas",
        "lentils",
        "",
-       "las lentejas"
+       "las lentejas",
+       ""
       ],
       [
        "los garbanzos",
        "chickpeas",
        "",
-       "los garbanzos"
+       "los garbanzos",
+       ""
       ],
       [
        "el espárrago",
        "asparagus",
        "",
-       "el espárrago"
+       "el espárrago",
+       ""
       ],
       [
        "la berenjena",
        "eggplant",
        "",
-       "la berenjena"
+       "la berenjena",
+       ""
       ],
       [
        "la yuca",
        "cassava",
        "🌎 mandioca (Arg, Paraguay)",
-       "la yuca"
+       "la yuca",
+       ""
       ],
       [
        "el cilantro",
        "cilantro",
        "",
-       "el cilantro"
+       "el cilantro",
+       ""
       ],
       [
        "el perejil",
        "parsley",
        "",
-       "el perejil"
+       "el perejil",
+       ""
       ],
       [
        "el epazote",
        "epazote (herb for beans)",
        "",
-       "el epazote"
+       "el epazote",
+       ""
       ],
       [
        "la flor de calabaza",
        "squash blossom",
        "",
-       "la flor de calabaza"
+       "la flor de calabaza",
+       ""
       ],
       [
        "el huitlacoche",
        "corn smut (a delicacy)",
        "",
-       "el huitlacoche"
+       "el huitlacoche",
+       ""
       ]
      ]
     },
@@ -3420,163 +3630,190 @@ window.COURSE = {
        "la carne",
        "meat",
        "",
-       "la carne"
+       "la carne",
+       ""
       ],
       [
        "la carne de res",
        "beef",
        "🌎 carne de vaca (Arg) · 🇪🇸 ternera",
-       "la carne de res"
+       "la carne de res",
+       ""
       ],
       [
        "el pollo",
        "chicken",
        "",
-       "el pollo"
+       "el pollo",
+       ""
       ],
       [
        "el cerdo",
        "pork; pig",
        "💡 also el puerco in Mexico",
-       "el cerdo"
+       "el cerdo",
+       ""
       ],
       [
        "el jamón",
        "ham",
        "",
-       "el jamón"
+       "el jamón",
+       ""
       ],
       [
        "el tocino",
        "bacon",
        "🇪🇸 beicon",
-       "el tocino"
+       "el tocino",
+       ""
       ],
       [
        "la salchicha",
        "hot dog sausage",
        "",
-       "la salchicha"
+       "la salchicha",
+       ""
       ],
       [
        "el chorizo",
        "chorizo",
        "",
-       "el chorizo"
+       "el chorizo",
+       ""
       ],
       [
        "el bistec",
        "steak",
        "🌎 bife (Arg)",
-       "el bistec"
+       "el bistec",
+       ""
       ],
       [
        "la carne molida",
        "ground meat",
        "🌎 carne picada (Arg) · 🇪🇸 carne picada",
-       "la carne molida"
+       "la carne molida",
+       ""
       ],
       [
        "la pechuga",
        "breast (chicken)",
        "",
-       "la pechuga"
+       "la pechuga",
+       ""
       ],
       [
        "la pierna",
        "leg; drumstick",
        "",
-       "la pierna"
+       "la pierna",
+       ""
       ],
       [
        "las costillas",
        "ribs",
        "",
-       "las costillas"
+       "las costillas",
+       ""
       ],
       [
        "el pavo",
        "turkey",
        "💡 also el guajolote in Mexico",
-       "el pavo"
+       "el pavo",
+       ""
       ],
       [
        "el pescado",
        "fish (food)",
        "💡 a live fish is el pez",
-       "el pescado"
+       "el pescado",
+       ""
       ],
       [
        "el camarón",
        "shrimp",
        "🇪🇸 gamba",
-       "el camarón"
+       "el camarón",
+       ""
       ],
       [
        "el atún",
        "tuna",
        "",
-       "el atún"
+       "el atún",
+       ""
       ],
       [
        "el salmón",
        "salmon",
        "",
-       "el salmón"
+       "el salmón",
+       ""
       ],
       [
        "la tilapia",
        "tilapia",
        "",
-       "la tilapia"
+       "la tilapia",
+       ""
       ],
       [
        "el huachinango",
        "red snapper",
        "",
-       "el huachinango"
+       "el huachinango",
+       ""
       ],
       [
        "el pulpo",
        "octopus",
        "",
-       "el pulpo"
+       "el pulpo",
+       ""
       ],
       [
        "el calamar",
        "squid",
        "",
-       "el calamar"
+       "el calamar",
+       ""
       ],
       [
        "los mariscos",
        "seafood",
        "",
-       "los mariscos"
+       "los mariscos",
+       ""
       ],
       [
        "el huevo",
        "egg",
        "",
-       "el huevo"
+       "el huevo",
+       ""
       ],
       [
        "la yema",
        "yolk",
        "",
-       "la yema"
+       "la yema",
+       ""
       ],
       [
        "la clara",
        "egg white",
        "",
-       "la clara"
+       "la clara",
+       ""
       ],
       [
        "crudo, cruda",
        "raw",
        "",
-       "crudo, cruda"
+       "crudo, cruda",
+       ""
       ]
      ]
     },
@@ -3588,205 +3825,239 @@ window.COURSE = {
        "la leche",
        "milk",
        "",
-       "la leche"
+       "la leche",
+       ""
       ],
       [
        "el queso",
        "cheese",
        "",
-       "el queso"
+       "el queso",
+       ""
       ],
       [
        "el queso fresco",
        "fresh white cheese",
        "",
-       "el queso fresco"
+       "el queso fresco",
+       ""
       ],
       [
        "el queso Oaxaca",
        "stringy Oaxaca cheese",
        "",
-       "el queso Oaxaca"
+       "el queso Oaxaca",
+       ""
       ],
       [
        "la crema",
        "Mexican sour cream",
        "",
-       "la crema"
+       "la crema",
+       ""
       ],
       [
        "la mantequilla",
        "butter",
        "💡 manteca in Mexico is lard",
-       "la mantequilla"
+       "la mantequilla",
+       ""
       ],
       [
        "el yogur",
        "yogurt",
        "",
-       "el yogur"
+       "el yogur",
+       ""
       ],
       [
        "el pan",
        "bread",
        "",
-       "el pan"
+       "el pan",
+       ""
       ],
       [
        "el bolillo",
        "crusty bread roll",
        "",
-       "el bolillo"
+       "el bolillo",
+       ""
       ],
       [
        "la tortilla de maíz",
        "corn tortilla",
        "🇪🇸 a tortilla in Spain is a potato omelet",
-       "la tortilla de maíz"
+       "la tortilla de maíz",
+       ""
       ],
       [
        "la tortilla de harina",
        "flour tortilla",
        "",
-       "la tortilla de harina"
+       "la tortilla de harina",
+       ""
       ],
       [
        "la masa",
        "corn dough",
        "",
-       "la masa"
+       "la masa",
+       ""
       ],
       [
        "el arroz",
        "rice",
        "",
-       "el arroz"
+       "el arroz",
+       ""
       ],
       [
        "los fideos",
        "thin noodles",
        "",
-       "los fideos"
+       "los fideos",
+       ""
       ],
       [
        "la pasta",
        "pasta",
        "",
-       "la pasta"
+       "la pasta",
+       ""
       ],
       [
        "la harina",
        "flour",
        "",
-       "la harina"
+       "la harina",
+       ""
       ],
       [
        "el azúcar",
        "sugar",
        "",
-       "el azúcar"
+       "el azúcar",
+       ""
       ],
       [
        "el piloncillo",
        "cone of brown sugar",
        "",
-       "el piloncillo"
+       "el piloncillo",
+       ""
       ],
       [
        "la sal",
        "salt",
        "",
-       "la sal"
+       "la sal",
+       ""
       ],
       [
        "la pimienta",
        "black pepper",
        "",
-       "la pimienta"
+       "la pimienta",
+       ""
       ],
       [
        "la canela",
        "cinnamon",
        "",
-       "la canela"
+       "la canela",
+       ""
       ],
       [
        "el aceite",
        "oil",
        "",
-       "el aceite"
+       "el aceite",
+       ""
       ],
       [
        "el vinagre",
        "vinegar",
        "",
-       "el vinagre"
+       "el vinagre",
+       ""
       ],
       [
        "la mayonesa",
        "mayonnaise",
        "",
-       "la mayonesa"
+       "la mayonesa",
+       ""
       ],
       [
        "la mostaza",
        "mustard",
        "",
-       "la mostaza"
+       "la mostaza",
+       ""
       ],
       [
        "la cátsup",
        "ketchup",
        "💡 also el kétchup",
-       "la cátsup"
+       "la cátsup",
+       ""
       ],
       [
        "la salsa",
        "sauce, salsa",
        "",
-       "la salsa"
+       "la salsa",
+       ""
       ],
       [
        "la miel",
        "honey",
        "",
-       "la miel"
+       "la miel",
+       ""
       ],
       [
        "la mermelada",
        "jam",
        "",
-       "la mermelada"
+       "la mermelada",
+       ""
       ],
       [
        "el cereal",
        "cereal",
        "",
-       "el cereal"
+       "el cereal",
+       ""
       ],
       [
        "la avena",
        "oatmeal",
        "",
-       "la avena"
+       "la avena",
+       ""
       ],
       [
        "los cacahuates",
        "peanuts",
        "🌎 maní (most of South America) · 🇪🇸 cacahuetes",
-       "los cacahuates"
+       "los cacahuates",
+       ""
       ],
       [
        "la nuez",
        "walnut; pecan",
        "",
-       "la nuez"
+       "la nuez",
+       ""
       ],
       [
        "la almendra",
        "almond",
        "",
-       "la almendra"
+       "la almendra",
+       ""
       ]
      ]
     },
@@ -3798,529 +4069,617 @@ window.COURSE = {
        "el taco",
        "taco",
        "",
-       "el taco"
+       "el taco",
+       "Tacos & meats"
       ],
       [
        "los tacos al pastor",
        "marinated pork tacos",
        "",
-       "los tacos al pastor"
+       "los tacos al pastor",
+       "Tacos & meats"
       ],
       [
        "las carnitas",
        "slow-cooked pork",
        "",
-       "las carnitas"
+       "las carnitas",
+       "Tacos & meats"
       ],
       [
        "la barbacoa",
        "slow-cooked beef or lamb",
        "",
-       "la barbacoa"
+       "la barbacoa",
+       "Tacos & meats"
       ],
       [
        "la birria",
        "spiced goat or beef stew",
        "",
-       "la birria"
-      ],
-      [
-       "la quesadilla",
-       "quesadilla",
-       "💡 in Mexico City it may come without cheese — ask con queso",
-       "la quesadilla"
-      ],
-      [
-       "la enchilada",
-       "enchilada",
-       "",
-       "la enchilada"
-      ],
-      [
-       "los chilaquiles",
-       "tortilla chips in salsa (breakfast)",
-       "",
-       "los chilaquiles"
-      ],
-      [
-       "el tamal",
-       "tamale",
-       "💡 plural los tamales",
-       "el tamal"
-      ],
-      [
-       "el pozole",
-       "hominy soup",
-       "",
-       "el pozole"
-      ],
-      [
-       "el mole",
-       "mole sauce",
-       "",
-       "el mole"
-      ],
-      [
-       "la torta",
-       "sandwich on a roll",
-       "🌎 a torta is a cake in Arg and Ven",
-       "la torta"
-      ],
-      [
-       "la gordita",
-       "thick stuffed corn cake",
-       "",
-       "la gordita"
-      ],
-      [
-       "el sope",
-       "thick tortilla with toppings",
-       "",
-       "el sope"
-      ],
-      [
-       "el tlacoyo",
-       "oval stuffed masa cake",
-       "",
-       "el tlacoyo"
-      ],
-      [
-       "la tlayuda",
-       "big crispy Oaxacan tortilla",
-       "",
-       "la tlayuda"
-      ],
-      [
-       "la tostada",
-       "crispy flat tortilla with toppings",
-       "🇪🇸 in Spain tostada means toast",
-       "la tostada"
-      ],
-      [
-       "la flauta",
-       "rolled fried taco",
-       "",
-       "la flauta"
-      ],
-      [
-       "el chile relleno",
-       "stuffed poblano pepper",
-       "",
-       "el chile relleno"
-      ],
-      [
-       "los frijoles refritos",
-       "refried beans",
-       "",
-       "los frijoles refritos"
-      ],
-      [
-       "el guacamole",
-       "guacamole",
-       "",
-       "el guacamole"
-      ],
-      [
-       "el pico de gallo",
-       "fresh tomato salsa",
-       "",
-       "el pico de gallo"
-      ],
-      [
-       "el esquite",
-       "corn in a cup",
-       "",
-       "el esquite"
-      ],
-      [
-       "la sopa de tortilla",
-       "tortilla soup",
-       "",
-       "la sopa de tortilla"
-      ],
-      [
-       "el ceviche",
-       "ceviche",
-       "",
-       "el ceviche"
-      ],
-      [
-       "el burrito",
-       "burrito",
-       "💡 mostly a northern Mexico thing",
-       "el burrito"
-      ],
-      [
-       "el antojito",
-       "street snack",
-       "",
-       "el antojito"
+       "la birria",
+       "Tacos & meats"
       ],
       [
        "los tacos de canasta",
        "basket tacos (steamed)",
        "",
-       "los tacos de canasta"
+       "los tacos de canasta",
+       "Tacos & meats"
       ],
       [
        "los tacos de suadero",
        "tacos of thin-cut beef",
        "💡 Mexico City",
-       "los tacos de suadero"
+       "los tacos de suadero",
+       "Tacos & meats"
       ],
       [
        "los tacos de lengua",
        "beef tongue tacos",
        "",
-       "los tacos de lengua"
+       "los tacos de lengua",
+       "Tacos & meats"
       ],
       [
        "la carne asada",
        "grilled beef",
        "",
-       "la carne asada"
+       "la carne asada",
+       "Tacos & meats"
       ],
       [
        "la arrachera",
        "skirt steak",
        "",
-       "la arrachera"
+       "la arrachera",
+       "Tacos & meats"
       ],
       [
        "la cochinita pibil",
        "achiote slow-roasted pork",
        "💡 Yucatán",
-       "la cochinita pibil"
+       "la cochinita pibil",
+       "Tacos & meats"
       ],
       [
        "la tinga",
        "shredded chicken in chipotle sauce",
        "",
-       "la tinga"
+       "la tinga",
+       "Tacos & meats"
       ],
       [
        "el chicharrón",
        "fried pork rind",
        "",
-       "el chicharrón"
+       "el chicharrón",
+       "Tacos & meats"
       ],
       [
        "la cecina",
        "thin salted beef",
        "",
-       "la cecina"
+       "la cecina",
+       "Tacos & meats"
       ],
       [
        "la machaca",
        "dried shredded beef",
        "💡 northern Mexico",
-       "la machaca"
+       "la machaca",
+       "Tacos & meats"
       ],
       [
        "el alambre",
        "grilled meat with peppers, onion and cheese",
        "",
-       "el alambre"
+       "el alambre",
+       "Tacos & meats"
       ],
       [
        "el cabrito",
        "roast kid goat",
        "💡 Monterrey",
-       "el cabrito"
+       "el cabrito",
+       "Tacos & meats"
       ],
       [
        "la carne en su jugo",
        "beef in its own broth",
        "💡 Guadalajara",
-       "la carne en su jugo"
+       "la carne en su jugo",
+       "Tacos & meats"
+      ],
+      [
+       "la quesadilla",
+       "quesadilla",
+       "💡 in Mexico City it may come without cheese — ask con queso",
+       "la quesadilla",
+       "Tortilla & masa dishes"
+      ],
+      [
+       "la enchilada",
+       "enchilada",
+       "",
+       "la enchilada",
+       "Tortilla & masa dishes"
+      ],
+      [
+       "los chilaquiles",
+       "tortilla chips in salsa (breakfast)",
+       "",
+       "los chilaquiles",
+       "Tortilla & masa dishes"
+      ],
+      [
+       "el tamal",
+       "tamale",
+       "💡 plural los tamales",
+       "el tamal",
+       "Tortilla & masa dishes"
+      ],
+      [
+       "la gordita",
+       "thick stuffed corn cake",
+       "",
+       "la gordita",
+       "Tortilla & masa dishes"
+      ],
+      [
+       "el sope",
+       "thick tortilla with toppings",
+       "",
+       "el sope",
+       "Tortilla & masa dishes"
+      ],
+      [
+       "el tlacoyo",
+       "oval stuffed masa cake",
+       "",
+       "el tlacoyo",
+       "Tortilla & masa dishes"
+      ],
+      [
+       "la tlayuda",
+       "big crispy Oaxacan tortilla",
+       "",
+       "la tlayuda",
+       "Tortilla & masa dishes"
+      ],
+      [
+       "la tostada",
+       "crispy flat tortilla with toppings",
+       "🇪🇸 in Spain tostada means toast",
+       "la tostada",
+       "Tortilla & masa dishes"
+      ],
+      [
+       "la flauta",
+       "rolled fried taco",
+       "",
+       "la flauta",
+       "Tortilla & masa dishes"
+      ],
+      [
+       "el burrito",
+       "burrito",
+       "💡 mostly a northern Mexico thing",
+       "el burrito",
+       "Tortilla & masa dishes"
       ],
       [
        "el huarache",
        "long oval masa base with toppings",
        "",
-       "el huarache"
+       "el huarache",
+       "Tortilla & masa dishes"
       ],
       [
        "la chalupa",
        "small fried tortilla with salsa",
        "💡 Puebla",
-       "la chalupa"
+       "la chalupa",
+       "Tortilla & masa dishes"
       ],
       [
        "la memela",
        "oval masa cake with beans",
        "💡 Oaxaca, Puebla",
-       "la memela"
+       "la memela",
+       "Tortilla & masa dishes"
       ],
       [
        "el panucho",
        "bean-stuffed fried tortilla",
        "💡 Yucatán",
-       "el panucho"
+       "el panucho",
+       "Tortilla & masa dishes"
       ],
       [
        "el salbute",
        "puffy fried tortilla with toppings",
        "💡 Yucatán",
-       "el salbute"
+       "el salbute",
+       "Tortilla & masa dishes"
       ],
       [
        "las enfrijoladas",
        "tortillas in bean sauce",
        "",
-       "las enfrijoladas"
+       "las enfrijoladas",
+       "Tortilla & masa dishes"
       ],
       [
        "las entomatadas",
        "tortillas in tomato sauce",
        "",
-       "las entomatadas"
+       "las entomatadas",
+       "Tortilla & masa dishes"
       ],
       [
        "las enmoladas",
        "tortillas in mole",
        "",
-       "las enmoladas"
+       "las enmoladas",
+       "Tortilla & masa dishes"
       ],
       [
        "las enchiladas suizas",
        "enchiladas in creamy green sauce",
        "",
-       "las enchiladas suizas"
+       "las enchiladas suizas",
+       "Tortilla & masa dishes"
       ],
       [
        "la empanada",
        "turnover",
        "",
-       "la empanada"
+       "la empanada",
+       "Tortilla & masa dishes"
+      ],
+      [
+       "la torta",
+       "sandwich on a roll",
+       "🌎 a torta is a cake in Arg and Ven",
+       "la torta",
+       "Tortas & bread"
       ],
       [
        "el pambazo",
        "chile-dipped sandwich with potato and chorizo",
        "",
-       "el pambazo"
+       "el pambazo",
+       "Tortas & bread"
       ],
       [
        "la guajolota",
        "tamale inside a bread roll",
        "💡 Mexico City",
-       "la guajolota"
+       "la guajolota",
+       "Tortas & bread"
       ],
       [
        "la torta ahogada",
        "\"drowned\" sandwich in salsa",
        "💡 Guadalajara",
-       "la torta ahogada"
+       "la torta ahogada",
+       "Tortas & bread"
       ],
       [
        "los molletes",
        "open roll with beans and melted cheese",
        "",
-       "los molletes"
+       "los molletes",
+       "Tortas & bread"
       ],
       [
        "los huevos rancheros",
        "fried eggs on tortillas with salsa",
        "",
-       "los huevos rancheros"
+       "los huevos rancheros",
+       "Breakfast eggs"
       ],
       [
        "los huevos a la mexicana",
        "scrambled eggs with tomato, onion and chile",
        "",
-       "los huevos a la mexicana"
+       "los huevos a la mexicana",
+       "Breakfast eggs"
       ],
       [
        "los huevos divorciados",
        "two eggs with red and green salsa",
        "",
-       "los huevos divorciados"
+       "los huevos divorciados",
+       "Breakfast eggs"
       ],
       [
        "los huevos motuleños",
        "eggs on tortillas with beans, ham and peas",
        "💡 Yucatán",
-       "los huevos motuleños"
+       "los huevos motuleños",
+       "Breakfast eggs"
+      ],
+      [
+       "el pozole",
+       "hominy soup",
+       "",
+       "el pozole",
+       "Soups & stews"
+      ],
+      [
+       "la sopa de tortilla",
+       "tortilla soup",
+       "",
+       "la sopa de tortilla",
+       "Soups & stews"
       ],
       [
        "el menudo",
        "tripe soup",
        "💡 Mexico City says la pancita",
-       "el menudo"
+       "el menudo",
+       "Soups & stews"
       ],
       [
        "el caldo de pollo",
        "chicken soup",
        "",
-       "el caldo de pollo"
+       "el caldo de pollo",
+       "Soups & stews"
       ],
       [
        "el caldo de res",
        "beef and vegetable soup",
        "",
-       "el caldo de res"
+       "el caldo de res",
+       "Soups & stews"
       ],
       [
        "el caldo tlalpeño",
        "chicken soup with chipotle",
        "",
-       "el caldo tlalpeño"
+       "el caldo tlalpeño",
+       "Soups & stews"
       ],
       [
        "la sopa de lima",
        "lime soup",
        "💡 Yucatán",
-       "la sopa de lima"
+       "la sopa de lima",
+       "Soups & stews"
       ],
       [
        "la sopa de fideo",
        "noodle soup",
        "",
-       "la sopa de fideo"
+       "la sopa de fideo",
+       "Soups & stews"
       ],
       [
        "el consomé",
        "broth (served with birria, barbacoa)",
        "",
-       "el consomé"
+       "el consomé",
+       "Soups & stews"
       ],
       [
        "el mole de olla",
        "beef and vegetable stew",
        "",
-       "el mole de olla"
+       "el mole de olla",
+       "Soups & stews"
       ],
       [
-       "el arroz rojo",
-       "Mexican red rice",
-       "💡 also arroz a la mexicana",
-       "el arroz rojo"
-      ],
-      [
-       "los frijoles charros",
-       "cowboy beans with pork",
+       "el ceviche",
+       "ceviche",
        "",
-       "los frijoles charros"
-      ],
-      [
-       "los frijoles de la olla",
-       "whole pot beans",
-       "",
-       "los frijoles de la olla"
+       "el ceviche",
+       "Seafood"
       ],
       [
        "el aguachile",
        "raw shrimp in lime and chile",
        "💡 Sinaloa",
-       "el aguachile"
+       "el aguachile",
+       "Seafood"
       ],
       [
        "el coctel de camarón",
        "shrimp cocktail",
        "",
-       "el coctel de camarón"
+       "el coctel de camarón",
+       "Seafood"
       ],
       [
        "el pescado a la veracruzana",
        "fish with tomato, olives and capers",
        "",
-       "el pescado a la veracruzana"
+       "el pescado a la veracruzana",
+       "Seafood"
       ],
       [
        "el pescado zarandeado",
        "grilled butterflied fish",
        "💡 Nayarit, Sinaloa",
-       "el pescado zarandeado"
+       "el pescado zarandeado",
+       "Seafood"
       ],
       [
        "los camarones a la diabla",
        "shrimp in spicy red sauce",
        "",
-       "los camarones a la diabla"
+       "los camarones a la diabla",
+       "Seafood"
+      ],
+      [
+       "el mole",
+       "mole sauce",
+       "",
+       "el mole",
+       "Moles, salsas & sides"
+      ],
+      [
+       "el chile relleno",
+       "stuffed poblano pepper",
+       "",
+       "el chile relleno",
+       "Moles, salsas & sides"
+      ],
+      [
+       "los frijoles refritos",
+       "refried beans",
+       "",
+       "los frijoles refritos",
+       "Moles, salsas & sides"
+      ],
+      [
+       "el guacamole",
+       "guacamole",
+       "",
+       "el guacamole",
+       "Moles, salsas & sides"
+      ],
+      [
+       "el pico de gallo",
+       "fresh tomato salsa",
+       "",
+       "el pico de gallo",
+       "Moles, salsas & sides"
+      ],
+      [
+       "el arroz rojo",
+       "Mexican red rice",
+       "💡 also arroz a la mexicana",
+       "el arroz rojo",
+       "Moles, salsas & sides"
+      ],
+      [
+       "los frijoles charros",
+       "cowboy beans with pork",
+       "",
+       "los frijoles charros",
+       "Moles, salsas & sides"
+      ],
+      [
+       "los frijoles de la olla",
+       "whole pot beans",
+       "",
+       "los frijoles de la olla",
+       "Moles, salsas & sides"
       ],
       [
        "los chiles en nogada",
        "stuffed chiles in walnut sauce",
        "💡 Puebla, in September",
-       "los chiles en nogada"
+       "los chiles en nogada",
+       "Moles, salsas & sides"
       ],
       [
        "las rajas con crema",
        "poblano strips in cream",
        "",
-       "las rajas con crema"
+       "las rajas con crema",
+       "Moles, salsas & sides"
       ],
       [
        "el pipián",
        "pumpkin-seed sauce",
        "",
-       "el pipián"
+       "el pipián",
+       "Moles, salsas & sides"
       ],
       [
        "el adobo",
        "chile marinade",
        "",
-       "el adobo"
+       "el adobo",
+       "Moles, salsas & sides"
       ],
       [
        "el queso fundido",
        "melted cheese (often with chorizo)",
        "",
-       "el queso fundido"
+       "el queso fundido",
+       "Moles, salsas & sides"
       ],
       [
        "la ensalada de nopales",
        "cactus salad",
        "",
-       "la ensalada de nopales"
+       "la ensalada de nopales",
+       "Moles, salsas & sides"
       ],
       [
        "la salsa verde",
        "green salsa",
        "",
-       "la salsa verde"
+       "la salsa verde",
+       "Moles, salsas & sides"
       ],
       [
        "la salsa roja",
        "red salsa",
        "",
-       "la salsa roja"
+       "la salsa roja",
+       "Moles, salsas & sides"
       ],
       [
        "la salsa macha",
        "chile oil salsa",
        "",
-       "la salsa macha"
+       "la salsa macha",
+       "Moles, salsas & sides"
+      ],
+      [
+       "el esquite",
+       "corn in a cup",
+       "",
+       "el esquite",
+       "Street snacks"
+      ],
+      [
+       "el antojito",
+       "street snack",
+       "",
+       "el antojito",
+       "Street snacks"
       ],
       [
        "los chicharrones de harina",
        "wheat crisps with hot sauce",
        "",
-       "los chicharrones de harina"
+       "los chicharrones de harina",
+       "Street snacks"
       ],
       [
        "los tostilocos",
        "loaded tortilla-chip snack",
        "",
-       "los tostilocos"
+       "los tostilocos",
+       "Street snacks"
       ],
       [
        "la fruta con chile",
        "fruit with lime and chile powder",
        "",
-       "la fruta con chile"
+       "la fruta con chile",
+       "Street snacks"
       ],
       [
        "el chamoy",
        "salty-sweet chile sauce",
        "",
-       "el chamoy"
+       "el chamoy",
+       "Street snacks"
       ],
       [
        "la chamoyada",
        "mango slush with chamoy",
        "💡 also la mangonada",
-       "la chamoyada"
+       "la chamoyada",
+       "Street snacks"
       ]
      ]
     },
@@ -4332,145 +4691,169 @@ window.COURSE = {
        "la bebida",
        "drink",
        "",
-       "la bebida"
+       "la bebida",
+       ""
       ],
       [
        "el agua",
        "water",
        "",
-       "el agua"
+       "el agua",
+       ""
       ],
       [
        "el agua natural",
        "still water",
        "💡 agua mineral in Mexico means sparkling water",
-       "el agua natural"
+       "el agua natural",
+       ""
       ],
       [
        "el agua mineral",
        "sparkling water",
        "",
-       "el agua mineral"
+       "el agua mineral",
+       ""
       ],
       [
        "el agua fresca",
        "fruit water",
        "",
-       "el agua fresca"
+       "el agua fresca",
+       ""
       ],
       [
        "el agua de jamaica",
        "hibiscus water",
        "",
-       "el agua de jamaica"
+       "el agua de jamaica",
+       ""
       ],
       [
        "el agua de horchata",
        "rice-cinnamon drink",
        "",
-       "el agua de horchata"
+       "el agua de horchata",
+       ""
       ],
       [
        "el agua de tamarindo",
        "tamarind water",
        "",
-       "el agua de tamarindo"
+       "el agua de tamarindo",
+       ""
       ],
       [
        "el jugo",
        "juice",
        "🇪🇸 zumo",
-       "el jugo"
+       "el jugo",
+       ""
       ],
       [
        "el licuado",
        "smoothie, milkshake",
        "🌎 batido",
-       "el licuado"
+       "el licuado",
+       ""
       ],
       [
        "el refresco",
        "soda",
        "🌎 gaseosa (Col, Arg, Peru)",
-       "el refresco"
+       "el refresco",
+       ""
       ],
       [
        "el café",
        "coffee",
        "",
-       "el café"
+       "el café",
+       ""
       ],
       [
        "el café de olla",
        "spiced coffee with piloncillo",
        "",
-       "el café de olla"
+       "el café de olla",
+       ""
       ],
       [
        "el té",
        "tea",
        "",
-       "el té"
+       "el té",
+       ""
       ],
       [
        "el chocolate caliente",
        "hot chocolate",
        "",
-       "el chocolate caliente"
+       "el chocolate caliente",
+       ""
       ],
       [
        "el atole",
        "warm corn drink",
        "",
-       "el atole"
+       "el atole",
+       ""
       ],
       [
        "el champurrado",
        "chocolate atole",
        "",
-       "el champurrado"
+       "el champurrado",
+       ""
       ],
       [
        "la cerveza",
        "beer",
        "💡 la chela (slang, Mexico)",
-       "la cerveza"
+       "la cerveza",
+       ""
       ],
       [
        "la michelada",
        "beer with lime, salt and salsa",
        "",
-       "la michelada"
+       "la michelada",
+       ""
       ],
       [
        "el vino",
        "wine",
        "",
-       "el vino"
+       "el vino",
+       ""
       ],
       [
        "el tequila",
        "tequila",
        "",
-       "el tequila"
+       "el tequila",
+       ""
       ],
       [
        "el mezcal",
        "mezcal",
        "",
-       "el mezcal"
+       "el mezcal",
+       ""
       ],
       [
        "con hielo",
        "with ice",
        "",
-       "con hielo"
+       "con hielo",
+       ""
       ],
       [
        "sin hielo",
        "without ice",
        "",
-       "sin hielo"
+       "sin hielo",
+       ""
       ]
      ]
     },
@@ -4482,121 +4865,141 @@ window.COURSE = {
        "la persona",
        "person",
        "",
-       "la persona"
+       "la persona",
+       ""
       ],
       [
        "la gente",
        "people",
        "💡 singular: La gente dice que…",
-       "la gente"
+       "la gente",
+       ""
       ],
       [
        "el hombre",
        "man",
        "",
-       "el hombre"
+       "el hombre",
+       ""
       ],
       [
        "la mujer",
        "woman",
        "",
-       "la mujer"
+       "la mujer",
+       ""
       ],
       [
        "el niño, la niña",
        "boy, girl; child",
        "",
-       "el niño, la niña"
+       "el niño, la niña",
+       ""
       ],
       [
        "el bebé",
        "baby",
        "",
-       "el bebé"
+       "el bebé",
+       ""
       ],
       [
        "el chico, la chica",
        "boy, girl; young person",
        "",
-       "el chico, la chica"
+       "el chico, la chica",
+       ""
       ],
       [
        "el muchacho, la muchacha",
        "young man, young woman",
        "",
-       "el muchacho, la muchacha"
+       "el muchacho, la muchacha",
+       ""
       ],
       [
        "el joven",
        "young person",
        "",
-       "el joven"
+       "el joven",
+       ""
       ],
       [
        "el señor",
        "man, sir, Mr.",
        "",
-       "el señor"
+       "el señor",
+       ""
       ],
       [
        "la señora",
        "woman, ma'am, Mrs.",
        "",
-       "la señora"
+       "la señora",
+       ""
       ],
       [
        "la señorita",
        "young woman, Miss",
        "",
-       "la señorita"
+       "la señorita",
+       ""
       ],
       [
        "el vecino, la vecina",
        "neighbor",
        "",
-       "el vecino, la vecina"
+       "el vecino, la vecina",
+       ""
       ],
       [
        "el amigo, la amiga",
        "friend",
        "",
-       "el amigo, la amiga"
+       "el amigo, la amiga",
+       ""
       ],
       [
        "el compañero, la compañera",
        "classmate; coworker",
        "",
-       "el compañero, la compañera"
+       "el compañero, la compañera",
+       ""
       ],
       [
        "el jefe, la jefa",
        "boss",
        "",
-       "el jefe, la jefa"
+       "el jefe, la jefa",
+       ""
       ],
       [
        "el desconocido",
        "stranger",
        "",
-       "el desconocido"
+       "el desconocido",
+       ""
       ],
       [
        "el chavo, la chava",
        "guy, girl",
        "💡 casual, Mexico",
-       "el chavo, la chava"
+       "el chavo, la chava",
+       ""
       ],
       [
        "el cuate",
        "buddy",
        "💡 Mexico",
-       "el cuate"
+       "el cuate",
+       ""
       ],
       [
        "los chamacos",
        "kids",
        "💡 Mexico",
-       "los chamacos"
+       "los chamacos",
+       ""
       ]
      ]
     },
@@ -4608,145 +5011,169 @@ window.COURSE = {
        "la familia",
        "family",
        "",
-       "la familia"
+       "la familia",
+       ""
       ],
       [
        "los padres",
        "parents",
        "💡 also los papás in Mexico",
-       "los padres"
+       "los padres",
+       ""
       ],
       [
        "el papá",
        "dad",
        "",
-       "el papá"
+       "el papá",
+       ""
       ],
       [
        "la mamá",
        "mom",
        "",
-       "la mamá"
+       "la mamá",
+       ""
       ],
       [
        "el hijo, la hija",
        "son, daughter",
        "",
-       "el hijo, la hija"
+       "el hijo, la hija",
+       ""
       ],
       [
        "los hijos",
        "children (sons and daughters)",
        "",
-       "los hijos"
+       "los hijos",
+       ""
       ],
       [
        "el hermano, la hermana",
        "brother, sister",
        "",
-       "el hermano, la hermana"
+       "el hermano, la hermana",
+       ""
       ],
       [
        "el abuelo, la abuela",
        "grandfather, grandmother",
        "",
-       "el abuelo, la abuela"
+       "el abuelo, la abuela",
+       ""
       ],
       [
        "el bisabuelo",
        "great-grandfather",
        "",
-       "el bisabuelo"
+       "el bisabuelo",
+       ""
       ],
       [
        "el nieto, la nieta",
        "grandson, granddaughter",
        "",
-       "el nieto, la nieta"
+       "el nieto, la nieta",
+       ""
       ],
       [
        "el tío, la tía",
        "uncle, aunt",
        "",
-       "el tío, la tía"
+       "el tío, la tía",
+       ""
       ],
       [
        "el primo, la prima",
        "cousin",
        "",
-       "el primo, la prima"
+       "el primo, la prima",
+       ""
       ],
       [
        "el sobrino, la sobrina",
        "nephew, niece",
        "",
-       "el sobrino, la sobrina"
+       "el sobrino, la sobrina",
+       ""
       ],
       [
        "el esposo, la esposa",
        "husband, wife",
        "",
-       "el esposo, la esposa"
+       "el esposo, la esposa",
+       ""
       ],
       [
        "el suegro, la suegra",
        "father-in-law, mother-in-law",
        "",
-       "el suegro, la suegra"
+       "el suegro, la suegra",
+       ""
       ],
       [
        "el cuñado, la cuñada",
        "brother-in-law, sister-in-law",
        "",
-       "el cuñado, la cuñada"
+       "el cuñado, la cuñada",
+       ""
       ],
       [
        "el yerno",
        "son-in-law",
        "",
-       "el yerno"
+       "el yerno",
+       ""
       ],
       [
        "la nuera",
        "daughter-in-law",
        "",
-       "la nuera"
+       "la nuera",
+       ""
       ],
       [
        "el padrastro",
        "stepfather",
        "",
-       "el padrastro"
+       "el padrastro",
+       ""
       ],
       [
        "la madrastra",
        "stepmother",
        "",
-       "la madrastra"
+       "la madrastra",
+       ""
       ],
       [
        "el medio hermano",
        "half brother",
        "",
-       "el medio hermano"
+       "el medio hermano",
+       ""
       ],
       [
        "el padrino, la madrina",
        "godfather, godmother",
        "",
-       "el padrino, la madrina"
+       "el padrino, la madrina",
+       ""
       ],
       [
        "el compadre, la comadre",
        "co-godparent; close family friend",
        "💡 a big deal in Mexico",
-       "el compadre, la comadre"
+       "el compadre, la comadre",
+       ""
       ],
       [
        "los parientes",
        "relatives",
        "",
-       "los parientes"
+       "los parientes",
+       ""
       ]
      ]
     }
@@ -5188,175 +5615,204 @@ window.COURSE = {
        "simpático, simpática",
        "nice, likable",
        "",
-       "simpático, simpática"
+       "simpático, simpática",
+       ""
       ],
       [
        "amable",
        "kind",
        "",
-       "amable"
+       "amable",
+       ""
       ],
       [
        "chistoso, chistosa",
        "funny",
        "💡 also gracioso",
-       "chistoso, chistosa"
+       "chistoso, chistosa",
+       ""
       ],
       [
        "divertido, divertida",
        "fun",
        "",
-       "divertido, divertida"
+       "divertido, divertida",
+       ""
       ],
       [
        "aburrido, aburrida",
        "boring (with ser)",
        "💡 estar aburrido = bored",
-       "aburrido, aburrida"
+       "aburrido, aburrida",
+       ""
       ],
       [
        "trabajador, trabajadora",
        "hard-working",
        "",
-       "trabajador, trabajadora"
+       "trabajador, trabajadora",
+       ""
       ],
       [
        "flojo, floja",
        "lazy",
        "🌎 vago (Arg) · 🇪🇸 vago",
-       "flojo, floja"
+       "flojo, floja",
+       ""
       ],
       [
        "inteligente",
        "intelligent",
        "",
-       "inteligente"
+       "inteligente",
+       ""
       ],
       [
        "listo, lista",
        "clever (with ser)",
        "💡 estar listo = ready",
-       "listo, lista"
+       "listo, lista",
+       ""
       ],
       [
        "tímido, tímida",
        "shy",
        "",
-       "tímido, tímida"
+       "tímido, tímida",
+       ""
       ],
       [
        "serio, seria",
        "serious",
        "",
-       "serio, seria"
+       "serio, seria",
+       ""
       ],
       [
        "generoso, generosa",
        "generous",
        "",
-       "generoso, generosa"
+       "generoso, generosa",
+       ""
       ],
       [
        "tacaño, tacaña",
        "stingy",
        "",
-       "tacaño, tacaña"
+       "tacaño, tacaña",
+       ""
       ],
       [
        "honesto, honesta",
        "honest",
        "",
-       "honesto, honesta"
+       "honesto, honesta",
+       ""
       ],
       [
        "mentiroso, mentirosa",
        "liar, lying",
        "",
-       "mentiroso, mentirosa"
+       "mentiroso, mentirosa",
+       ""
       ],
       [
        "chismoso, chismosa",
        "gossipy",
        "",
-       "chismoso, chismosa"
+       "chismoso, chismosa",
+       ""
       ],
       [
        "metiche",
        "nosy",
        "💡 Mexico",
-       "metiche"
+       "metiche",
+       ""
       ],
       [
        "celoso, celosa",
        "jealous",
        "",
-       "celoso, celosa"
+       "celoso, celosa",
+       ""
       ],
       [
        "creído, creída",
        "stuck-up",
        "",
-       "creído, creída"
+       "creído, creída",
+       ""
       ],
       [
        "terco, terca",
        "stubborn",
        "",
-       "terco, terca"
+       "terco, terca",
+       ""
       ],
       [
        "educado, educada",
        "polite",
        "💡 not \"educated\"",
-       "educado, educada"
+       "educado, educada",
+       ""
       ],
       [
        "grosero, grosera",
        "rude",
        "",
-       "grosero, grosera"
+       "grosero, grosera",
+       ""
       ],
       [
        "valiente",
        "brave",
        "",
-       "valiente"
+       "valiente",
+       ""
       ],
       [
        "miedoso, miedosa",
        "easily scared",
        "",
-       "miedoso, miedosa"
+       "miedoso, miedosa",
+       ""
       ],
       [
        "paciente",
        "patient",
        "",
-       "paciente"
+       "paciente",
+       ""
       ],
       [
        "buena onda",
        "cool, nice",
        "💡 Mexico",
-       "buena onda"
+       "buena onda",
+       ""
       ],
       [
        "mala onda",
        "not nice, uncool",
        "💡 Mexico",
-       "mala onda"
+       "mala onda",
+       ""
       ],
       [
        "sangrón, sangrona",
        "annoying, unpleasant",
        "💡 Mexico, casual",
-       "sangrón, sangrona"
+       "sangrón, sangrona",
+       ""
       ],
       [
        "fresa",
        "posh, preppy",
        "💡 Mexico, casual",
-       "fresa"
+       "fresa",
+       ""
       ]
      ]
     },
@@ -5368,151 +5824,176 @@ window.COURSE = {
        "alto, alta",
        "tall",
        "",
-       "alto, alta"
+       "alto, alta",
+       ""
       ],
       [
        "bajo, baja",
        "short",
        "💡 chaparro is very common in Mexico",
-       "bajo, baja"
+       "bajo, baja",
+       ""
       ],
       [
        "delgado, delgada",
        "thin",
        "💡 also flaco",
-       "delgado, delgada"
+       "delgado, delgada",
+       ""
       ],
       [
        "gordito, gordita",
        "chubby",
        "💡 gordo can sound rude; gordito is affectionate",
-       "gordito, gordita"
+       "gordito, gordita",
+       ""
       ],
       [
        "fuerte",
        "strong",
        "",
-       "fuerte"
+       "fuerte",
+       ""
       ],
       [
        "guapo, guapa",
        "good-looking",
        "",
-       "guapo, guapa"
+       "guapo, guapa",
+       ""
       ],
       [
        "bonito, bonita",
        "pretty",
        "",
-       "bonito, bonita"
+       "bonito, bonita",
+       ""
       ],
       [
        "feo, fea",
        "ugly",
        "",
-       "feo, fea"
+       "feo, fea",
+       ""
       ],
       [
        "joven",
        "young",
        "",
-       "joven"
+       "joven",
+       ""
       ],
       [
        "mayor",
        "older, elderly",
        "💡 politer than viejo",
-       "mayor"
+       "mayor",
+       ""
       ],
       [
        "güero, güera",
        "blond, fair-skinned",
        "💡 Mexico; 🌎 rubio",
-       "güero, güera"
+       "güero, güera",
+       ""
       ],
       [
        "moreno, morena",
        "dark-haired, dark-skinned",
        "",
-       "moreno, morena"
+       "moreno, morena",
+       ""
       ],
       [
        "pelirrojo, pelirroja",
        "redhead",
        "",
-       "pelirrojo, pelirroja"
+       "pelirrojo, pelirroja",
+       ""
       ],
       [
        "el pelo largo",
        "long hair",
        "",
-       "el pelo largo"
+       "el pelo largo",
+       ""
       ],
       [
        "el pelo corto",
        "short hair",
        "",
-       "el pelo corto"
+       "el pelo corto",
+       ""
       ],
       [
        "el pelo chino",
        "curly hair",
        "💡 Mexico; 🌎 rizado, crespo (Col), enrulado (Arg)",
-       "el pelo chino"
+       "el pelo chino",
+       ""
       ],
       [
        "el pelo lacio",
        "straight hair",
        "",
-       "el pelo lacio"
+       "el pelo lacio",
+       ""
       ],
       [
        "pelón, pelona",
        "bald",
        "💡 Mexico; 🌎 calvo",
-       "pelón, pelona"
+       "pelón, pelona",
+       ""
       ],
       [
        "los ojos cafés",
        "brown eyes",
        "🌎 ojos marrones (Arg) · 🇪🇸 marrones",
-       "los ojos cafés"
+       "los ojos cafés",
+       ""
       ],
       [
        "los ojos azules",
        "blue eyes",
        "",
-       "los ojos azules"
+       "los ojos azules",
+       ""
       ],
       [
        "los ojos verdes",
        "green eyes",
        "",
-       "los ojos verdes"
+       "los ojos verdes",
+       ""
       ],
       [
        "la barba",
        "beard",
        "",
-       "la barba"
+       "la barba",
+       ""
       ],
       [
        "el bigote",
        "mustache",
        "",
-       "el bigote"
+       "el bigote",
+       ""
       ],
       [
        "las pecas",
        "freckles",
        "",
-       "las pecas"
+       "las pecas",
+       ""
       ],
       [
        "el tatuaje",
        "tattoo",
        "",
-       "el tatuaje"
+       "el tatuaje",
+       ""
       ]
      ]
     },
@@ -5524,145 +6005,169 @@ window.COURSE = {
        "contento, contenta",
        "happy, pleased",
        "",
-       "contento, contenta"
+       "contento, contenta",
+       ""
       ],
       [
        "feliz",
        "happy",
        "💡 usually with estar for a moment, ser for a happy person",
-       "feliz"
+       "feliz",
+       ""
       ],
       [
        "triste",
        "sad",
        "",
-       "triste"
+       "triste",
+       ""
       ],
       [
        "enojado, enojada",
        "angry",
        "🇪🇸 enfadado",
-       "enojado, enojada"
+       "enojado, enojada",
+       ""
       ],
       [
        "cansado, cansada",
        "tired",
        "",
-       "cansado, cansada"
+       "cansado, cansada",
+       ""
       ],
       [
        "aburrido, aburrida",
        "bored (with estar)",
        "",
-       "aburrido, aburrida"
+       "aburrido, aburrida",
+       ""
       ],
       [
        "nervioso, nerviosa",
        "nervous",
        "",
-       "nervioso, nerviosa"
+       "nervioso, nerviosa",
+       ""
       ],
       [
        "preocupado, preocupada",
        "worried",
        "",
-       "preocupado, preocupada"
+       "preocupado, preocupada",
+       ""
       ],
       [
        "emocionado, emocionada",
        "excited",
        "",
-       "emocionado, emocionada"
+       "emocionado, emocionada",
+       ""
       ],
       [
        "sorprendido, sorprendida",
        "surprised",
        "",
-       "sorprendido, sorprendida"
+       "sorprendido, sorprendida",
+       ""
       ],
       [
        "asustado, asustada",
        "scared",
        "",
-       "asustado, asustada"
+       "asustado, asustada",
+       ""
       ],
       [
        "apenado, apenada",
        "embarrassed",
        "💡 Mexico; 🌎 avergonzado",
-       "apenado, apenada"
+       "apenado, apenada",
+       ""
       ],
       [
        "confundido, confundida",
        "confused",
        "",
-       "confundido, confundida"
+       "confundido, confundida",
+       ""
       ],
       [
        "ocupado, ocupada",
        "busy",
        "",
-       "ocupado, ocupada"
+       "ocupado, ocupada",
+       ""
       ],
       [
        "tranquilo, tranquila",
        "calm",
        "",
-       "tranquilo, tranquila"
+       "tranquilo, tranquila",
+       ""
       ],
       [
        "estresado, estresada",
        "stressed",
        "",
-       "estresado, estresada"
+       "estresado, estresada",
+       ""
       ],
       [
        "harto, harta",
        "fed up",
        "",
-       "harto, harta"
+       "harto, harta",
+       ""
       ],
       [
        "enamorado, enamorada",
        "in love",
        "",
-       "enamorado, enamorada"
+       "enamorado, enamorada",
+       ""
       ],
       [
        "de buen humor",
        "in a good mood",
        "",
-       "de buen humor"
+       "de buen humor",
+       ""
       ],
       [
        "de mal humor",
        "in a bad mood",
        "",
-       "de mal humor"
+       "de mal humor",
+       ""
       ],
       [
        "enfermo, enferma",
        "sick",
        "",
-       "enfermo, enferma"
+       "enfermo, enferma",
+       ""
       ],
       [
        "listo, lista",
        "ready (with estar)",
        "",
-       "listo, lista"
+       "listo, lista",
+       ""
       ],
       [
        "desvelado, desvelada",
        "tired from staying up late",
        "💡 Mexico",
-       "desvelado, desvelada"
+       "desvelado, desvelada",
+       ""
       ],
       [
        "crudo, cruda",
        "hungover",
        "💡 Mexico; 🌎 enguayabado (Col), con resaca",
-       "crudo, cruda"
+       "crudo, cruda",
+       ""
       ]
      ]
     },
@@ -5674,193 +6179,225 @@ window.COURSE = {
        "el maestro, la maestra",
        "teacher",
        "",
-       "el maestro, la maestra"
+       "el maestro, la maestra",
+       ""
       ],
       [
        "el profesor, la profesora",
        "teacher, professor",
        "",
-       "el profesor, la profesora"
+       "el profesor, la profesora",
+       ""
       ],
       [
        "el doctor, la doctora",
        "doctor",
        "💡 also el médico",
-       "el doctor, la doctora"
+       "el doctor, la doctora",
+       ""
       ],
       [
        "el enfermero, la enfermera",
        "nurse",
        "",
-       "el enfermero, la enfermera"
+       "el enfermero, la enfermera",
+       ""
       ],
       [
        "el dentista, la dentista",
        "dentist",
        "",
-       "el dentista, la dentista"
+       "el dentista, la dentista",
+       ""
       ],
       [
        "el abogado, la abogada",
        "lawyer",
        "",
-       "el abogado, la abogada"
+       "el abogado, la abogada",
+       ""
       ],
       [
        "el ingeniero, la ingeniera",
        "engineer",
        "",
-       "el ingeniero, la ingeniera"
+       "el ingeniero, la ingeniera",
+       ""
       ],
       [
        "el programador, la programadora",
        "programmer",
        "",
-       "el programador, la programadora"
+       "el programador, la programadora",
+       ""
       ],
       [
        "el policía, la policía",
        "police officer",
        "💡 la policía also means the police",
-       "el policía, la policía"
+       "el policía, la policía",
+       ""
       ],
       [
        "el bombero, la bombera",
        "firefighter",
        "",
-       "el bombero, la bombera"
+       "el bombero, la bombera",
+       ""
       ],
       [
        "el mesero, la mesera",
        "waiter, waitress",
        "🌎 mozo (Arg), mesonero (Ven) · 🇪🇸 camarero",
-       "el mesero, la mesera"
+       "el mesero, la mesera",
+       ""
       ],
       [
        "el cocinero, la cocinera",
        "cook",
        "",
-       "el cocinero, la cocinera"
+       "el cocinero, la cocinera",
+       ""
       ],
       [
        "el cajero, la cajera",
        "cashier",
        "",
-       "el cajero, la cajera"
+       "el cajero, la cajera",
+       ""
       ],
       [
        "el vendedor, la vendedora",
        "salesperson",
        "",
-       "el vendedor, la vendedora"
+       "el vendedor, la vendedora",
+       ""
       ],
       [
        "el chofer",
        "driver",
        "🌎 chófer · 🇪🇸 chófer",
-       "el chofer"
+       "el chofer",
+       ""
       ],
       [
        "el taxista",
        "taxi driver",
        "",
-       "el taxista"
+       "el taxista",
+       ""
       ],
       [
        "el mecánico",
        "mechanic",
        "",
-       "el mecánico"
+       "el mecánico",
+       ""
       ],
       [
        "el plomero",
        "plumber",
        "🌎 gasfitero (Chile, Peru) · 🇪🇸 fontanero",
-       "el plomero"
+       "el plomero",
+       ""
       ],
       [
        "el electricista",
        "electrician",
        "",
-       "el electricista"
+       "el electricista",
+       ""
       ],
       [
        "el albañil",
        "bricklayer, builder",
        "",
-       "el albañil"
+       "el albañil",
+       ""
       ],
       [
        "el carpintero",
        "carpenter",
        "",
-       "el carpintero"
+       "el carpintero",
+       ""
       ],
       [
        "el estilista, la estilista",
        "hairdresser",
        "",
-       "el estilista, la estilista"
+       "el estilista, la estilista",
+       ""
       ],
       [
        "el contador, la contadora",
        "accountant",
        "🇪🇸 contable",
-       "el contador, la contadora"
+       "el contador, la contadora",
+       ""
       ],
       [
        "el secretario, la secretaria",
        "secretary",
        "",
-       "el secretario, la secretaria"
+       "el secretario, la secretaria",
+       ""
       ],
       [
        "el periodista, la periodista",
        "journalist",
        "",
-       "el periodista, la periodista"
+       "el periodista, la periodista",
+       ""
       ],
       [
        "el veterinario, la veterinaria",
        "vet",
        "",
-       "el veterinario, la veterinaria"
+       "el veterinario, la veterinaria",
+       ""
       ],
       [
        "el gerente, la gerente",
        "manager",
        "",
-       "el gerente, la gerente"
+       "el gerente, la gerente",
+       ""
       ],
       [
        "el dueño, la dueña",
        "owner",
        "",
-       "el dueño, la dueña"
+       "el dueño, la dueña",
+       ""
       ],
       [
        "el empleado, la empleada",
        "employee",
        "",
-       "el empleado, la empleada"
+       "el empleado, la empleada",
+       ""
       ],
       [
        "el ama de casa",
        "homemaker",
        "💡 la ama → el ama because of the stressed a",
-       "el ama de casa"
+       "el ama de casa",
+       ""
       ],
       [
        "el jubilado, la jubilada",
        "retiree",
        "",
-       "el jubilado, la jubilada"
+       "el jubilado, la jubilada",
+       ""
       ],
       [
        "el estudiante, la estudiante",
        "student",
        "",
-       "el estudiante, la estudiante"
+       "el estudiante, la estudiante",
+       ""
       ]
      ]
     },
@@ -5872,139 +6409,162 @@ window.COURSE = {
        "mexicano, mexicana",
        "Mexican — México",
        "",
-       "mexicano, mexicana"
+       "mexicano, mexicana",
+       ""
       ],
       [
        "guatemalteco, guatemalteca",
        "Guatemalan — Guatemala",
        "",
-       "guatemalteco, guatemalteca"
+       "guatemalteco, guatemalteca",
+       ""
       ],
       [
        "salvadoreño, salvadoreña",
        "Salvadoran — El Salvador",
        "",
-       "salvadoreño, salvadoreña"
+       "salvadoreño, salvadoreña",
+       ""
       ],
       [
        "hondureño, hondureña",
        "Honduran — Honduras",
        "",
-       "hondureño, hondureña"
+       "hondureño, hondureña",
+       ""
       ],
       [
        "nicaragüense",
        "Nicaraguan — Nicaragua",
        "",
-       "nicaragüense"
+       "nicaragüense",
+       ""
       ],
       [
        "costarricense",
        "Costa Rican — Costa Rica",
        "💡 casual: tico, tica",
-       "costarricense"
+       "costarricense",
+       ""
       ],
       [
        "panameño, panameña",
        "Panamanian — Panamá",
        "",
-       "panameño, panameña"
+       "panameño, panameña",
+       ""
       ],
       [
        "cubano, cubana",
        "Cuban — Cuba",
        "",
-       "cubano, cubana"
+       "cubano, cubana",
+       ""
       ],
       [
        "dominicano, dominicana",
        "Dominican — República Dominicana",
        "",
-       "dominicano, dominicana"
+       "dominicano, dominicana",
+       ""
       ],
       [
        "puertorriqueño, puertorriqueña",
        "Puerto Rican — Puerto Rico",
        "💡 also boricua",
-       "puertorriqueño, puertorriqueña"
+       "puertorriqueño, puertorriqueña",
+       ""
       ],
       [
        "colombiano, colombiana",
        "Colombian — Colombia",
        "",
-       "colombiano, colombiana"
+       "colombiano, colombiana",
+       ""
       ],
       [
        "venezolano, venezolana",
        "Venezuelan — Venezuela",
        "",
-       "venezolano, venezolana"
+       "venezolano, venezolana",
+       ""
       ],
       [
        "ecuatoriano, ecuatoriana",
        "Ecuadorian — Ecuador",
        "",
-       "ecuatoriano, ecuatoriana"
+       "ecuatoriano, ecuatoriana",
+       ""
       ],
       [
        "peruano, peruana",
        "Peruvian — Perú",
        "",
-       "peruano, peruana"
+       "peruano, peruana",
+       ""
       ],
       [
        "boliviano, boliviana",
        "Bolivian — Bolivia",
        "",
-       "boliviano, boliviana"
+       "boliviano, boliviana",
+       ""
       ],
       [
        "chileno, chilena",
        "Chilean — Chile",
        "",
-       "chileno, chilena"
+       "chileno, chilena",
+       ""
       ],
       [
        "argentino, argentina",
        "Argentine — Argentina",
        "",
-       "argentino, argentina"
+       "argentino, argentina",
+       ""
       ],
       [
        "uruguayo, uruguaya",
        "Uruguayan — Uruguay",
        "",
-       "uruguayo, uruguaya"
+       "uruguayo, uruguaya",
+       ""
       ],
       [
        "paraguayo, paraguaya",
        "Paraguayan — Paraguay",
        "",
-       "paraguayo, paraguaya"
+       "paraguayo, paraguaya",
+       ""
       ],
       [
        "estadounidense",
        "American — Estados Unidos",
        "💡 also americano, gringo (casual)",
-       "estadounidense"
+       "estadounidense",
+       ""
       ],
       [
        "canadiense",
        "Canadian — Canadá",
        "",
-       "canadiense"
+       "canadiense",
+       ""
       ],
       [
        "brasileño, brasileña",
        "Brazilian — Brasil",
        "",
-       "brasileño, brasileña"
+       "brasileño, brasileña",
+       ""
       ],
       [
        "español, española",
        "Spanish — España",
        "",
-       "español, española"
+       "español, española",
+       ""
       ]
      ]
     }
@@ -6409,211 +6969,246 @@ window.COURSE = {
        "hablar",
        "to talk, speak",
        "",
-       "hablar"
+       "hablar",
+       ""
       ],
       [
        "trabajar",
        "to work",
        "",
-       "trabajar"
+       "trabajar",
+       ""
       ],
       [
        "estudiar",
        "to study",
        "",
-       "estudiar"
+       "estudiar",
+       ""
       ],
       [
        "cocinar",
        "to cook",
        "",
-       "cocinar"
+       "cocinar",
+       ""
       ],
       [
        "comprar",
        "to buy",
        "",
-       "comprar"
+       "comprar",
+       ""
       ],
       [
        "preparar",
        "to prepare",
        "",
-       "preparar"
+       "preparar",
+       ""
       ],
       [
        "tomar",
        "to take; to drink",
        "",
-       "tomar"
+       "tomar",
+       ""
       ],
       [
        "llegar",
        "to arrive",
        "",
-       "llegar"
+       "llegar",
+       ""
       ],
       [
        "regresar",
        "to come back",
        "",
-       "regresar"
+       "regresar",
+       ""
       ],
       [
        "caminar",
        "to walk",
        "",
-       "caminar"
+       "caminar",
+       ""
       ],
       [
        "escuchar",
        "to listen",
        "",
-       "escuchar"
+       "escuchar",
+       ""
       ],
       [
        "mirar",
        "to look at, watch",
        "",
-       "mirar"
+       "mirar",
+       ""
       ],
       [
        "buscar",
        "to look for",
        "",
-       "buscar"
+       "buscar",
+       ""
       ],
       [
        "llamar",
        "to call",
        "",
-       "llamar"
+       "llamar",
+       ""
       ],
       [
        "platicar",
        "to chat",
        "💡 Mexico; 🌎 conversar, charlar",
-       "platicar"
+       "platicar",
+       ""
       ],
       [
        "chismear",
        "to gossip",
        "",
-       "chismear"
+       "chismear",
+       ""
       ],
       [
        "ayudar",
        "to help",
        "",
-       "ayudar"
+       "ayudar",
+       ""
       ],
       [
        "limpiar",
        "to clean",
        "",
-       "limpiar"
+       "limpiar",
+       ""
       ],
       [
        "lavar",
        "to wash",
        "",
-       "lavar"
+       "lavar",
+       ""
       ],
       [
        "manejar",
        "to drive",
        "🇪🇸 conducir",
-       "manejar"
+       "manejar",
+       ""
       ],
       [
        "necesitar",
        "to need",
        "",
-       "necesitar"
+       "necesitar",
+       ""
       ],
       [
        "esperar",
        "to wait; to hope",
        "",
-       "esperar"
+       "esperar",
+       ""
       ],
       [
        "pagar",
        "to pay",
        "",
-       "pagar"
+       "pagar",
+       ""
       ],
       [
        "usar",
        "to use",
        "",
-       "usar"
+       "usar",
+       ""
       ],
       [
        "viajar",
        "to travel",
        "",
-       "viajar"
+       "viajar",
+       ""
       ],
       [
        "bailar",
        "to dance",
        "",
-       "bailar"
+       "bailar",
+       ""
       ],
       [
        "cantar",
        "to sing",
        "",
-       "cantar"
+       "cantar",
+       ""
       ],
       [
        "nadar",
        "to swim",
        "",
-       "nadar"
+       "nadar",
+       ""
       ],
       [
        "terminar",
        "to finish",
        "",
-       "terminar"
+       "terminar",
+       ""
       ],
       [
        "descansar",
        "to rest",
        "",
-       "descansar"
+       "descansar",
+       ""
       ],
       [
        "ganar",
        "to win; to earn",
        "",
-       "ganar"
+       "ganar",
+       ""
       ],
       [
        "contestar",
        "to answer",
        "",
-       "contestar"
+       "contestar",
+       ""
       ],
       [
        "enseñar",
        "to teach; to show",
        "",
-       "enseñar"
+       "enseñar",
+       ""
       ],
       [
        "desayunar",
        "to have breakfast",
        "",
-       "desayunar"
+       "desayunar",
+       ""
       ],
       [
        "cenar",
        "to have dinner",
        "",
-       "cenar"
+       "cenar",
+       ""
       ]
      ]
     },
@@ -6625,151 +7220,176 @@ window.COURSE = {
        "comer",
        "to eat",
        "",
-       "comer"
+       "comer",
+       ""
       ],
       [
        "beber",
        "to drink",
        "💡 tomar is more common in Mexico",
-       "beber"
+       "beber",
+       ""
       ],
       [
        "correr",
        "to run",
        "",
-       "correr"
+       "correr",
+       ""
       ],
       [
        "leer",
        "to read",
        "",
-       "leer"
+       "leer",
+       ""
       ],
       [
        "aprender",
        "to learn",
        "",
-       "aprender"
+       "aprender",
+       ""
       ],
       [
        "comprender",
        "to understand",
        "",
-       "comprender"
+       "comprender",
+       ""
       ],
       [
        "vender",
        "to sell",
        "",
-       "vender"
+       "vender",
+       ""
       ],
       [
        "deber",
        "to owe; should",
        "",
-       "deber"
+       "deber",
+       ""
       ],
       [
        "creer",
        "to believe",
        "",
-       "creer"
+       "creer",
+       ""
       ],
       [
        "responder",
        "to answer",
        "",
-       "responder"
+       "responder",
+       ""
       ],
       [
        "prometer",
        "to promise",
        "",
-       "prometer"
+       "prometer",
+       ""
       ],
       [
        "barrer",
        "to sweep",
        "",
-       "barrer"
+       "barrer",
+       ""
       ],
       [
        "romper",
        "to break",
        "",
-       "romper"
+       "romper",
+       ""
       ],
       [
        "vivir",
        "to live",
        "",
-       "vivir"
+       "vivir",
+       ""
       ],
       [
        "escribir",
        "to write",
        "",
-       "escribir"
+       "escribir",
+       ""
       ],
       [
        "abrir",
        "to open",
        "",
-       "abrir"
+       "abrir",
+       ""
       ],
       [
        "recibir",
        "to receive",
        "",
-       "recibir"
+       "recibir",
+       ""
       ],
       [
        "decidir",
        "to decide",
        "",
-       "decidir"
+       "decidir",
+       ""
       ],
       [
        "compartir",
        "to share",
        "",
-       "compartir"
+       "compartir",
+       ""
       ],
       [
        "subir",
        "to go up; to upload",
        "",
-       "subir"
+       "subir",
+       ""
       ],
       [
        "discutir",
        "to argue",
        "",
-       "discutir"
+       "discutir",
+       ""
       ],
       [
        "asistir",
        "to attend",
        "💡 not \"to assist\"",
-       "asistir"
+       "asistir",
+       ""
       ],
       [
        "describir",
        "to describe",
        "",
-       "describir"
+       "describir",
+       ""
       ],
       [
        "permitir",
        "to allow",
        "",
-       "permitir"
+       "permitir",
+       ""
       ],
       [
        "sufrir",
        "to suffer",
        "",
-       "sufrir"
+       "sufrir",
+       ""
       ]
      ]
     },
@@ -6781,121 +7401,141 @@ window.COURSE = {
        "despertarse",
        "to wake up",
        "",
-       "despertarse"
+       "despertarse",
+       ""
       ],
       [
        "levantarse",
        "to get up",
        "",
-       "levantarse"
+       "levantarse",
+       ""
       ],
       [
        "bañarse",
        "to shower, bathe",
        "💡 Mexico says bañarse for a shower · 🇪🇸 ducharse",
-       "bañarse"
+       "bañarse",
+       ""
       ],
       [
        "lavarse los dientes",
        "to brush your teeth",
        "💡 also cepillarse",
-       "lavarse los dientes"
+       "lavarse los dientes",
+       ""
       ],
       [
        "peinarse",
        "to comb your hair",
        "",
-       "peinarse"
+       "peinarse",
+       ""
       ],
       [
        "vestirse",
        "to get dressed",
        "",
-       "vestirse"
+       "vestirse",
+       ""
       ],
       [
        "maquillarse",
        "to put on makeup",
        "",
-       "maquillarse"
+       "maquillarse",
+       ""
       ],
       [
        "rasurarse",
        "to shave",
        "🌎 afeitarse",
-       "rasurarse"
+       "rasurarse",
+       ""
       ],
       [
        "arreglarse",
        "to get ready",
        "",
-       "arreglarse"
+       "arreglarse",
+       ""
       ],
       [
        "desayunar",
        "to have breakfast",
        "",
-       "desayunar"
+       "desayunar",
+       ""
       ],
       [
        "irse al trabajo",
        "to leave for work",
        "",
-       "irse al trabajo"
+       "irse al trabajo",
+       ""
       ],
       [
        "ir a la escuela",
        "to go to school",
        "",
-       "ir a la escuela"
+       "ir a la escuela",
+       ""
       ],
       [
        "comer",
        "to eat; to have the main meal",
        "💡 in Mexico la comida is the big meal, around 2–4 pm",
-       "comer"
+       "comer",
+       ""
       ],
       [
        "tomar una siesta",
        "to take a nap",
        "",
-       "tomar una siesta"
+       "tomar una siesta",
+       ""
       ],
       [
        "cenar",
        "to have dinner",
        "",
-       "cenar"
+       "cenar",
+       ""
       ],
       [
        "ver la tele",
        "to watch TV",
        "",
-       "ver la tele"
+       "ver la tele",
+       ""
       ],
       [
        "acostarse",
        "to go to bed",
        "",
-       "acostarse"
+       "acostarse",
+       ""
       ],
       [
        "dormirse",
        "to fall asleep",
        "",
-       "dormirse"
+       "dormirse",
+       ""
       ],
       [
        "quedarse dormido",
        "to oversleep; to fall asleep",
        "",
-       "quedarse dormido"
+       "quedarse dormido",
+       ""
       ],
       [
        "desvelarse",
        "to stay up late",
        "",
-       "desvelarse"
+       "desvelarse",
+       ""
       ]
      ]
     },
@@ -6907,85 +7547,99 @@ window.COURSE = {
        "el desayuno",
        "breakfast",
        "",
-       "el desayuno"
+       "el desayuno",
+       ""
       ],
       [
        "el almuerzo",
        "late breakfast, brunch",
        "💡 Mexico; 🌎 lunch in most other countries",
-       "el almuerzo"
+       "el almuerzo",
+       ""
       ],
       [
        "la comida",
        "main midday meal; food",
        "",
-       "la comida"
+       "la comida",
+       ""
       ],
       [
        "la cena",
        "dinner",
        "",
-       "la cena"
+       "la cena",
+       ""
       ],
       [
        "la merienda",
        "afternoon snack",
        "",
-       "la merienda"
+       "la merienda",
+       ""
       ],
       [
        "la botana",
        "snack, appetizer",
        "💡 Mexico; 🌎 picada (Arg), pasabocas (Col) · 🇪🇸 tapa",
-       "la botana"
+       "la botana",
+       ""
       ],
       [
        "el antojo",
        "craving",
        "",
-       "el antojo"
+       "el antojo",
+       ""
       ],
       [
        "la madrugada",
        "early morning (after midnight)",
        "",
-       "la madrugada"
+       "la madrugada",
+       ""
       ],
       [
        "en la mañana",
        "in the morning",
        "🇪🇸 por la mañana",
-       "en la mañana"
+       "en la mañana",
+       ""
       ],
       [
        "al mediodía",
        "at noon",
        "",
-       "al mediodía"
+       "al mediodía",
+       ""
       ],
       [
        "en la tarde",
        "in the afternoon",
        "",
-       "en la tarde"
+       "en la tarde",
+       ""
       ],
       [
        "en la noche",
        "at night",
        "",
-       "en la noche"
+       "en la noche",
+       ""
       ],
       [
        "temprano",
        "early",
        "",
-       "temprano"
+       "temprano",
+       ""
       ],
       [
        "tarde",
        "late",
        "",
-       "tarde"
+       "tarde",
+       ""
       ]
      ]
     },
@@ -6997,109 +7651,127 @@ window.COURSE = {
        "siempre",
        "always",
        "",
-       "siempre"
+       "siempre",
+       ""
       ],
       [
        "casi siempre",
        "almost always",
        "",
-       "casi siempre"
+       "casi siempre",
+       ""
       ],
       [
        "a veces",
        "sometimes",
        "",
-       "a veces"
+       "a veces",
+       ""
       ],
       [
        "de vez en cuando",
        "once in a while",
        "",
-       "de vez en cuando"
+       "de vez en cuando",
+       ""
       ],
       [
        "casi nunca",
        "hardly ever",
        "",
-       "casi nunca"
+       "casi nunca",
+       ""
       ],
       [
        "nunca",
        "never",
        "",
-       "nunca"
+       "nunca",
+       ""
       ],
       [
        "todos los días",
        "every day",
        "",
-       "todos los días"
+       "todos los días",
+       ""
       ],
       [
        "diario",
        "daily",
        "💡 Mexico: Voy diario.",
-       "diario"
+       "diario",
+       ""
       ],
       [
        "seguido",
        "often",
        "💡 Mexico",
-       "seguido"
+       "seguido",
+       ""
       ],
       [
        "a menudo",
        "often",
        "",
-       "a menudo"
+       "a menudo",
+       ""
       ],
       [
        "cada semana",
        "every week",
        "",
-       "cada semana"
+       "cada semana",
+       ""
       ],
       [
        "una vez a la semana",
        "once a week",
        "",
-       "una vez a la semana"
+       "una vez a la semana",
+       ""
       ],
       [
        "dos veces al día",
        "twice a day",
        "",
-       "dos veces al día"
+       "dos veces al día",
+       ""
       ],
       [
        "los lunes",
        "on Mondays",
        "",
-       "los lunes"
+       "los lunes",
+       ""
       ],
       [
        "los fines de semana",
        "on weekends",
        "",
-       "los fines de semana"
+       "los fines de semana",
+       ""
       ],
       [
        "de lunes a viernes",
        "Monday to Friday",
        "",
-       "de lunes a viernes"
+       "de lunes a viernes",
+       ""
       ],
       [
        "normalmente",
        "usually",
        "",
-       "normalmente"
+       "normalmente",
+       ""
       ],
       [
        "por lo general",
        "generally",
        "",
-       "por lo general"
+       "por lo general",
+       ""
       ]
      ]
     }
@@ -7526,127 +8198,148 @@ window.COURSE = {
        "¿Qué?",
        "What?",
        "",
-       "¿Qué?"
+       "¿Qué?",
+       ""
       ],
       [
        "¿Quién?",
        "Who? (one)",
        "",
-       "¿Quién?"
+       "¿Quién?",
+       ""
       ],
       [
        "¿Quiénes?",
        "Who? (more than one)",
        "",
-       "¿Quiénes?"
+       "¿Quiénes?",
+       ""
       ],
       [
        "¿Dónde?",
        "Where?",
        "",
-       "¿Dónde?"
+       "¿Dónde?",
+       ""
       ],
       [
        "¿Adónde?",
        "Where to?",
        "",
-       "¿Adónde?"
+       "¿Adónde?",
+       ""
       ],
       [
        "¿De dónde?",
        "Where from?",
        "",
-       "¿De dónde?"
+       "¿De dónde?",
+       ""
       ],
       [
        "¿Cuándo?",
        "When?",
        "",
-       "¿Cuándo?"
+       "¿Cuándo?",
+       ""
       ],
       [
        "¿Por qué?",
        "Why?",
        "💡 porque = because",
-       "¿Por qué?"
+       "¿Por qué?",
+       ""
       ],
       [
        "¿Para qué?",
        "What for?",
        "",
-       "¿Para qué?"
+       "¿Para qué?",
+       ""
       ],
       [
        "¿Cómo?",
        "How?",
        "",
-       "¿Cómo?"
+       "¿Cómo?",
+       ""
       ],
       [
        "¿Cuál?",
        "Which? What? (one)",
        "",
-       "¿Cuál?"
+       "¿Cuál?",
+       ""
       ],
       [
        "¿Cuáles?",
        "Which? (more than one)",
        "",
-       "¿Cuáles?"
+       "¿Cuáles?",
+       ""
       ],
       [
        "¿Cuánto?",
        "How much?",
        "",
-       "¿Cuánto?"
+       "¿Cuánto?",
+       ""
       ],
       [
        "¿Cuántos?",
        "How many?",
        "",
-       "¿Cuántos?"
+       "¿Cuántos?",
+       ""
       ],
       [
        "¿A qué hora?",
        "At what time?",
        "",
-       "¿A qué hora?"
+       "¿A qué hora?",
+       ""
       ],
       [
        "¿Con quién?",
        "With whom?",
        "",
-       "¿Con quién?"
+       "¿Con quién?",
+       ""
       ],
       [
        "¿De quién?",
        "Whose?",
        "",
-       "¿De quién?"
+       "¿De quién?",
+       ""
       ],
       [
        "¿Qué pasó?",
        "What happened?",
        "",
-       "¿Qué pasó?"
+       "¿Qué pasó?",
+       ""
       ],
       [
        "¿En serio?",
        "Seriously?",
        "",
-       "¿En serio?"
+       "¿En serio?",
+       ""
       ],
       [
        "¿Neta?",
        "Really? For real?",
        "💡 Mexico, casual",
-       "¿Neta?"
+       "¿Neta?",
+       ""
       ],
       [
        "¿A poco?",
        "No way, really?",
        "💡 Mexico",
-       "¿A poco?"
+       "¿A poco?",
+       ""
       ]
      ]
     },
@@ -7658,97 +8351,113 @@ window.COURSE = {
        "ser",
        "to be (who, what)",
        "💡 soy, eres, es, somos, son",
-       "ser"
+       "ser",
+       ""
       ],
       [
        "estar",
        "to be (where, how)",
        "💡 estoy, estás, está, estamos, están",
-       "estar"
+       "estar",
+       ""
       ],
       [
        "ir",
        "to go",
        "💡 voy, vas, va, vamos, van",
-       "ir"
+       "ir",
+       ""
       ],
       [
        "tener",
        "to have",
        "💡 tengo, tienes, tiene",
-       "tener"
+       "tener",
+       ""
       ],
       [
        "hacer",
        "to do, make",
        "💡 hago",
-       "hacer"
+       "hacer",
+       ""
       ],
       [
        "decir",
        "to say, tell",
        "💡 digo, dices",
-       "decir"
+       "decir",
+       ""
       ],
       [
        "poner",
        "to put",
        "💡 pongo",
-       "poner"
+       "poner",
+       ""
       ],
       [
        "salir",
        "to go out, leave",
        "💡 salgo",
-       "salir"
+       "salir",
+       ""
       ],
       [
        "venir",
        "to come",
        "💡 vengo, vienes",
-       "venir"
+       "venir",
+       ""
       ],
       [
        "traer",
        "to bring; to have on you",
        "💡 traigo",
-       "traer"
+       "traer",
+       ""
       ],
       [
        "oír",
        "to hear",
        "💡 oigo, oyes",
-       "oír"
+       "oír",
+       ""
       ],
       [
        "dar",
        "to give",
        "💡 doy",
-       "dar"
+       "dar",
+       ""
       ],
       [
        "saber",
        "to know (facts)",
        "💡 sé",
-       "saber"
+       "saber",
+       ""
       ],
       [
        "conocer",
        "to know (people, places)",
        "💡 conozco",
-       "conocer"
+       "conocer",
+       ""
       ],
       [
        "ver",
        "to see",
        "💡 veo",
-       "ver"
+       "ver",
+       ""
       ],
       [
        "caer",
        "to fall",
        "💡 caigo",
-       "caer"
+       "caer",
+       ""
       ]
      ]
     },
@@ -7760,223 +8469,260 @@ window.COURSE = {
        "la casa",
        "house, home",
        "",
-       "la casa"
+       "la casa",
+       ""
       ],
       [
        "el edificio",
        "building",
        "",
-       "el edificio"
+       "el edificio",
+       ""
       ],
       [
        "el departamento",
        "apartment",
        "🌎 apartamento (Col, Ven) · 🇪🇸 piso",
-       "el departamento"
+       "el departamento",
+       ""
       ],
       [
        "la colonia",
        "neighborhood",
        "💡 Mexico; 🌎 el barrio",
-       "la colonia"
+       "la colonia",
+       ""
       ],
       [
        "el barrio",
        "neighborhood",
        "",
-       "el barrio"
+       "el barrio",
+       ""
       ],
       [
        "la calle",
        "street",
        "",
-       "la calle"
+       "la calle",
+       ""
       ],
       [
        "la esquina",
        "corner",
        "",
-       "la esquina"
+       "la esquina",
+       ""
       ],
       [
        "la tienda",
        "store",
        "",
-       "la tienda"
+       "la tienda",
+       ""
       ],
       [
        "la tiendita",
        "corner store",
        "💡 Mexico; also la tienda de abarrotes",
-       "la tiendita"
+       "la tiendita",
+       ""
       ],
       [
        "el mercado",
        "market",
        "",
-       "el mercado"
+       "el mercado",
+       ""
       ],
       [
        "el tianguis",
        "open-air street market",
        "💡 Mexico",
-       "el tianguis"
+       "el tianguis",
+       ""
       ],
       [
        "el supermercado",
        "supermarket",
        "💡 el súper",
-       "el supermercado"
+       "el supermercado",
+       ""
       ],
       [
        "la panadería",
        "bakery",
        "",
-       "la panadería"
+       "la panadería",
+       ""
       ],
       [
        "la tortillería",
        "tortilla shop",
        "",
-       "la tortillería"
+       "la tortillería",
+       ""
       ],
       [
        "la carnicería",
        "butcher shop",
        "",
-       "la carnicería"
+       "la carnicería",
+       ""
       ],
       [
        "la farmacia",
        "pharmacy",
        "",
-       "la farmacia"
+       "la farmacia",
+       ""
       ],
       [
        "el banco",
        "bank",
        "",
-       "el banco"
+       "el banco",
+       ""
       ],
       [
        "el cajero automático",
        "ATM",
        "",
-       "el cajero automático"
+       "el cajero automático",
+       ""
       ],
       [
        "la iglesia",
        "church",
        "",
-       "la iglesia"
+       "la iglesia",
+       ""
       ],
       [
        "la escuela",
        "school",
        "",
-       "la escuela"
+       "la escuela",
+       ""
       ],
       [
        "el parque",
        "park",
        "",
-       "el parque"
+       "el parque",
+       ""
       ],
       [
        "la plaza",
        "square; mall",
        "",
-       "la plaza"
+       "la plaza",
+       ""
       ],
       [
        "el zócalo",
        "main square",
        "💡 Mexico",
-       "el zócalo"
+       "el zócalo",
+       ""
       ],
       [
        "el centro",
        "downtown",
        "",
-       "el centro"
+       "el centro",
+       ""
       ],
       [
        "el hospital",
        "hospital",
        "",
-       "el hospital"
+       "el hospital",
+       ""
       ],
       [
        "la oficina",
        "office",
        "",
-       "la oficina"
+       "la oficina",
+       ""
       ],
       [
        "el restaurante",
        "restaurant",
        "",
-       "el restaurante"
+       "el restaurante",
+       ""
       ],
       [
        "la fonda",
        "small family restaurant",
        "💡 Mexico",
-       "la fonda"
+       "la fonda",
+       ""
       ],
       [
        "la taquería",
        "taco place",
        "",
-       "la taquería"
+       "la taquería",
+       ""
       ],
       [
        "el puesto",
        "street stall",
        "",
-       "el puesto"
+       "el puesto",
+       ""
       ],
       [
        "la gasolinera",
        "gas station",
        "",
-       "la gasolinera"
+       "la gasolinera",
+       ""
       ],
       [
        "la papelería",
        "stationery store",
        "",
-       "la papelería"
+       "la papelería",
+       ""
       ],
       [
        "la lavandería",
        "laundromat",
        "",
-       "la lavandería"
+       "la lavandería",
+       ""
       ],
       [
        "el gimnasio",
        "gym",
        "",
-       "el gimnasio"
+       "el gimnasio",
+       ""
       ],
       [
        "el cine",
        "movie theater",
        "",
-       "el cine"
+       "el cine",
+       ""
       ],
       [
        "la biblioteca",
        "library",
        "",
-       "la biblioteca"
+       "la biblioteca",
+       ""
       ],
       [
        "el correo",
        "post office",
        "",
-       "el correo"
+       "el correo",
+       ""
       ]
      ]
     },
@@ -7988,109 +8734,127 @@ window.COURSE = {
        "el chisme",
        "gossip",
        "",
-       "el chisme"
+       "el chisme",
+       ""
       ],
       [
        "el rumor",
        "rumor",
        "",
-       "el rumor"
+       "el rumor",
+       ""
       ],
       [
        "¿Ya supiste?",
        "Did you hear?",
        "",
-       "¿Ya supiste?"
+       "¿Ya supiste?",
+       ""
       ],
       [
        "dicen que",
        "they say that",
        "",
-       "dicen que"
+       "dicen que",
+       ""
       ],
       [
        "me contaron que",
        "someone told me that",
        "",
-       "me contaron que"
+       "me contaron que",
+       ""
       ],
       [
        "fíjate que",
        "guess what, get this",
        "",
-       "fíjate que"
+       "fíjate que",
+       ""
       ],
       [
        "¡No me digas!",
        "You don't say!",
        "",
-       "¡No me digas!"
+       "¡No me digas!",
+       ""
       ],
       [
        "¡Qué escándalo!",
        "What a scandal!",
        "",
-       "¡Qué escándalo!"
+       "¡Qué escándalo!",
+       ""
       ],
       [
        "¡Cuéntamelo todo!",
        "Tell me everything!",
        "",
-       "¡Cuéntamelo todo!"
+       "¡Cuéntamelo todo!",
+       ""
       ],
       [
        "no le digas a nadie",
        "don't tell anyone",
        "",
-       "no le digas a nadie"
+       "no le digas a nadie",
+       ""
       ],
       [
        "entre nos",
        "between us",
        "💡 Mexico",
-       "entre nos"
+       "entre nos",
+       ""
       ],
       [
        "se rumora que",
        "rumor has it",
        "",
-       "se rumora que"
+       "se rumora que",
+       ""
       ],
       [
        "¡Híjole!",
        "Oh man! Yikes!",
        "💡 Mexico",
-       "¡Híjole!"
+       "¡Híjole!",
+       ""
       ],
       [
        "¡Órale!",
        "Wow! / OK, let's go!",
        "💡 Mexico",
-       "¡Órale!"
+       "¡Órale!",
+       ""
       ],
       [
        "¡Qué oso!",
        "How embarrassing!",
        "💡 Mexico",
-       "¡Qué oso!"
+       "¡Qué oso!",
+       ""
       ],
       [
        "¡No manches!",
        "No way!",
        "💡 Mexico",
-       "¡No manches!"
+       "¡No manches!",
+       ""
       ],
       [
        "¡No inventes!",
        "You're kidding!",
        "💡 Mexico",
-       "¡No inventes!"
+       "¡No inventes!",
+       ""
       ],
       [
        "¡Qué metiche!",
        "So nosy!",
        "💡 Mexico",
-       "¡Qué metiche!"
+       "¡Qué metiche!",
+       ""
       ]
      ]
     }
@@ -8490,139 +9254,162 @@ window.COURSE = {
        "la mesa",
        "table",
        "",
-       "la mesa"
+       "la mesa",
+       ""
       ],
       [
        "el menú",
        "menu",
        "💡 also la carta",
-       "el menú"
+       "el menú",
+       ""
       ],
       [
        "el mesero, la mesera",
        "waiter, waitress",
        "🌎 mozo (Arg) · 🇪🇸 camarero",
-       "el mesero, la mesera"
+       "el mesero, la mesera",
+       ""
       ],
       [
        "la cuenta",
        "the check",
        "💡 La cuenta, por favor.",
-       "la cuenta"
+       "la cuenta",
+       ""
       ],
       [
        "la propina",
        "tip",
        "",
-       "la propina"
+       "la propina",
+       ""
       ],
       [
        "la orden",
        "order; serving",
        "💡 Mexico: una orden de tacos",
-       "la orden"
+       "la orden",
+       ""
       ],
       [
        "para llevar",
        "to go",
        "",
-       "para llevar"
+       "para llevar",
+       ""
       ],
       [
        "para comer aquí",
        "for here",
        "",
-       "para comer aquí"
+       "para comer aquí",
+       ""
       ],
       [
        "la reservación",
        "reservation",
        "🇪🇸 reserva",
-       "la reservación"
+       "la reservación",
+       ""
       ],
       [
        "la entrada",
        "starter",
        "",
-       "la entrada"
+       "la entrada",
+       ""
       ],
       [
        "el plato fuerte",
        "main course",
        "",
-       "el plato fuerte"
+       "el plato fuerte",
+       ""
       ],
       [
        "el postre",
        "dessert",
        "",
-       "el postre"
+       "el postre",
+       ""
       ],
       [
        "la comida corrida",
        "set lunch menu",
        "💡 Mexico; 🇪🇸 menú del día",
-       "la comida corrida"
+       "la comida corrida",
+       ""
       ],
       [
        "la especialidad de la casa",
        "house specialty",
        "",
-       "la especialidad de la casa"
+       "la especialidad de la casa",
+       ""
       ],
       [
        "¿Qué me recomienda?",
        "What do you recommend?",
        "",
-       "¿Qué me recomienda?"
+       "¿Qué me recomienda?",
+       ""
       ],
       [
        "¿Me trae…?",
        "Could you bring me…?",
        "",
-       "¿Me trae?"
+       "¿Me trae?",
+       ""
       ],
       [
        "quisiera…",
        "I'd like…",
        "",
-       "quisiera"
+       "quisiera",
+       ""
       ],
       [
        "para mí…",
        "for me…",
        "",
-       "para mí"
+       "para mí",
+       ""
       ],
       [
        "sin cebolla",
        "without onion",
        "",
-       "sin cebolla"
+       "sin cebolla",
+       ""
       ],
       [
        "bien cocido",
        "well done",
        "",
-       "bien cocido"
+       "bien cocido",
+       ""
       ],
       [
        "término medio",
        "medium (steak)",
        "💡 Mexico",
-       "término medio"
+       "término medio",
+       ""
       ],
       [
        "la salsa picante",
        "hot sauce",
        "",
-       "la salsa picante"
+       "la salsa picante",
+       ""
       ],
       [
        "el baño",
        "restroom",
        "",
-       "el baño"
+       "el baño",
+       ""
       ]
      ]
     },
@@ -8634,163 +9421,190 @@ window.COURSE = {
        "el plato",
        "plate",
        "",
-       "el plato"
+       "el plato",
+       ""
       ],
       [
        "el tazón",
        "bowl",
        "💡 also el plato hondo",
-       "el tazón"
+       "el tazón",
+       ""
       ],
       [
        "el vaso",
        "glass",
        "",
-       "el vaso"
+       "el vaso",
+       ""
       ],
       [
        "la taza",
        "cup",
        "",
-       "la taza"
+       "la taza",
+       ""
       ],
       [
        "la copa",
        "wine glass",
        "",
-       "la copa"
+       "la copa",
+       ""
       ],
       [
        "el tenedor",
        "fork",
        "",
-       "el tenedor"
+       "el tenedor",
+       ""
       ],
       [
        "el cuchillo",
        "knife",
        "",
-       "el cuchillo"
+       "el cuchillo",
+       ""
       ],
       [
        "la cuchara",
        "spoon",
        "",
-       "la cuchara"
+       "la cuchara",
+       ""
       ],
       [
        "la cucharita",
        "teaspoon",
        "",
-       "la cucharita"
+       "la cucharita",
+       ""
       ],
       [
        "la servilleta",
        "napkin",
        "",
-       "la servilleta"
+       "la servilleta",
+       ""
       ],
       [
        "el mantel",
        "tablecloth",
        "",
-       "el mantel"
+       "el mantel",
+       ""
       ],
       [
        "la jarra",
        "pitcher",
        "",
-       "la jarra"
+       "la jarra",
+       ""
       ],
       [
        "el popote",
        "straw",
        "🌎 pitillo (Col, Ven), sorbete (Arg) · 🇪🇸 pajita",
-       "el popote"
+       "el popote",
+       ""
       ],
       [
        "la olla",
        "pot",
        "",
-       "la olla"
+       "la olla",
+       ""
       ],
       [
        "el sartén",
        "frying pan",
        "💡 Mexico says el sartén; 🌎 🇪🇸 la sartén",
-       "el sartén"
+       "el sartén",
+       ""
       ],
       [
        "el comal",
        "flat griddle for tortillas",
        "",
-       "el comal"
+       "el comal",
+       ""
       ],
       [
        "el molcajete",
        "stone mortar for salsa",
        "",
-       "el molcajete"
+       "el molcajete",
+       ""
       ],
       [
        "la tapa",
        "lid",
        "",
-       "la tapa"
+       "la tapa",
+       ""
       ],
       [
        "el cucharón",
        "ladle",
        "",
-       "el cucharón"
+       "el cucharón",
+       ""
       ],
       [
        "la licuadora",
        "blender",
        "🇪🇸 batidora",
-       "la licuadora"
+       "la licuadora",
+       ""
       ],
       [
        "la estufa",
        "stove",
        "🌎 cocina (Arg, Chile) · 🇪🇸 cocina, fogón",
-       "la estufa"
+       "la estufa",
+       ""
       ],
       [
        "el horno",
        "oven",
        "",
-       "el horno"
+       "el horno",
+       ""
       ],
       [
        "el microondas",
        "microwave",
        "",
-       "el microondas"
+       "el microondas",
+       ""
       ],
       [
        "el refrigerador",
        "refrigerator",
        "💡 el refri · 🌎 heladera (Arg), nevera (Col, Ven) · 🇪🇸 nevera, frigorífico",
-       "el refrigerador"
+       "el refrigerador",
+       ""
       ],
       [
        "la tabla para picar",
        "cutting board",
        "",
-       "la tabla para picar"
+       "la tabla para picar",
+       ""
       ],
       [
        "el colador",
        "strainer",
        "",
-       "el colador"
+       "el colador",
+       ""
       ],
       [
        "el abrelatas",
        "can opener",
        "",
-       "el abrelatas"
+       "el abrelatas",
+       ""
       ]
      ]
     },
@@ -8802,133 +9616,155 @@ window.COURSE = {
        "cocinar",
        "to cook",
        "",
-       "cocinar"
+       "cocinar",
+       ""
       ],
       [
        "hervir",
        "to boil",
        "💡 hierve",
-       "hervir"
+       "hervir",
+       ""
       ],
       [
        "freír",
        "to fry",
        "💡 frío, fríe",
-       "freír"
+       "freír",
+       ""
       ],
       [
        "asar",
        "to grill, roast",
        "",
-       "asar"
+       "asar",
+       ""
       ],
       [
        "hornear",
        "to bake",
        "",
-       "hornear"
+       "hornear",
+       ""
       ],
       [
        "picar",
        "to chop",
        "💡 also \"to sting, be spicy\": Esto pica.",
-       "picar"
+       "picar",
+       ""
       ],
       [
        "cortar",
        "to cut",
        "",
-       "cortar"
+       "cortar",
+       ""
       ],
       [
        "pelar",
        "to peel",
        "",
-       "pelar"
+       "pelar",
+       ""
       ],
       [
        "mezclar",
        "to mix",
        "",
-       "mezclar"
+       "mezclar",
+       ""
       ],
       [
        "batir",
        "to beat, whisk",
        "",
-       "batir"
+       "batir",
+       ""
       ],
       [
        "revolver",
        "to stir",
        "💡 revuelve",
-       "revolver"
+       "revolver",
+       ""
       ],
       [
        "calentar",
        "to heat up",
        "💡 calienta",
-       "calentar"
+       "calentar",
+       ""
       ],
       [
        "enfriar",
        "to cool",
        "",
-       "enfriar"
+       "enfriar",
+       ""
       ],
       [
        "agregar",
        "to add",
        "💡 also echar, añadir",
-       "agregar"
+       "agregar",
+       ""
       ],
       [
        "probar",
        "to taste, try",
        "💡 prueba",
-       "probar"
+       "probar",
+       ""
       ],
       [
        "sazonar",
        "to season",
        "",
-       "sazonar"
+       "sazonar",
+       ""
       ],
       [
        "licuar",
        "to blend",
        "",
-       "licuar"
+       "licuar",
+       ""
       ],
       [
        "rallar",
        "to grate",
        "",
-       "rallar"
+       "rallar",
+       ""
       ],
       [
        "derretir",
        "to melt",
        "",
-       "derretir"
+       "derretir",
+       ""
       ],
       [
        "tostar",
        "to toast",
        "💡 tuesta",
-       "tostar"
+       "tostar",
+       ""
       ],
       [
        "exprimir",
        "to squeeze",
        "",
-       "exprimir"
+       "exprimir",
+       ""
       ],
       [
        "servir",
        "to serve",
        "💡 sirve",
-       "servir"
+       "servir",
+       ""
       ]
      ]
     },
@@ -8940,133 +9776,155 @@ window.COURSE = {
        "dulce",
        "sweet",
        "",
-       "dulce"
+       "dulce",
+       ""
       ],
       [
        "salado, salada",
        "salty",
        "",
-       "salado, salada"
+       "salado, salada",
+       ""
       ],
       [
        "picante",
        "spicy",
        "💡 Mexico also says ¡Pica!",
-       "picante"
+       "picante",
+       ""
       ],
       [
        "agrio, agria",
        "sour",
        "",
-       "agrio, agria"
+       "agrio, agria",
+       ""
       ],
       [
        "amargo, amarga",
        "bitter",
        "",
-       "amargo, amarga"
+       "amargo, amarga",
+       ""
       ],
       [
        "rico, rica",
        "tasty",
        "💡 with estar for food you're eating",
-       "rico, rica"
+       "rico, rica",
+       ""
       ],
       [
        "sabroso, sabrosa",
        "tasty",
        "",
-       "sabroso, sabrosa"
+       "sabroso, sabrosa",
+       ""
       ],
       [
        "delicioso, deliciosa",
        "delicious",
        "",
-       "delicioso, deliciosa"
+       "delicioso, deliciosa",
+       ""
       ],
       [
        "desabrido, desabrida",
        "bland",
        "💡 also sin sabor · 🇪🇸 soso",
-       "desabrido, desabrida"
+       "desabrido, desabrida",
+       ""
       ],
       [
        "crujiente",
        "crunchy",
        "",
-       "crujiente"
+       "crujiente",
+       ""
       ],
       [
        "suave",
        "soft",
        "",
-       "suave"
+       "suave",
+       ""
       ],
       [
        "jugoso, jugosa",
        "juicy",
        "",
-       "jugoso, jugosa"
+       "jugoso, jugosa",
+       ""
       ],
       [
        "duro, dura",
        "hard, tough",
        "",
-       "duro, dura"
+       "duro, dura",
+       ""
       ],
       [
        "cocido, cocida",
        "cooked",
        "",
-       "cocido, cocida"
+       "cocido, cocida",
+       ""
       ],
       [
        "frito, frita",
        "fried",
        "",
-       "frito, frita"
+       "frito, frita",
+       ""
       ],
       [
        "asado, asada",
        "grilled",
        "",
-       "asado, asada"
+       "asado, asada",
+       ""
       ],
       [
        "quemado, quemada",
        "burnt",
        "",
-       "quemado, quemada"
+       "quemado, quemada",
+       ""
       ],
       [
        "fresco, fresca",
        "fresh",
        "",
-       "fresco, fresca"
+       "fresco, fresca",
+       ""
       ],
       [
        "echado a perder",
        "spoiled, gone bad",
        "💡 Mexico",
-       "echado a perder"
+       "echado a perder",
+       ""
       ],
       [
        "caliente",
        "hot",
        "",
-       "caliente"
+       "caliente",
+       ""
       ],
       [
        "tibio, tibia",
        "lukewarm",
        "",
-       "tibio, tibia"
+       "tibio, tibia",
+       ""
       ],
       [
        "frío, fría",
        "cold",
        "",
-       "frío, fría"
+       "frío, fría",
+       ""
       ]
      ]
     },
@@ -9078,157 +9936,183 @@ window.COURSE = {
        "pensar (e→ie)",
        "to think",
        "",
-       "pensar"
+       "pensar",
+       ""
       ],
       [
        "querer (e→ie)",
        "to want; to love",
        "",
-       "querer"
+       "querer",
+       ""
       ],
       [
        "preferir (e→ie)",
        "to prefer",
        "",
-       "preferir"
+       "preferir",
+       ""
       ],
       [
        "empezar (e→ie)",
        "to begin",
        "",
-       "empezar"
+       "empezar",
+       ""
       ],
       [
        "entender (e→ie)",
        "to understand",
        "",
-       "entender"
+       "entender",
+       ""
       ],
       [
        "cerrar (e→ie)",
        "to close",
        "",
-       "cerrar"
+       "cerrar",
+       ""
       ],
       [
        "perder (e→ie)",
        "to lose",
        "",
-       "perder"
+       "perder",
+       ""
       ],
       [
        "recomendar (e→ie)",
        "to recommend",
        "",
-       "recomendar"
+       "recomendar",
+       ""
       ],
       [
        "sentir (e→ie)",
        "to feel",
        "",
-       "sentir"
+       "sentir",
+       ""
       ],
       [
        "mentir (e→ie)",
        "to lie",
        "",
-       "mentir"
+       "mentir",
+       ""
       ],
       [
        "poder (o→ue)",
        "to be able, can",
        "",
-       "poder"
+       "poder",
+       ""
       ],
       [
        "volver (o→ue)",
        "to return",
        "",
-       "volver"
+       "volver",
+       ""
       ],
       [
        "costar (o→ue)",
        "to cost",
        "",
-       "costar"
+       "costar",
+       ""
       ],
       [
        "almorzar (o→ue)",
        "to have lunch",
        "",
-       "almorzar"
+       "almorzar",
+       ""
       ],
       [
        "dormir (o→ue)",
        "to sleep",
        "",
-       "dormir"
+       "dormir",
+       ""
       ],
       [
        "encontrar (o→ue)",
        "to find",
        "",
-       "encontrar"
+       "encontrar",
+       ""
       ],
       [
        "contar (o→ue)",
        "to tell; to count",
        "",
-       "contar"
+       "contar",
+       ""
       ],
       [
        "recordar (o→ue)",
        "to remember",
        "",
-       "recordar"
+       "recordar",
+       ""
       ],
       [
        "probar (o→ue)",
        "to taste, try",
        "",
-       "probar"
+       "probar",
+       ""
       ],
       [
        "devolver (o→ue)",
        "to give back",
        "",
-       "devolver"
+       "devolver",
+       ""
       ],
       [
        "pedir (e→i)",
        "to ask for, order",
        "",
-       "pedir"
+       "pedir",
+       ""
       ],
       [
        "servir (e→i)",
        "to serve",
        "",
-       "servir"
+       "servir",
+       ""
       ],
       [
        "repetir (e→i)",
        "to repeat",
        "",
-       "repetir"
+       "repetir",
+       ""
       ],
       [
        "seguir (e→i)",
        "to follow, keep going",
        "",
-       "seguir"
+       "seguir",
+       ""
       ],
       [
        "conseguir (e→i)",
        "to get",
        "",
-       "conseguir"
+       "conseguir",
+       ""
       ],
       [
        "jugar (u→ue)",
        "to play",
        "",
-       "jugar"
+       "jugar",
+       ""
       ]
      ]
     },
@@ -9240,127 +10124,148 @@ window.COURSE = {
        "el pan dulce",
        "sweet bread",
        "",
-       "el pan dulce"
+       "el pan dulce",
+       ""
       ],
       [
        "la concha",
        "shell-topped sweet bun",
        "",
-       "la concha"
+       "la concha",
+       ""
       ],
       [
        "el cuerno",
        "croissant-style roll",
        "",
-       "el cuerno"
+       "el cuerno",
+       ""
       ],
       [
        "la oreja",
        "palmier pastry",
        "",
-       "la oreja"
+       "la oreja",
+       ""
       ],
       [
        "la dona",
        "donut",
        "",
-       "la dona"
+       "la dona",
+       ""
       ],
       [
        "el churro",
        "churro",
        "",
-       "el churro"
+       "el churro",
+       ""
       ],
       [
        "el flan",
        "flan",
        "",
-       "el flan"
+       "el flan",
+       ""
       ],
       [
        "el arroz con leche",
        "rice pudding",
        "",
-       "el arroz con leche"
+       "el arroz con leche",
+       ""
       ],
       [
        "la gelatina",
        "gelatin dessert",
        "",
-       "la gelatina"
+       "la gelatina",
+       ""
       ],
       [
        "el pastel",
        "cake",
        "🌎 torta (Arg, Ven), ponqué (Col)",
-       "el pastel"
+       "el pastel",
+       ""
       ],
       [
        "el pastel de tres leches",
        "tres leches cake",
        "",
-       "el pastel de tres leches"
+       "el pastel de tres leches",
+       ""
       ],
       [
        "el pay",
        "pie",
        "💡 Mexico",
-       "el pay"
+       "el pay",
+       ""
       ],
       [
        "el helado",
        "ice cream",
        "",
-       "el helado"
+       "el helado",
+       ""
       ],
       [
        "la nieve",
        "sorbet-style ice cream",
        "💡 Mexico",
-       "la nieve"
+       "la nieve",
+       ""
       ],
       [
        "la paleta",
        "popsicle; lollipop",
        "💡 Mexico",
-       "la paleta"
+       "la paleta",
+       ""
       ],
       [
        "los dulces",
        "candy",
        "",
-       "los dulces"
+       "los dulces",
+       ""
       ],
       [
        "la cajeta",
        "goat-milk caramel",
        "💡 Mexico; 🌎 dulce de leche",
-       "la cajeta"
+       "la cajeta",
+       ""
       ],
       [
        "la galleta",
        "cookie",
        "",
-       "la galleta"
+       "la galleta",
+       ""
       ],
       [
        "la rosca de reyes",
        "Three Kings bread",
        "",
-       "la rosca de reyes"
+       "la rosca de reyes",
+       ""
       ],
       [
        "el pan de muerto",
        "Day of the Dead bread",
        "",
-       "el pan de muerto"
+       "el pan de muerto",
+       ""
       ],
       [
        "las alegrías",
        "amaranth candy bars",
        "",
-       "las alegrías"
+       "las alegrías",
+       ""
       ]
      ]
     }
@@ -9778,115 +10683,134 @@ window.COURSE = {
        "gustar",
        "to like (be pleasing)",
        "💡 Me gusta el café. Me gustan los tacos.",
-       "gustar"
+       "gustar",
+       ""
       ],
       [
        "encantar",
        "to love (things)",
        "",
-       "encantar"
+       "encantar",
+       ""
       ],
       [
        "fascinar",
        "to fascinate",
        "",
-       "fascinar"
+       "fascinar",
+       ""
       ],
       [
        "interesar",
        "to interest",
        "",
-       "interesar"
+       "interesar",
+       ""
       ],
       [
        "importar",
        "to matter",
        "",
-       "importar"
+       "importar",
+       ""
       ],
       [
        "molestar",
        "to bother",
        "",
-       "molestar"
+       "molestar",
+       ""
       ],
       [
        "caer bien",
        "to like (a person)",
        "💡 Javi me cae bien.",
-       "caer bien"
+       "caer bien",
+       ""
       ],
       [
        "caer mal",
        "to dislike (a person)",
        "",
-       "caer mal"
+       "caer mal",
+       ""
       ],
       [
        "doler",
        "to hurt",
        "💡 Me duele la cabeza.",
-       "doler"
+       "doler",
+       ""
       ],
       [
        "faltar",
        "to be missing, lack",
        "",
-       "faltar"
+       "faltar",
+       ""
       ],
       [
        "quedar",
        "to fit; to have left",
        "",
-       "quedar"
+       "quedar",
+       ""
       ],
       [
        "parecer",
        "to seem",
        "",
-       "parecer"
+       "parecer",
+       ""
       ],
       [
        "aburrir",
        "to bore",
        "",
-       "aburrir"
+       "aburrir",
+       ""
       ],
       [
        "preocupar",
        "to worry",
        "",
-       "preocupar"
+       "preocupar",
+       ""
       ],
       [
        "dar miedo",
        "to scare",
        "💡 Me dan miedo las arañas.",
-       "dar miedo"
+       "dar miedo",
+       ""
       ],
       [
        "dar pena",
        "to embarrass",
        "💡 Mexico",
-       "dar pena"
+       "dar pena",
+       ""
       ],
       [
        "dar asco",
        "to disgust",
        "",
-       "dar asco"
+       "dar asco",
+       ""
       ],
       [
        "dar flojera",
        "to not feel like it",
        "💡 Mexico: Me da flojera.",
-       "dar flojera"
+       "dar flojera",
+       ""
       ],
       [
        "antojarse",
        "to crave",
        "💡 Mexico: Se me antoja un taco.",
-       "antojarse"
+       "antojarse",
+       ""
       ]
      ]
     },
@@ -9898,175 +10822,204 @@ window.COURSE = {
        "el pasatiempo",
        "hobby",
        "",
-       "el pasatiempo"
+       "el pasatiempo",
+       ""
       ],
       [
        "leer",
        "to read",
        "",
-       "leer"
+       "leer",
+       ""
       ],
       [
        "ver series",
        "to watch shows",
        "",
-       "ver series"
+       "ver series",
+       ""
       ],
       [
        "ir al cine",
        "to go to the movies",
        "",
-       "ir al cine"
+       "ir al cine",
+       ""
       ],
       [
        "escuchar música",
        "to listen to music",
        "",
-       "escuchar música"
+       "escuchar música",
+       ""
       ],
       [
        "cantar",
        "to sing",
        "",
-       "cantar"
+       "cantar",
+       ""
       ],
       [
        "bailar",
        "to dance",
        "",
-       "bailar"
+       "bailar",
+       ""
       ],
       [
        "tocar la guitarra",
        "to play guitar",
        "",
-       "tocar la guitarra"
+       "tocar la guitarra",
+       ""
       ],
       [
        "tocar el piano",
        "to play piano",
        "",
-       "tocar el piano"
+       "tocar el piano",
+       ""
       ],
       [
        "dibujar",
        "to draw",
        "",
-       "dibujar"
+       "dibujar",
+       ""
       ],
       [
        "pintar",
        "to paint",
        "",
-       "pintar"
+       "pintar",
+       ""
       ],
       [
        "cocinar",
        "to cook",
        "",
-       "cocinar"
+       "cocinar",
+       ""
       ],
       [
        "tejer",
        "to knit",
        "",
-       "tejer"
+       "tejer",
+       ""
       ],
       [
        "coser",
        "to sew",
        "",
-       "coser"
+       "coser",
+       ""
       ],
       [
        "la jardinería",
        "gardening",
        "",
-       "la jardinería"
+       "la jardinería",
+       ""
       ],
       [
        "tomar fotos",
        "to take photos",
        "",
-       "tomar fotos"
+       "tomar fotos",
+       ""
       ],
       [
        "viajar",
        "to travel",
        "",
-       "viajar"
+       "viajar",
+       ""
       ],
       [
        "acampar",
        "to go camping",
        "",
-       "acampar"
+       "acampar",
+       ""
       ],
       [
        "pescar",
        "to fish",
        "",
-       "pescar"
+       "pescar",
+       ""
       ],
       [
        "ir de compras",
        "to go shopping",
        "",
-       "ir de compras"
+       "ir de compras",
+       ""
       ],
       [
        "jugar videojuegos",
        "to play video games",
        "",
-       "jugar videojuegos"
+       "jugar videojuegos",
+       ""
       ],
       [
        "jugar cartas",
        "to play cards",
        "",
-       "jugar cartas"
+       "jugar cartas",
+       ""
       ],
       [
        "jugar dominó",
        "to play dominoes",
        "",
-       "jugar dominó"
+       "jugar dominó",
+       ""
       ],
       [
        "jugar ajedrez",
        "to play chess",
        "",
-       "jugar ajedrez"
+       "jugar ajedrez",
+       ""
       ],
       [
        "salir con amigos",
        "to go out with friends",
        "",
-       "salir con amigos"
+       "salir con amigos",
+       ""
       ],
       [
        "ir de fiesta",
        "to go partying",
        "",
-       "ir de fiesta"
+       "ir de fiesta",
+       ""
       ],
       [
        "pasear al perro",
        "to walk the dog",
        "",
-       "pasear al perro"
+       "pasear al perro",
+       ""
       ],
       [
        "hacer ejercicio",
        "to exercise",
        "",
-       "hacer ejercicio"
+       "hacer ejercicio",
+       ""
       ],
       [
        "armar rompecabezas",
        "to do jigsaw puzzles",
        "",
-       "armar rompecabezas"
+       "armar rompecabezas",
+       ""
       ]
      ]
     },
@@ -10078,181 +11031,211 @@ window.COURSE = {
        "el deporte",
        "sport",
        "",
-       "el deporte"
+       "el deporte",
+       ""
       ],
       [
        "el fútbol",
        "soccer",
        "",
-       "el fútbol"
+       "el fútbol",
+       ""
       ],
       [
        "el fútbol americano",
        "American football",
        "",
-       "el fútbol americano"
+       "el fútbol americano",
+       ""
       ],
       [
        "el béisbol",
        "baseball",
        "",
-       "el béisbol"
+       "el béisbol",
+       ""
       ],
       [
        "el básquetbol",
        "basketball",
        "🌎 baloncesto · 🇪🇸 baloncesto",
-       "el básquetbol"
+       "el básquetbol",
+       ""
       ],
       [
        "el voleibol",
        "volleyball",
        "",
-       "el voleibol"
+       "el voleibol",
+       ""
       ],
       [
        "el tenis",
        "tennis",
        "",
-       "el tenis"
+       "el tenis",
+       ""
       ],
       [
        "la natación",
        "swimming",
        "",
-       "la natación"
+       "la natación",
+       ""
       ],
       [
        "el ciclismo",
        "cycling",
        "",
-       "el ciclismo"
+       "el ciclismo",
+       ""
       ],
       [
        "el boxeo",
        "boxing",
        "",
-       "el boxeo"
+       "el boxeo",
+       ""
       ],
       [
        "la lucha libre",
        "Mexican wrestling",
        "",
-       "la lucha libre"
+       "la lucha libre",
+       ""
       ],
       [
        "el atletismo",
        "track and field",
        "",
-       "el atletismo"
+       "el atletismo",
+       ""
       ],
       [
        "correr",
        "to run",
        "",
-       "correr"
+       "correr",
+       ""
       ],
       [
        "nadar",
        "to swim",
        "",
-       "nadar"
+       "nadar",
+       ""
       ],
       [
        "andar en bicicleta",
        "to ride a bike",
        "🇪🇸 montar en bici",
-       "andar en bicicleta"
+       "andar en bicicleta",
+       ""
       ],
       [
        "patinar",
        "to skate",
        "",
-       "patinar"
+       "patinar",
+       ""
       ],
       [
        "el equipo",
        "team",
        "",
-       "el equipo"
+       "el equipo",
+       ""
       ],
       [
        "el partido",
        "game, match",
        "",
-       "el partido"
+       "el partido",
+       ""
       ],
       [
        "el jugador, la jugadora",
        "player",
        "",
-       "el jugador, la jugadora"
+       "el jugador, la jugadora",
+       ""
       ],
       [
        "el entrenador",
        "coach",
        "",
-       "el entrenador"
+       "el entrenador",
+       ""
       ],
       [
        "el árbitro",
        "referee",
        "",
-       "el árbitro"
+       "el árbitro",
+       ""
       ],
       [
        "el aficionado",
        "fan",
        "",
-       "el aficionado"
+       "el aficionado",
+       ""
       ],
       [
        "la porra",
        "cheering fans; cheer",
        "💡 Mexico",
-       "la porra"
+       "la porra",
+       ""
       ],
       [
        "el gol",
        "goal",
        "",
-       "el gol"
+       "el gol",
+       ""
       ],
       [
        "meter un gol",
        "to score a goal",
        "",
-       "meter un gol"
+       "meter un gol",
+       ""
       ],
       [
        "la cancha",
        "field, court",
        "🇪🇸 campo, pista",
-       "la cancha"
+       "la cancha",
+       ""
       ],
       [
        "el estadio",
        "stadium",
        "",
-       "el estadio"
+       "el estadio",
+       ""
       ],
       [
        "ganar",
        "to win",
        "",
-       "ganar"
+       "ganar",
+       ""
       ],
       [
        "perder",
        "to lose",
        "",
-       "perder"
+       "perder",
+       ""
       ],
       [
        "empatar",
        "to tie",
        "",
-       "empatar"
+       "empatar",
+       ""
       ]
      ]
     },
@@ -10264,139 +11247,162 @@ window.COURSE = {
        "la música",
        "music",
        "",
-       "la música"
+       "la música",
+       ""
       ],
       [
        "la canción",
        "song",
        "",
-       "la canción"
+       "la canción",
+       ""
       ],
       [
        "la letra",
        "lyrics",
        "",
-       "la letra"
+       "la letra",
+       ""
       ],
       [
        "el cantante, la cantante",
        "singer",
        "",
-       "el cantante, la cantante"
+       "el cantante, la cantante",
+       ""
       ],
       [
        "el grupo",
        "band",
        "💡 also la banda",
-       "el grupo"
+       "el grupo",
+       ""
       ],
       [
        "el concierto",
        "concert",
        "",
-       "el concierto"
+       "el concierto",
+       ""
       ],
       [
        "la guitarra",
        "guitar",
        "",
-       "la guitarra"
+       "la guitarra",
+       ""
       ],
       [
        "la batería",
        "drums",
        "",
-       "la batería"
+       "la batería",
+       ""
       ],
       [
        "el violín",
        "violin",
        "",
-       "el violín"
+       "el violín",
+       ""
       ],
       [
        "la trompeta",
        "trumpet",
        "",
-       "la trompeta"
+       "la trompeta",
+       ""
       ],
       [
        "el mariachi",
        "mariachi",
        "",
-       "el mariachi"
+       "el mariachi",
+       ""
       ],
       [
        "la música ranchera",
        "ranchera",
        "",
-       "la música ranchera"
+       "la música ranchera",
+       ""
       ],
       [
        "la cumbia",
        "cumbia",
        "",
-       "la cumbia"
+       "la cumbia",
+       ""
       ],
       [
        "la salsa",
        "salsa",
        "",
-       "la salsa"
+       "la salsa",
+       ""
       ],
       [
        "el reguetón",
        "reggaeton",
        "",
-       "el reguetón"
+       "el reguetón",
+       ""
       ],
       [
        "la banda",
        "Mexican brass-band music",
        "",
-       "la banda"
+       "la banda",
+       ""
       ],
       [
        "la música norteña",
        "norteño",
        "",
-       "la música norteña"
+       "la música norteña",
+       ""
       ],
       [
        "el corrido",
        "ballad (story song)",
        "",
-       "el corrido"
+       "el corrido",
+       ""
       ],
       [
        "el bolero",
        "bolero",
        "",
-       "el bolero"
+       "el bolero",
+       ""
       ],
       [
        "la bachata",
        "bachata",
        "",
-       "la bachata"
+       "la bachata",
+       ""
       ],
       [
        "el merengue",
        "merengue",
        "",
-       "el merengue"
+       "el merengue",
+       ""
       ],
       [
        "el son jarocho",
        "son jarocho (Veracruz folk)",
        "",
-       "el son jarocho"
+       "el son jarocho",
+       ""
       ],
       [
        "el rock",
        "rock",
        "",
-       "el rock"
+       "el rock",
+       ""
       ]
      ]
     },
@@ -10408,145 +11414,169 @@ window.COURSE = {
        "la película",
        "movie",
        "💡 la peli",
-       "la película"
+       "la película",
+       ""
       ],
       [
        "la serie",
        "TV series",
        "",
-       "la serie"
+       "la serie",
+       ""
       ],
       [
        "la telenovela",
        "soap opera",
        "",
-       "la telenovela"
+       "la telenovela",
+       ""
       ],
       [
        "el capítulo",
        "episode",
        "",
-       "el capítulo"
+       "el capítulo",
+       ""
       ],
       [
        "la temporada",
        "season",
        "",
-       "la temporada"
+       "la temporada",
+       ""
       ],
       [
        "el actor",
        "actor",
        "",
-       "el actor"
+       "el actor",
+       ""
       ],
       [
        "la actriz",
        "actress",
        "",
-       "la actriz"
+       "la actriz",
+       ""
       ],
       [
        "el personaje",
        "character",
        "",
-       "el personaje"
+       "el personaje",
+       ""
       ],
       [
        "el final",
        "ending",
        "",
-       "el final"
+       "el final",
+       ""
       ],
       [
        "la comedia",
        "comedy",
        "",
-       "la comedia"
+       "la comedia",
+       ""
       ],
       [
        "el drama",
        "drama",
        "",
-       "el drama"
+       "el drama",
+       ""
       ],
       [
        "de terror",
        "horror",
        "",
-       "de terror"
+       "de terror",
+       ""
       ],
       [
        "de acción",
        "action",
        "",
-       "de acción"
+       "de acción",
+       ""
       ],
       [
        "de ciencia ficción",
        "sci-fi",
        "",
-       "de ciencia ficción"
+       "de ciencia ficción",
+       ""
       ],
       [
        "las caricaturas",
        "cartoons",
        "💡 Mexico; 🌎 dibujos animados",
-       "las caricaturas"
+       "las caricaturas",
+       ""
       ],
       [
        "el documental",
        "documentary",
        "",
-       "el documental"
+       "el documental",
+       ""
       ],
       [
        "el noticiero",
        "the news (program)",
        "",
-       "el noticiero"
+       "el noticiero",
+       ""
       ],
       [
        "la tele",
        "TV",
        "",
-       "la tele"
+       "la tele",
+       ""
       ],
       [
        "el control remoto",
        "remote control",
        "",
-       "el control remoto"
+       "el control remoto",
+       ""
       ],
       [
        "el canal",
        "channel",
        "",
-       "el canal"
+       "el canal",
+       ""
       ],
       [
        "las palomitas",
        "popcorn",
        "🌎 pochoclo (Arg), crispetas (Col), cotufas (Ven)",
-       "las palomitas"
+       "las palomitas",
+       ""
       ],
       [
        "los subtítulos",
        "subtitles",
        "",
-       "los subtítulos"
+       "los subtítulos",
+       ""
       ],
       [
        "doblada",
        "dubbed",
        "",
-       "doblada"
+       "doblada",
+       ""
       ],
       [
        "el estreno",
        "premiere",
        "",
-       "el estreno"
+       "el estreno",
+       ""
       ]
      ]
     }
@@ -10975,115 +12005,134 @@ window.COURSE = {
        "la sala",
        "living room",
        "",
-       "la sala"
+       "la sala",
+       ""
       ],
       [
        "el comedor",
        "dining room",
        "",
-       "el comedor"
+       "el comedor",
+       ""
       ],
       [
        "la cocina",
        "kitchen",
        "",
-       "la cocina"
+       "la cocina",
+       ""
       ],
       [
        "la recámara",
        "bedroom",
        "💡 Mexico; 🌎 cuarto, habitación, pieza (Arg) · 🇪🇸 dormitorio",
-       "la recámara"
+       "la recámara",
+       ""
       ],
       [
        "el baño",
        "bathroom",
        "",
-       "el baño"
+       "el baño",
+       ""
       ],
       [
        "el pasillo",
        "hallway",
        "",
-       "el pasillo"
+       "el pasillo",
+       ""
       ],
       [
        "la escalera",
        "stairs",
        "",
-       "la escalera"
+       "la escalera",
+       ""
       ],
       [
        "el patio",
        "patio, yard",
        "",
-       "el patio"
+       "el patio",
+       ""
       ],
       [
        "el jardín",
        "garden, yard",
        "",
-       "el jardín"
+       "el jardín",
+       ""
       ],
       [
        "la cochera",
        "garage",
        "💡 Mexico; 🌎 garaje",
-       "la cochera"
+       "la cochera",
+       ""
       ],
       [
        "la azotea",
        "flat roof",
        "💡 Mexico: where the laundry and water tank are",
-       "la azotea"
+       "la azotea",
+       ""
       ],
       [
        "el techo",
        "roof; ceiling",
        "",
-       "el techo"
+       "el techo",
+       ""
       ],
       [
        "el piso",
        "floor; story",
        "💡 🇪🇸 piso also means apartment",
-       "el piso"
+       "el piso",
+       ""
       ],
       [
        "la pared",
        "wall",
        "",
-       "la pared"
+       "la pared",
+       ""
       ],
       [
        "la puerta",
        "door",
        "",
-       "la puerta"
+       "la puerta",
+       ""
       ],
       [
        "la ventana",
        "window",
        "",
-       "la ventana"
+       "la ventana",
+       ""
       ],
       [
        "el balcón",
        "balcony",
        "",
-       "el balcón"
+       "el balcón",
+       ""
       ],
       [
        "el sótano",
        "basement",
        "",
-       "el sótano"
+       "el sótano",
+       ""
       ],
       [
        "el cuarto de lavado",
        "laundry room",
        "",
-       "el cuarto de lavado"
+       "el cuarto de lavado",
+       ""
       ]
      ]
     },
@@ -11095,127 +12144,148 @@ window.COURSE = {
        "la cama",
        "bed",
        "",
-       "la cama"
+       "la cama",
+       ""
       ],
       [
        "el sillón",
        "armchair; sofa",
        "",
-       "el sillón"
+       "el sillón",
+       ""
       ],
       [
        "el sofá",
        "sofa",
        "",
-       "el sofá"
+       "el sofá",
+       ""
       ],
       [
        "la silla",
        "chair",
        "",
-       "la silla"
+       "la silla",
+       ""
       ],
       [
        "la mesa",
        "table",
        "",
-       "la mesa"
+       "la mesa",
+       ""
       ],
       [
        "el escritorio",
        "desk",
        "",
-       "el escritorio"
+       "el escritorio",
+       ""
       ],
       [
        "el clóset",
        "closet",
        "💡 also el ropero",
-       "el clóset"
+       "el clóset",
+       ""
       ],
       [
        "el buró",
        "nightstand",
        "💡 Mexico; 🌎 mesita de noche",
-       "el buró"
+       "el buró",
+       ""
       ],
       [
        "la cómoda",
        "dresser",
        "",
-       "la cómoda"
+       "la cómoda",
+       ""
       ],
       [
        "el librero",
        "bookshelf",
        "💡 Mexico; 🌎 estante, biblioteca",
-       "el librero"
+       "el librero",
+       ""
       ],
       [
        "el espejo",
        "mirror",
        "",
-       "el espejo"
+       "el espejo",
+       ""
       ],
       [
        "la lámpara",
        "lamp",
        "",
-       "la lámpara"
+       "la lámpara",
+       ""
       ],
       [
        "el tapete",
        "rug",
        "💡 Mexico; 🌎 alfombra",
-       "el tapete"
+       "el tapete",
+       ""
       ],
       [
        "la cortina",
        "curtain",
        "",
-       "la cortina"
+       "la cortina",
+       ""
       ],
       [
        "el cojín",
        "cushion",
        "",
-       "el cojín"
+       "el cojín",
+       ""
       ],
       [
        "el cuadro",
        "picture, painting",
        "",
-       "el cuadro"
+       "el cuadro",
+       ""
       ],
       [
        "la hamaca",
        "hammock",
        "",
-       "la hamaca"
+       "la hamaca",
+       ""
       ],
       [
        "la almohada",
        "pillow",
        "",
-       "la almohada"
+       "la almohada",
+       ""
       ],
       [
        "la cobija",
        "blanket",
        "🌎 frazada (Arg), manta",
-       "la cobija"
+       "la cobija",
+       ""
       ],
       [
        "la sábana",
        "sheet",
        "",
-       "la sábana"
+       "la sábana",
+       ""
       ],
       [
        "el colchón",
        "mattress",
        "",
-       "el colchón"
+       "el colchón",
+       ""
       ]
      ]
     },
@@ -11227,151 +12297,176 @@ window.COURSE = {
        "la estufa",
        "stove",
        "",
-       "la estufa"
+       "la estufa",
+       ""
       ],
       [
        "la lavadora",
        "washing machine",
        "",
-       "la lavadora"
+       "la lavadora",
+       ""
       ],
       [
        "la secadora",
        "dryer",
        "",
-       "la secadora"
+       "la secadora",
+       ""
       ],
       [
        "la plancha",
        "iron",
        "",
-       "la plancha"
+       "la plancha",
+       ""
       ],
       [
        "la aspiradora",
        "vacuum cleaner",
        "",
-       "la aspiradora"
+       "la aspiradora",
+       ""
       ],
       [
        "la televisión",
        "TV",
        "",
-       "la televisión"
+       "la televisión",
+       ""
       ],
       [
        "el ventilador",
        "fan",
        "",
-       "el ventilador"
+       "el ventilador",
+       ""
       ],
       [
        "el aire acondicionado",
        "air conditioning",
        "",
-       "el aire acondicionado"
+       "el aire acondicionado",
+       ""
       ],
       [
        "el foco",
        "light bulb",
        "🌎 bombillo (Col, Ven), ampolleta (Chile) · 🇪🇸 bombilla",
-       "el foco"
+       "el foco",
+       ""
       ],
       [
        "el apagador",
        "light switch",
        "🌎 interruptor",
-       "el apagador"
+       "el apagador",
+       ""
       ],
       [
        "el contacto",
        "outlet",
        "💡 Mexico; 🌎 enchufe, tomacorriente",
-       "el contacto"
+       "el contacto",
+       ""
       ],
       [
        "la llave",
        "faucet; key",
        "🌎 grifo, canilla (Arg)",
-       "la llave"
+       "la llave",
+       ""
       ],
       [
        "el fregadero",
        "kitchen sink",
        "🌎 lavaplatos (Col), pileta (Arg)",
-       "el fregadero"
+       "el fregadero",
+       ""
       ],
       [
        "el lavabo",
        "bathroom sink",
        "🌎 lavamanos",
-       "el lavabo"
+       "el lavabo",
+       ""
       ],
       [
        "el excusado",
        "toilet",
        "💡 Mexico; also el inodoro, el baño",
-       "el excusado"
+       "el excusado",
+       ""
       ],
       [
        "la regadera",
        "shower",
        "💡 Mexico; 🌎 ducha",
-       "la regadera"
+       "la regadera",
+       ""
       ],
       [
        "la tina",
        "bathtub",
        "🌎 bañera",
-       "la tina"
+       "la tina",
+       ""
       ],
       [
        "el calentador",
        "water heater",
        "💡 Mexico; 🌎 boiler",
-       "el calentador"
+       "el calentador",
+       ""
       ],
       [
        "la escoba",
        "broom",
        "",
-       "la escoba"
+       "la escoba",
+       ""
       ],
       [
        "el trapeador",
        "mop",
        "💡 Mexico; 🌎 trapero (Col), coleto (Ven) · 🇪🇸 fregona",
-       "el trapeador"
+       "el trapeador",
+       ""
       ],
       [
        "el recogedor",
        "dustpan",
        "",
-       "el recogedor"
+       "el recogedor",
+       ""
       ],
       [
        "la cubeta",
        "bucket",
        "🌎 balde",
-       "la cubeta"
+       "la cubeta",
+       ""
       ],
       [
        "el cloro",
        "bleach",
        "🇪🇸 lejía",
-       "el cloro"
+       "el cloro",
+       ""
       ],
       [
        "el jabón",
        "soap",
        "",
-       "el jabón"
+       "el jabón",
+       ""
       ],
       [
        "el bote de basura",
        "trash can",
        "🌎 tacho (Arg), caneca (Col) · 🇪🇸 cubo de basura",
-       "el bote de basura"
+       "el bote de basura",
+       ""
       ]
      ]
     },
@@ -11383,121 +12478,141 @@ window.COURSE = {
        "barrer",
        "to sweep",
        "",
-       "barrer"
+       "barrer",
+       ""
       ],
       [
        "trapear",
        "to mop",
        "",
-       "trapear"
+       "trapear",
+       ""
       ],
       [
        "sacudir",
        "to dust",
        "",
-       "sacudir"
+       "sacudir",
+       ""
       ],
       [
        "aspirar",
        "to vacuum",
        "",
-       "aspirar"
+       "aspirar",
+       ""
       ],
       [
        "lavar los trastes",
        "to do the dishes",
        "💡 Mexico; 🌎 lavar los platos · 🇪🇸 fregar",
-       "lavar los trastes"
+       "lavar los trastes",
+       ""
       ],
       [
        "secar",
        "to dry",
        "",
-       "secar"
+       "secar",
+       ""
       ],
       [
        "tender la cama",
        "to make the bed",
        "",
-       "tender la cama"
+       "tender la cama",
+       ""
       ],
       [
        "tender la ropa",
        "to hang up laundry",
        "",
-       "tender la ropa"
+       "tender la ropa",
+       ""
       ],
       [
        "doblar la ropa",
        "to fold laundry",
        "",
-       "doblar la ropa"
+       "doblar la ropa",
+       ""
       ],
       [
        "planchar",
        "to iron",
        "",
-       "planchar"
+       "planchar",
+       ""
       ],
       [
        "sacar la basura",
        "to take out the trash",
        "",
-       "sacar la basura"
+       "sacar la basura",
+       ""
       ],
       [
        "limpiar el baño",
        "to clean the bathroom",
        "",
-       "limpiar el baño"
+       "limpiar el baño",
+       ""
       ],
       [
        "regar las plantas",
        "to water the plants",
        "",
-       "regar las plantas"
+       "regar las plantas",
+       ""
       ],
       [
        "cortar el pasto",
        "to mow the lawn",
        "🌎 cortar la grama (Ven) · 🇪🇸 cortar el césped",
-       "cortar el pasto"
+       "cortar el pasto",
+       ""
       ],
       [
        "poner la mesa",
        "to set the table",
        "",
-       "poner la mesa"
+       "poner la mesa",
+       ""
       ],
       [
        "levantar la mesa",
        "to clear the table",
        "🌎 recoger la mesa · 🇪🇸 quitar la mesa",
-       "levantar la mesa"
+       "levantar la mesa",
+       ""
       ],
       [
        "recoger el cuarto",
        "to tidy the room",
        "",
-       "recoger el cuarto"
+       "recoger el cuarto",
+       ""
       ],
       [
        "hacer el súper",
        "to do the grocery shopping",
        "💡 Mexico",
-       "hacer el súper"
+       "hacer el súper",
+       ""
       ],
       [
        "darle de comer al gato",
        "to feed the cat",
        "",
-       "darle de comer al gato"
+       "darle de comer al gato",
+       ""
       ],
       [
        "arreglar",
        "to fix",
        "",
-       "arreglar"
+       "arreglar",
+       ""
       ]
      ]
     },
@@ -11509,151 +12624,176 @@ window.COURSE = {
        "el celular",
        "cell phone",
        "🇪🇸 el móvil",
-       "el celular"
+       "el celular",
+       ""
       ],
       [
        "el mensaje",
        "message",
        "",
-       "el mensaje"
+       "el mensaje",
+       ""
       ],
       [
        "mandar un mensaje",
        "to send a message",
        "",
-       "mandar un mensaje"
+       "mandar un mensaje",
+       ""
       ],
       [
        "mandar un whats",
        "to send a WhatsApp",
        "💡 Mexico, casual",
-       "mandar un whats"
+       "mandar un whats",
+       ""
       ],
       [
        "llamar",
        "to call",
        "",
-       "llamar"
+       "llamar",
+       ""
       ],
       [
        "la llamada",
        "call",
        "",
-       "la llamada"
+       "la llamada",
+       ""
       ],
       [
        "marcar",
        "to dial; to call",
        "💡 ¿Me marcas? = Will you call me?",
-       "marcar"
+       "marcar",
+       ""
       ],
       [
        "contestar",
        "to answer",
        "",
-       "contestar"
+       "contestar",
+       ""
       ],
       [
        "colgar",
        "to hang up",
        "",
-       "colgar"
+       "colgar",
+       ""
       ],
       [
        "¿Bueno?",
        "Hello? (answering the phone)",
        "💡 Mexico; 🌎 ¿Aló?, ¿Hola? · 🇪🇸 ¿Diga?",
-       "¿Bueno?"
+       "¿Bueno?",
+       ""
       ],
       [
        "la pila",
        "battery",
        "💡 Mexico; 🌎 batería",
-       "la pila"
+       "la pila",
+       ""
       ],
       [
        "cargar el celular",
        "to charge the phone",
        "",
-       "cargar el celular"
+       "cargar el celular",
+       ""
       ],
       [
        "el cargador",
        "charger",
        "",
-       "el cargador"
+       "el cargador",
+       ""
       ],
       [
        "la señal",
        "signal",
        "",
-       "la señal"
+       "la señal",
+       ""
       ],
       [
        "los datos",
        "mobile data",
        "",
-       "los datos"
+       "los datos",
+       ""
       ],
       [
        "la foto",
        "photo",
        "",
-       "la foto"
+       "la foto",
+       ""
       ],
       [
        "la selfi",
        "selfie",
        "",
-       "la selfi"
+       "la selfi",
+       ""
       ],
       [
        "el audio",
        "voice message",
        "",
-       "el audio"
+       "el audio",
+       ""
       ],
       [
        "las redes sociales",
        "social media",
        "",
-       "las redes sociales"
+       "las redes sociales",
+       ""
       ],
       [
        "publicar",
        "to post",
        "",
-       "publicar"
+       "publicar",
+       ""
       ],
       [
        "subir una foto",
        "to upload a photo",
        "",
-       "subir una foto"
+       "subir una foto",
+       ""
       ],
       [
        "compartir",
        "to share",
        "",
-       "compartir"
+       "compartir",
+       ""
       ],
       [
        "el grupo",
        "group chat",
        "",
-       "el grupo"
+       "el grupo",
+       ""
       ],
       [
        "dejar en visto",
        "to leave on read",
        "",
-       "dejar en visto"
+       "dejar en visto",
+       ""
       ],
       [
        "bloquear",
        "to block",
        "",
-       "bloquear"
+       "bloquear",
+       ""
       ]
      ]
     }
@@ -12062,133 +13202,155 @@ window.COURSE = {
        "el carro",
        "car",
        "🌎 auto (Arg, Chile) · 🇪🇸 coche",
-       "el carro"
+       "el carro",
+       ""
       ],
       [
        "el camión",
        "bus",
        "🌎 bus, colectivo (Arg), guagua (Caribbean) · 🇪🇸 autobús",
-       "el camión"
+       "el camión",
+       ""
       ],
       [
        "la combi",
        "minibus",
        "💡 Mexico; also el pesero (Mexico City)",
-       "la combi"
+       "la combi",
+       ""
       ],
       [
        "el metro",
        "subway",
        "",
-       "el metro"
+       "el metro",
+       ""
       ],
       [
        "el metrobús",
        "rapid-transit bus",
        "",
-       "el metrobús"
+       "el metrobús",
+       ""
       ],
       [
        "el tren",
        "train",
        "",
-       "el tren"
+       "el tren",
+       ""
       ],
       [
        "el avión",
        "plane",
        "",
-       "el avión"
+       "el avión",
+       ""
       ],
       [
        "el taxi",
        "taxi",
        "",
-       "el taxi"
+       "el taxi",
+       ""
       ],
       [
        "la bicicleta",
        "bicycle",
        "💡 la bici",
-       "la bicicleta"
+       "la bicicleta",
+       ""
       ],
       [
        "la moto",
        "motorcycle",
        "",
-       "la moto"
+       "la moto",
+       ""
       ],
       [
        "a pie",
        "on foot",
        "",
-       "a pie"
+       "a pie",
+       ""
       ],
       [
        "la parada",
        "stop (bus)",
        "",
-       "la parada"
+       "la parada",
+       ""
       ],
       [
        "la estación",
        "station",
        "",
-       "la estación"
+       "la estación",
+       ""
       ],
       [
        "la central de autobuses",
        "bus station",
        "💡 Mexico; 🌎 terminal de buses",
-       "la central de autobuses"
+       "la central de autobuses",
+       ""
       ],
       [
        "el boleto",
        "ticket",
        "🌎 pasaje (trip) · 🇪🇸 billete",
-       "el boleto"
+       "el boleto",
+       ""
       ],
       [
        "el chofer",
        "driver",
        "",
-       "el chofer"
+       "el chofer",
+       ""
       ],
       [
        "el pasajero",
        "passenger",
        "",
-       "el pasajero"
+       "el pasajero",
+       ""
       ],
       [
        "el tráfico",
        "traffic",
        "",
-       "el tráfico"
+       "el tráfico",
+       ""
       ],
       [
        "la hora pico",
        "rush hour",
        "🇪🇸 hora punta",
-       "la hora pico"
+       "la hora pico",
+       ""
       ],
       [
        "subirse a",
        "to get on",
        "",
-       "subirse a"
+       "subirse a",
+       ""
       ],
       [
        "bajarse de",
        "to get off",
        "",
-       "bajarse de"
+       "bajarse de",
+       ""
       ],
       [
        "tomar el camión",
        "to take the bus",
        "💡 Mexico uses tomar, not coger",
-       "tomar el camión"
+       "tomar el camión",
+       ""
       ]
      ]
     },
@@ -12200,163 +13362,190 @@ window.COURSE = {
        "a la derecha",
        "to the right",
        "",
-       "a la derecha"
+       "a la derecha",
+       ""
       ],
       [
        "a la izquierda",
        "to the left",
        "",
-       "a la izquierda"
+       "a la izquierda",
+       ""
       ],
       [
        "derecho",
        "straight ahead",
        "💡 todo derecho · 🌎 recto",
-       "derecho"
+       "derecho",
+       ""
       ],
       [
        "la cuadra",
        "block",
        "🇪🇸 manzana",
-       "la cuadra"
+       "la cuadra",
+       ""
       ],
       [
        "la esquina",
        "corner",
        "",
-       "la esquina"
+       "la esquina",
+       ""
       ],
       [
        "el semáforo",
        "traffic light",
        "",
-       "el semáforo"
+       "el semáforo",
+       ""
       ],
       [
        "la glorieta",
        "roundabout",
        "💡 Mexico; 🌎 rotonda",
-       "la glorieta"
+       "la glorieta",
+       ""
       ],
       [
        "dar vuelta",
        "to turn",
        "💡 Mexico; 🌎 doblar, girar",
-       "dar vuelta"
+       "dar vuelta",
+       ""
       ],
       [
        "cruzar la calle",
        "to cross the street",
        "",
-       "cruzar la calle"
+       "cruzar la calle",
+       ""
       ],
       [
        "seguir",
        "to keep going",
        "",
-       "seguir"
+       "seguir",
+       ""
       ],
       [
        "cerca de",
        "near",
        "",
-       "cerca de"
+       "cerca de",
+       ""
       ],
       [
        "lejos de",
        "far from",
        "",
-       "lejos de"
+       "lejos de",
+       ""
       ],
       [
        "enfrente de",
        "across from, in front of",
        "",
-       "enfrente de"
+       "enfrente de",
+       ""
       ],
       [
        "al lado de",
        "next to",
        "",
-       "al lado de"
+       "al lado de",
+       ""
       ],
       [
        "junto a",
        "right next to",
        "",
-       "junto a"
+       "junto a",
+       ""
       ],
       [
        "detrás de",
        "behind",
        "",
-       "detrás de"
+       "detrás de",
+       ""
       ],
       [
        "entre",
        "between",
        "",
-       "entre"
+       "entre",
+       ""
       ],
       [
        "a dos cuadras",
        "two blocks away",
        "",
-       "a dos cuadras"
+       "a dos cuadras",
+       ""
       ],
       [
        "¿Dónde queda…?",
        "Where is…?",
        "",
-       "¿Dónde queda?"
+       "¿Dónde queda?",
+       ""
       ],
       [
        "¿Cómo llego a…?",
        "How do I get to…?",
        "",
-       "¿Cómo llego a?"
+       "¿Cómo llego a?",
+       ""
       ],
       [
        "aquí",
        "here",
        "",
-       "aquí"
+       "aquí",
+       ""
       ],
       [
        "ahí",
        "there",
        "",
-       "ahí"
+       "ahí",
+       ""
       ],
       [
        "allá",
        "over there",
        "",
-       "allá"
+       "allá",
+       ""
       ],
       [
        "el norte",
        "north",
        "",
-       "el norte"
+       "el norte",
+       ""
       ],
       [
        "el sur",
        "south",
        "",
-       "el sur"
+       "el sur",
+       ""
       ],
       [
        "el oriente",
        "east",
        "💡 Mexico street names use oriente / poniente",
-       "el oriente"
+       "el oriente",
+       ""
       ],
       [
        "el poniente",
        "west",
        "",
-       "el poniente"
+       "el poniente",
+       ""
       ]
      ]
     },
@@ -12368,133 +13557,155 @@ window.COURSE = {
        "ir",
        "to go",
        "",
-       "ir"
+       "ir",
+       ""
       ],
       [
        "irse",
        "to leave, go away",
        "",
-       "irse"
+       "irse",
+       ""
       ],
       [
        "venir",
        "to come",
        "",
-       "venir"
+       "venir",
+       ""
       ],
       [
        "llegar",
        "to arrive",
        "",
-       "llegar"
+       "llegar",
+       ""
       ],
       [
        "salir",
        "to go out, leave",
        "",
-       "salir"
+       "salir",
+       ""
       ],
       [
        "entrar",
        "to go in",
        "",
-       "entrar"
+       "entrar",
+       ""
       ],
       [
        "regresar",
        "to come back",
        "",
-       "regresar"
+       "regresar",
+       ""
       ],
       [
        "volver",
        "to return",
        "",
-       "volver"
+       "volver",
+       ""
       ],
       [
        "quedarse",
        "to stay",
        "",
-       "quedarse"
+       "quedarse",
+       ""
       ],
       [
        "subir",
        "to go up",
        "",
-       "subir"
+       "subir",
+       ""
       ],
       [
        "bajar",
        "to go down",
        "",
-       "bajar"
+       "bajar",
+       ""
       ],
       [
        "caminar",
        "to walk",
        "",
-       "caminar"
+       "caminar",
+       ""
       ],
       [
        "correr",
        "to run",
        "",
-       "correr"
+       "correr",
+       ""
       ],
       [
        "cruzar",
        "to cross",
        "",
-       "cruzar"
+       "cruzar",
+       ""
       ],
       [
        "pasar",
        "to pass; to come in",
        "",
-       "pasar"
+       "pasar",
+       ""
       ],
       [
        "pasar por",
        "to pick (someone) up",
        "💡 Paso por ti a las ocho.",
-       "pasar por"
+       "pasar por",
+       ""
       ],
       [
        "dejar",
        "to drop off; to leave",
        "",
-       "dejar"
+       "dejar",
+       ""
       ],
       [
        "llevar",
        "to take (somewhere)",
        "",
-       "llevar"
+       "llevar",
+       ""
       ],
       [
        "traer",
        "to bring",
        "",
-       "traer"
+       "traer",
+       ""
       ],
       [
        "acompañar",
        "to go with",
        "",
-       "acompañar"
+       "acompañar",
+       ""
       ],
       [
        "mudarse",
        "to move (house)",
        "",
-       "mudarse"
+       "mudarse",
+       ""
       ],
       [
        "visitar",
        "to visit",
        "",
-       "visitar"
+       "visitar",
+       ""
       ]
      ]
     },
@@ -12506,145 +13717,169 @@ window.COURSE = {
        "manejar",
        "to drive",
        "🇪🇸 conducir",
-       "manejar"
+       "manejar",
+       ""
       ],
       [
        "la licencia de manejo",
        "driver's license",
        "🌎 licencia de conducir, pase (Col) · 🇪🇸 carné de conducir",
-       "la licencia de manejo"
+       "la licencia de manejo",
+       ""
       ],
       [
        "la gasolina",
        "gas",
        "",
-       "la gasolina"
+       "la gasolina",
+       ""
       ],
       [
        "la gasolinera",
        "gas station",
        "🌎 bomba (Col, Ven), estación de servicio",
-       "la gasolinera"
+       "la gasolinera",
+       ""
       ],
       [
        "la llanta",
        "tire",
        "🌎 goma (Arg), caucho (Ven) · 🇪🇸 neumático",
-       "la llanta"
+       "la llanta",
+       ""
       ],
       [
        "la llanta ponchada",
        "flat tire",
        "💡 Mexico; 🌎 pinchada",
-       "la llanta ponchada"
+       "la llanta ponchada",
+       ""
       ],
       [
        "la cajuela",
        "trunk",
        "🌎 baúl (Col, Arg), maleta (Chile) · 🇪🇸 maletero",
-       "la cajuela"
+       "la cajuela",
+       ""
       ],
       [
        "el cofre",
        "hood",
        "💡 Mexico; 🌎 capó",
-       "el cofre"
+       "el cofre",
+       ""
       ],
       [
        "el volante",
        "steering wheel",
        "",
-       "el volante"
+       "el volante",
+       ""
       ],
       [
        "el freno",
        "brake",
        "",
-       "el freno"
+       "el freno",
+       ""
       ],
       [
        "el cinturón de seguridad",
        "seat belt",
        "",
-       "el cinturón de seguridad"
+       "el cinturón de seguridad",
+       ""
       ],
       [
        "la placa",
        "license plate",
        "🌎 patente (Arg, Chile) · 🇪🇸 matrícula",
-       "la placa"
+       "la placa",
+       ""
       ],
       [
        "el tope",
        "speed bump",
        "💡 Mexico; 🌎 lomo de burro (Arg), policía acostado (Col) · 🇪🇸 badén",
-       "el tope"
+       "el tope",
+       ""
       ],
       [
        "la carretera",
        "highway",
        "",
-       "la carretera"
+       "la carretera",
+       ""
       ],
       [
        "la autopista",
        "freeway",
        "",
-       "la autopista"
+       "la autopista",
+       ""
       ],
       [
        "la caseta",
        "toll booth",
        "💡 Mexico; 🌎 peaje",
-       "la caseta"
+       "la caseta",
+       ""
       ],
       [
        "la multa",
        "fine, ticket",
        "",
-       "la multa"
+       "la multa",
+       ""
       ],
       [
        "estacionarse",
        "to park",
        "🌎 parquear (Col, Caribbean) · 🇪🇸 aparcar",
-       "estacionarse"
+       "estacionarse",
+       ""
       ],
       [
        "el estacionamiento",
        "parking lot",
        "🌎 parqueadero (Col) · 🇪🇸 aparcamiento, parking",
-       "el estacionamiento"
+       "el estacionamiento",
+       ""
       ],
       [
        "el embotellamiento",
        "traffic jam",
        "💡 also el tráfico",
-       "el embotellamiento"
+       "el embotellamiento",
+       ""
       ],
       [
        "chocar",
        "to crash",
        "",
-       "chocar"
+       "chocar",
+       ""
       ],
       [
        "la grúa",
        "tow truck",
        "",
-       "la grúa"
+       "la grúa",
+       ""
       ],
       [
        "la banqueta",
        "sidewalk",
        "🌎 vereda (Arg), acera · 🇪🇸 acera",
-       "la banqueta"
+       "la banqueta",
+       ""
       ],
       [
        "el peatón",
        "pedestrian",
        "",
-       "el peatón"
+       "el peatón",
+       ""
       ]
      ]
     }
@@ -13087,109 +14322,127 @@ window.COURSE = {
        "mañana",
        "tomorrow",
        "",
-       "mañana"
+       "mañana",
+       ""
       ],
       [
        "pasado mañana",
        "the day after tomorrow",
        "",
-       "pasado mañana"
+       "pasado mañana",
+       ""
       ],
       [
        "esta noche",
        "tonight",
        "",
-       "esta noche"
+       "esta noche",
+       ""
       ],
       [
        "este fin de semana",
        "this weekend",
        "",
-       "este fin de semana"
+       "este fin de semana",
+       ""
       ],
       [
        "la próxima semana",
        "next week",
        "💡 Mexico also says la semana que entra",
-       "la próxima semana"
+       "la próxima semana",
+       ""
       ],
       [
        "el próximo mes",
        "next month",
        "",
-       "el próximo mes"
+       "el próximo mes",
+       ""
       ],
       [
        "el año que viene",
        "next year",
        "",
-       "el año que viene"
+       "el año que viene",
+       ""
       ],
       [
        "el lunes que viene",
        "next Monday",
        "",
-       "el lunes que viene"
+       "el lunes que viene",
+       ""
       ],
       [
        "al rato",
        "later",
        "💡 Mexico",
-       "al rato"
+       "al rato",
+       ""
       ],
       [
        "luego",
        "later, then",
        "",
-       "luego"
+       "luego",
+       ""
       ],
       [
        "más tarde",
        "later",
        "",
-       "más tarde"
+       "más tarde",
+       ""
       ],
       [
        "pronto",
        "soon",
        "",
-       "pronto"
+       "pronto",
+       ""
       ],
       [
        "ahorita",
        "in a moment",
        "💡 Mexico — can mean now, soon or never",
-       "ahorita"
+       "ahorita",
+       ""
       ],
       [
        "en un ratito",
        "in a little while",
        "",
-       "en un ratito"
+       "en un ratito",
+       ""
       ],
       [
        "dentro de dos días",
        "in two days",
        "",
-       "dentro de dos días"
+       "dentro de dos días",
+       ""
       ],
       [
        "en dos semanas",
        "in two weeks",
        "",
-       "en dos semanas"
+       "en dos semanas",
+       ""
       ],
       [
        "a fin de mes",
        "at the end of the month",
        "",
-       "a fin de mes"
+       "a fin de mes",
+       ""
       ],
       [
        "algún día",
        "someday",
        "",
-       "algún día"
+       "algún día",
+       ""
       ]
      ]
     },
@@ -13201,109 +14454,127 @@ window.COURSE = {
        "hacer planes",
        "to make plans",
        "",
-       "hacer planes"
+       "hacer planes",
+       ""
       ],
       [
        "ir a la playa",
        "to go to the beach",
        "",
-       "ir a la playa"
+       "ir a la playa",
+       ""
       ],
       [
        "ir de compras",
        "to go shopping",
        "",
-       "ir de compras"
+       "ir de compras",
+       ""
       ],
       [
        "ir al tianguis",
        "to go to the street market",
        "💡 Mexico",
-       "ir al tianguis"
+       "ir al tianguis",
+       ""
       ],
       [
        "salir a cenar",
        "to go out to dinner",
        "",
-       "salir a cenar"
+       "salir a cenar",
+       ""
       ],
       [
        "quedarse en casa",
        "to stay home",
        "",
-       "quedarse en casa"
+       "quedarse en casa",
+       ""
       ],
       [
        "visitar a la familia",
        "to visit family",
        "",
-       "visitar a la familia"
+       "visitar a la familia",
+       ""
       ],
       [
        "descansar",
        "to rest",
        "",
-       "descansar"
+       "descansar",
+       ""
       ],
       [
        "dormir hasta tarde",
        "to sleep in",
        "",
-       "dormir hasta tarde"
+       "dormir hasta tarde",
+       ""
       ],
       [
        "hacer una carne asada",
        "to have a barbecue",
        "💡 Mexico; 🌎 asado (Arg)",
-       "hacer una carne asada"
+       "hacer una carne asada",
+       ""
       ],
       [
        "ir a misa",
        "to go to Mass",
        "",
-       "ir a misa"
+       "ir a misa",
+       ""
       ],
       [
        "ver el partido",
        "to watch the game",
        "",
-       "ver el partido"
+       "ver el partido",
+       ""
       ],
       [
        "ir al antro",
        "to go clubbing",
        "💡 Mexico; 🌎 discoteca, boliche (Arg)",
-       "ir al antro"
+       "ir al antro",
+       ""
       ],
       [
        "echarse una chela",
        "to grab a beer",
        "💡 Mexico, casual",
-       "echarse una chela"
+       "echarse una chela",
+       ""
       ],
       [
        "quedar de verse",
        "to agree to meet",
        "💡 Mexico; 🇪🇸 quedar",
-       "quedar de verse"
+       "quedar de verse",
+       ""
       ],
       [
        "tener una cita",
        "to have a date; an appointment",
        "",
-       "tener una cita"
+       "tener una cita",
+       ""
       ],
       [
        "invitar",
        "to invite; to treat",
        "",
-       "invitar"
+       "invitar",
+       ""
       ],
       [
        "cancelar",
        "to cancel",
        "",
-       "cancelar"
+       "cancelar",
+       ""
       ]
      ]
     },
@@ -13315,133 +14586,155 @@ window.COURSE = {
        "la fiesta",
        "party",
        "",
-       "la fiesta"
+       "la fiesta",
+       ""
       ],
       [
        "la pachanga",
        "party",
        "💡 Mexico, casual",
-       "la pachanga"
+       "la pachanga",
+       ""
       ],
       [
        "el cumpleaños",
        "birthday",
        "",
-       "el cumpleaños"
+       "el cumpleaños",
+       ""
       ],
       [
        "¡Feliz cumpleaños!",
        "Happy birthday!",
        "",
-       "¡Feliz cumpleaños!"
+       "¡Feliz cumpleaños!",
+       ""
       ],
       [
        "Las Mañanitas",
        "the Mexican birthday song",
        "",
-       "Las Mañanitas"
+       "Las Mañanitas",
+       ""
       ],
       [
        "los invitados",
        "guests",
        "",
-       "los invitados"
+       "los invitados",
+       ""
       ],
       [
        "el anfitrión",
        "host",
        "",
-       "el anfitrión"
+       "el anfitrión",
+       ""
       ],
       [
        "el regalo",
        "gift",
        "",
-       "el regalo"
+       "el regalo",
+       ""
       ],
       [
        "el pastel",
        "cake",
        "",
-       "el pastel"
+       "el pastel",
+       ""
       ],
       [
        "las velas",
        "candles",
        "",
-       "las velas"
+       "las velas",
+       ""
       ],
       [
        "la piñata",
        "piñata",
        "",
-       "la piñata"
+       "la piñata",
+       ""
       ],
       [
        "los dulces",
        "candy",
        "",
-       "los dulces"
+       "los dulces",
+       ""
       ],
       [
        "la sorpresa",
        "surprise",
        "",
-       "la sorpresa"
+       "la sorpresa",
+       ""
       ],
       [
        "la boda",
        "wedding",
        "",
-       "la boda"
+       "la boda",
+       ""
       ],
       [
        "los novios",
        "the bride and groom; couple",
        "",
-       "los novios"
+       "los novios",
+       ""
       ],
       [
        "los quince años",
        "15th birthday party",
        "💡 la quinceañera is the girl",
-       "los quince años"
+       "los quince años",
+       ""
       ],
       [
        "el bautizo",
        "baptism",
        "",
-       "el bautizo"
+       "el bautizo",
+       ""
       ],
       [
        "el brindis",
        "toast",
        "",
-       "el brindis"
+       "el brindis",
+       ""
       ],
       [
        "¡Salud!",
        "Cheers!",
        "",
-       "¡Salud!"
+       "¡Salud!",
+       ""
       ],
       [
        "¡Felicidades!",
        "Congratulations!",
        "",
-       "¡Felicidades!"
+       "¡Felicidades!",
+       ""
       ],
       [
        "colarse",
        "to crash a party",
        "",
-       "colarse"
+       "colarse",
+       ""
       ],
       [
        "la cruda",
        "hangover",
        "💡 Mexico; 🌎 guayabo (Col), resaca · 🇪🇸 resaca",
-       "la cruda"
+       "la cruda",
+       ""
       ]
      ]
     },
@@ -13453,145 +14746,169 @@ window.COURSE = {
        "el día festivo",
        "holiday",
        "",
-       "el día festivo"
+       "el día festivo",
+       ""
       ],
       [
        "el puente",
        "long weekend",
        "💡 Mexico, Spain",
-       "el puente"
+       "el puente",
+       ""
       ],
       [
        "la Navidad",
        "Christmas",
        "",
-       "la Navidad"
+       "la Navidad",
+       ""
       ],
       [
        "la Nochebuena",
        "Christmas Eve",
        "",
-       "la Nochebuena"
+       "la Nochebuena",
+       ""
       ],
       [
        "las posadas",
        "Christmas processions (Dec 16–24)",
        "",
-       "las posadas"
+       "las posadas",
+       ""
       ],
       [
        "la pastorela",
        "nativity play",
        "",
-       "la pastorela"
+       "la pastorela",
+       ""
       ],
       [
        "el Año Nuevo",
        "New Year",
        "",
-       "el Año Nuevo"
+       "el Año Nuevo",
+       ""
       ],
       [
        "el Día de Reyes",
        "Three Kings Day (Jan 6)",
        "",
-       "el Día de Reyes"
+       "el Día de Reyes",
+       ""
       ],
       [
        "el Día de la Candelaria",
        "Candlemas (Feb 2) — tamales day",
        "",
-       "el Día de la Candelaria"
+       "el Día de la Candelaria",
+       ""
       ],
       [
        "la Semana Santa",
        "Holy Week",
        "",
-       "la Semana Santa"
+       "la Semana Santa",
+       ""
       ],
       [
        "el Día de las Madres",
        "Mother's Day (May 10 in Mexico)",
        "",
-       "el Día de las Madres"
+       "el Día de las Madres",
+       ""
       ],
       [
        "el Día del Padre",
        "Father's Day",
        "",
-       "el Día del Padre"
+       "el Día del Padre",
+       ""
       ],
       [
        "el Grito",
        "Independence night (Sept 15)",
        "",
-       "el Grito"
+       "el Grito",
+       ""
       ],
       [
        "el Día de la Independencia",
        "Independence Day (Sept 16)",
        "",
-       "el Día de la Independencia"
+       "el Día de la Independencia",
+       ""
       ],
       [
        "el Día de Muertos",
        "Day of the Dead (Nov 1–2)",
        "",
-       "el Día de Muertos"
+       "el Día de Muertos",
+       ""
       ],
       [
        "la ofrenda",
        "Day of the Dead altar",
        "💡 also el altar",
-       "la ofrenda"
+       "la ofrenda",
+       ""
       ],
       [
        "la calavera",
        "skull; funny death poem",
        "",
-       "la calavera"
+       "la calavera",
+       ""
       ],
       [
        "la catrina",
        "elegant skeleton lady",
        "",
-       "la catrina"
+       "la catrina",
+       ""
       ],
       [
        "el cempasúchil",
        "marigold",
        "",
-       "el cempasúchil"
+       "el cempasúchil",
+       ""
       ],
       [
        "el Día de la Virgen de Guadalupe",
        "Our Lady of Guadalupe Day (Dec 12)",
        "",
-       "el Día de la Virgen de Guadalupe"
+       "el Día de la Virgen de Guadalupe",
+       ""
       ],
       [
        "el Carnaval",
        "Carnival",
        "",
-       "el Carnaval"
+       "el Carnaval",
+       ""
       ],
       [
        "la feria",
        "fair",
        "",
-       "la feria"
+       "la feria",
+       ""
       ],
       [
        "el desfile",
        "parade",
        "",
-       "el desfile"
+       "el desfile",
+       ""
       ],
       [
        "los fuegos artificiales",
        "fireworks",
        "💡 also los cohetes",
-       "los fuegos artificiales"
+       "los fuegos artificiales",
+       ""
       ]
      ]
     }
@@ -14006,157 +15323,183 @@ window.COURSE = {
        "el clima",
        "weather",
        "",
-       "el clima"
+       "el clima",
+       ""
       ],
       [
        "el pronóstico",
        "forecast",
        "",
-       "el pronóstico"
+       "el pronóstico",
+       ""
       ],
       [
        "hace sol",
        "it's sunny",
        "",
-       "hace sol"
+       "hace sol",
+       ""
       ],
       [
        "hace calor",
        "it's hot",
        "",
-       "hace calor"
+       "hace calor",
+       ""
       ],
       [
        "hace frío",
        "it's cold",
        "",
-       "hace frío"
+       "hace frío",
+       ""
       ],
       [
        "hace fresco",
        "it's cool",
        "",
-       "hace fresco"
+       "hace fresco",
+       ""
       ],
       [
        "hace viento",
        "it's windy",
        "",
-       "hace viento"
+       "hace viento",
+       ""
       ],
       [
        "está nublado",
        "it's cloudy",
        "",
-       "está nublado"
+       "está nublado",
+       ""
       ],
       [
        "está despejado",
        "it's clear",
        "",
-       "está despejado"
+       "está despejado",
+       ""
       ],
       [
        "llueve",
        "it rains",
        "💡 está lloviendo = it's raining now",
-       "llueve"
+       "llueve",
+       ""
       ],
       [
        "la lluvia",
        "rain",
        "",
-       "la lluvia"
+       "la lluvia",
+       ""
       ],
       [
        "la llovizna",
        "drizzle",
        "",
-       "la llovizna"
+       "la llovizna",
+       ""
       ],
       [
        "el aguacero",
        "downpour",
        "",
-       "el aguacero"
+       "el aguacero",
+       ""
       ],
       [
        "la tormenta",
        "storm",
        "",
-       "la tormenta"
+       "la tormenta",
+       ""
       ],
       [
        "el relámpago",
        "lightning",
        "",
-       "el relámpago"
+       "el relámpago",
+       ""
       ],
       [
        "el trueno",
        "thunder",
        "",
-       "el trueno"
+       "el trueno",
+       ""
       ],
       [
        "el granizo",
        "hail",
        "",
-       "el granizo"
+       "el granizo",
+       ""
       ],
       [
        "la nieve",
        "snow",
        "",
-       "la nieve"
+       "la nieve",
+       ""
       ],
       [
        "la neblina",
        "fog",
        "",
-       "la neblina"
+       "la neblina",
+       ""
       ],
       [
        "la humedad",
        "humidity",
        "",
-       "la humedad"
+       "la humedad",
+       ""
       ],
       [
        "el huracán",
        "hurricane",
        "",
-       "el huracán"
+       "el huracán",
+       ""
       ],
       [
        "el temblor",
        "earthquake",
        "💡 also el sismo; a big one is un terremoto",
-       "el temblor"
+       "el temblor",
+       ""
       ],
       [
        "la temperatura",
        "temperature",
        "",
-       "la temperatura"
+       "la temperatura",
+       ""
       ],
       [
        "los grados",
        "degrees",
        "",
-       "los grados"
+       "los grados",
+       ""
       ],
       [
        "el paraguas",
        "umbrella",
        "",
-       "el paraguas"
+       "el paraguas",
+       ""
       ],
       [
        "el impermeable",
        "raincoat",
        "",
-       "el impermeable"
+       "el impermeable",
+       ""
       ]
      ]
     },
@@ -14168,181 +15511,211 @@ window.COURSE = {
        "la primavera",
        "spring",
        "",
-       "la primavera"
+       "la primavera",
+       ""
       ],
       [
        "el verano",
        "summer",
        "",
-       "el verano"
+       "el verano",
+       ""
       ],
       [
        "el otoño",
        "fall",
        "",
-       "el otoño"
+       "el otoño",
+       ""
       ],
       [
        "el invierno",
        "winter",
        "",
-       "el invierno"
+       "el invierno",
+       ""
       ],
       [
        "la temporada de lluvias",
        "rainy season",
        "",
-       "la temporada de lluvias"
+       "la temporada de lluvias",
+       ""
       ],
       [
        "la temporada de secas",
        "dry season",
        "💡 Mexico",
-       "la temporada de secas"
+       "la temporada de secas",
+       ""
       ],
       [
        "el sol",
        "sun",
        "",
-       "el sol"
+       "el sol",
+       ""
       ],
       [
        "la luna",
        "moon",
        "",
-       "la luna"
+       "la luna",
+       ""
       ],
       [
        "las estrellas",
        "stars",
        "",
-       "las estrellas"
+       "las estrellas",
+       ""
       ],
       [
        "el cielo",
        "sky",
        "",
-       "el cielo"
+       "el cielo",
+       ""
       ],
       [
        "la nube",
        "cloud",
        "",
-       "la nube"
+       "la nube",
+       ""
       ],
       [
        "el mar",
        "sea",
        "",
-       "el mar"
+       "el mar",
+       ""
       ],
       [
        "el río",
        "river",
        "",
-       "el río"
+       "el río",
+       ""
       ],
       [
        "el lago",
        "lake",
        "",
-       "el lago"
+       "el lago",
+       ""
       ],
       [
        "la montaña",
        "mountain",
        "",
-       "la montaña"
+       "la montaña",
+       ""
       ],
       [
        "el cerro",
        "hill",
        "",
-       "el cerro"
+       "el cerro",
+       ""
       ],
       [
        "el volcán",
        "volcano",
        "",
-       "el volcán"
+       "el volcán",
+       ""
       ],
       [
        "el bosque",
        "forest",
        "",
-       "el bosque"
+       "el bosque",
+       ""
       ],
       [
        "la selva",
        "jungle, rainforest",
        "",
-       "la selva"
+       "la selva",
+       ""
       ],
       [
        "el desierto",
        "desert",
        "",
-       "el desierto"
+       "el desierto",
+       ""
       ],
       [
        "la isla",
        "island",
        "",
-       "la isla"
+       "la isla",
+       ""
       ],
       [
        "la cascada",
        "waterfall",
        "",
-       "la cascada"
+       "la cascada",
+       ""
       ],
       [
        "la cueva",
        "cave",
        "",
-       "la cueva"
+       "la cueva",
+       ""
       ],
       [
        "el árbol",
        "tree",
        "",
-       "el árbol"
+       "el árbol",
+       ""
       ],
       [
        "la flor",
        "flower",
        "",
-       "la flor"
+       "la flor",
+       ""
       ],
       [
        "la planta",
        "plant",
        "",
-       "la planta"
+       "la planta",
+       ""
       ],
       [
        "el pasto",
        "grass",
        "🌎 grama (Ven) · 🇪🇸 césped, hierba",
-       "el pasto"
+       "el pasto",
+       ""
       ],
       [
        "la tierra",
        "earth, soil",
        "",
-       "la tierra"
+       "la tierra",
+       ""
       ],
       [
        "la piedra",
        "rock, stone",
        "",
-       "la piedra"
+       "la piedra",
+       ""
       ],
       [
        "la arena",
        "sand",
        "",
-       "la arena"
+       "la arena",
+       ""
       ]
      ]
     },
@@ -14354,283 +15727,330 @@ window.COURSE = {
        "el perro",
        "dog",
        "",
-       "el perro"
+       "el perro",
+       ""
       ],
       [
        "el gato",
        "cat",
        "",
-       "el gato"
+       "el gato",
+       ""
       ],
       [
        "el pájaro",
        "bird",
        "",
-       "el pájaro"
+       "el pájaro",
+       ""
       ],
       [
        "el pez",
        "fish (live)",
        "💡 pescado = fish you eat",
-       "el pez"
+       "el pez",
+       ""
       ],
       [
        "la vaca",
        "cow",
        "",
-       "la vaca"
+       "la vaca",
+       ""
       ],
       [
        "el toro",
        "bull",
        "",
-       "el toro"
+       "el toro",
+       ""
       ],
       [
        "el caballo",
        "horse",
        "",
-       "el caballo"
+       "el caballo",
+       ""
       ],
       [
        "el burro",
        "donkey",
        "",
-       "el burro"
+       "el burro",
+       ""
       ],
       [
        "el puerco",
        "pig",
        "💡 also el cerdo, el cochino",
-       "el puerco"
+       "el puerco",
+       ""
       ],
       [
        "la gallina",
        "hen",
        "",
-       "la gallina"
+       "la gallina",
+       ""
       ],
       [
        "el gallo",
        "rooster",
        "",
-       "el gallo"
+       "el gallo",
+       ""
       ],
       [
        "el pollito",
        "chick",
        "",
-       "el pollito"
+       "el pollito",
+       ""
       ],
       [
        "el borrego",
        "sheep",
        "💡 Mexico; 🌎 oveja",
-       "el borrego"
+       "el borrego",
+       ""
       ],
       [
        "el chivo",
        "goat",
        "💡 also la cabra",
-       "el chivo"
+       "el chivo",
+       ""
       ],
       [
        "el conejo",
        "rabbit",
        "",
-       "el conejo"
+       "el conejo",
+       ""
       ],
       [
        "el ratón",
        "mouse",
        "",
-       "el ratón"
+       "el ratón",
+       ""
       ],
       [
        "la rata",
        "rat",
        "",
-       "la rata"
+       "la rata",
+       ""
       ],
       [
        "la ardilla",
        "squirrel",
        "",
-       "la ardilla"
+       "la ardilla",
+       ""
       ],
       [
        "el chango",
        "monkey",
        "💡 Mexico; 🌎 mono",
-       "el chango"
+       "el chango",
+       ""
       ],
       [
        "el león",
        "lion",
        "",
-       "el león"
+       "el león",
+       ""
       ],
       [
        "el tigre",
        "tiger",
        "",
-       "el tigre"
+       "el tigre",
+       ""
       ],
       [
        "el jaguar",
        "jaguar",
        "",
-       "el jaguar"
+       "el jaguar",
+       ""
       ],
       [
        "el oso",
        "bear",
        "",
-       "el oso"
+       "el oso",
+       ""
       ],
       [
        "el lobo",
        "wolf",
        "",
-       "el lobo"
+       "el lobo",
+       ""
       ],
       [
        "el coyote",
        "coyote",
        "",
-       "el coyote"
+       "el coyote",
+       ""
       ],
       [
        "la víbora",
        "snake",
        "💡 also la serpiente",
-       "la víbora"
+       "la víbora",
+       ""
       ],
       [
        "la tortuga",
        "turtle",
        "",
-       "la tortuga"
+       "la tortuga",
+       ""
       ],
       [
        "la rana",
        "frog",
        "",
-       "la rana"
+       "la rana",
+       ""
       ],
       [
        "el cocodrilo",
        "crocodile",
        "",
-       "el cocodrilo"
+       "el cocodrilo",
+       ""
       ],
       [
        "la iguana",
        "iguana",
        "",
-       "la iguana"
+       "la iguana",
+       ""
       ],
       [
        "el águila",
        "eagle",
        "",
-       "el águila"
+       "el águila",
+       ""
       ],
       [
        "el perico",
        "parrot",
        "💡 Mexico; 🌎 loro",
-       "el perico"
+       "el perico",
+       ""
       ],
       [
        "el colibrí",
        "hummingbird",
        "",
-       "el colibrí"
+       "el colibrí",
+       ""
       ],
       [
        "la mariposa",
        "butterfly",
        "",
-       "la mariposa"
+       "la mariposa",
+       ""
       ],
       [
        "la abeja",
        "bee",
        "",
-       "la abeja"
+       "la abeja",
+       ""
       ],
       [
        "la hormiga",
        "ant",
        "",
-       "la hormiga"
+       "la hormiga",
+       ""
       ],
       [
        "la mosca",
        "fly",
        "",
-       "la mosca"
+       "la mosca",
+       ""
       ],
       [
        "el mosquito",
        "mosquito",
        "🌎 zancudo (Col, Ven, Central America)",
-       "el mosquito"
+       "el mosquito",
+       ""
       ],
       [
        "la cucaracha",
        "cockroach",
        "",
-       "la cucaracha"
+       "la cucaracha",
+       ""
       ],
       [
        "la araña",
        "spider",
        "",
-       "la araña"
+       "la araña",
+       ""
       ],
       [
        "el alacrán",
        "scorpion",
        "💡 Mexico; 🌎 escorpión",
-       "el alacrán"
+       "el alacrán",
+       ""
       ],
       [
        "el delfín",
        "dolphin",
        "",
-       "el delfín"
+       "el delfín",
+       ""
       ],
       [
        "la ballena",
        "whale",
        "",
-       "la ballena"
+       "la ballena",
+       ""
       ],
       [
        "el tiburón",
        "shark",
        "",
-       "el tiburón"
+       "el tiburón",
+       ""
       ],
       [
        "el ajolote",
        "axolotl",
        "",
-       "el ajolote"
+       "el ajolote",
+       ""
       ],
       [
        "el tlacuache",
        "opossum",
        "💡 Mexico; 🌎 zarigüeya, chucha (Col)",
-       "el tlacuache"
+       "el tlacuache",
+       ""
       ],
       [
        "el guajolote",
        "turkey",
        "💡 Mexico",
-       "el guajolote"
+       "el guajolote",
+       ""
       ]
      ]
     },
@@ -14642,163 +16062,190 @@ window.COURSE = {
        "nacer",
        "to be born",
        "",
-       "nacer"
+       "nacer",
+       ""
       ],
       [
        "crecer",
        "to grow up",
        "",
-       "crecer"
+       "crecer",
+       ""
       ],
       [
        "graduarse",
        "to graduate",
        "",
-       "graduarse"
+       "graduarse",
+       ""
       ],
       [
        "la graduación",
        "graduation",
        "",
-       "la graduación"
+       "la graduación",
+       ""
       ],
       [
        "la carrera",
        "college degree; career",
        "",
-       "la carrera"
+       "la carrera",
+       ""
       ],
       [
        "la universidad",
        "university",
        "",
-       "la universidad"
+       "la universidad",
+       ""
       ],
       [
        "conseguir trabajo",
        "to get a job",
        "",
-       "conseguir trabajo"
+       "conseguir trabajo",
+       ""
       ],
       [
        "la chamba",
        "job, work",
        "💡 Mexico, casual",
-       "la chamba"
+       "la chamba",
+       ""
       ],
       [
        "cambiar de trabajo",
        "to change jobs",
        "",
-       "cambiar de trabajo"
+       "cambiar de trabajo",
+       ""
       ],
       [
        "el sueldo",
        "salary",
        "",
-       "el sueldo"
+       "el sueldo",
+       ""
       ],
       [
        "ahorrar",
        "to save (money)",
        "",
-       "ahorrar"
+       "ahorrar",
+       ""
       ],
       [
        "rentar",
        "to rent",
        "💡 Mexico; 🌎 alquilar, arrendar",
-       "rentar"
+       "rentar",
+       ""
       ],
       [
        "comprar una casa",
        "to buy a house",
        "",
-       "comprar una casa"
+       "comprar una casa",
+       ""
       ],
       [
        "mudarse",
        "to move (house)",
        "",
-       "mudarse"
+       "mudarse",
+       ""
       ],
       [
        "enamorarse",
        "to fall in love",
        "",
-       "enamorarse"
+       "enamorarse",
+       ""
       ],
       [
        "comprometerse",
        "to get engaged",
        "",
-       "comprometerse"
+       "comprometerse",
+       ""
       ],
       [
        "casarse",
        "to get married",
        "",
-       "casarse"
+       "casarse",
+       ""
       ],
       [
        "divorciarse",
        "to get divorced",
        "",
-       "divorciarse"
+       "divorciarse",
+       ""
       ],
       [
        "tener hijos",
        "to have children",
        "",
-       "tener hijos"
+       "tener hijos",
+       ""
       ],
       [
        "embarazada",
        "pregnant",
        "💡 not \"embarrassed\" — that's apenada",
-       "embarazada"
+       "embarazada",
+       ""
       ],
       [
        "jubilarse",
        "to retire",
        "",
-       "jubilarse"
+       "jubilarse",
+       ""
       ],
       [
        "envejecer",
        "to grow old",
        "",
-       "envejecer"
+       "envejecer",
+       ""
       ],
       [
        "morir",
        "to die",
        "",
-       "morir"
+       "morir",
+       ""
       ],
       [
        "la meta",
        "goal",
        "",
-       "la meta"
+       "la meta",
+       ""
       ],
       [
        "el sueño",
        "dream",
        "",
-       "el sueño"
+       "el sueño",
+       ""
       ],
       [
        "tener éxito",
        "to be successful",
        "💡 not \"to have an exit\"",
-       "tener éxito"
+       "tener éxito",
+       ""
       ],
       [
        "independizarse",
        "to move out, become independent",
        "",
-       "independizarse"
+       "independizarse",
+       ""
       ]
      ]
     }
@@ -15217,133 +16664,155 @@ window.COURSE = {
        "ayer",
        "yesterday",
        "",
-       "ayer"
+       "ayer",
+       ""
       ],
       [
        "antier",
        "the day before yesterday",
        "💡 Mexico; 🌎 anteayer",
-       "antier"
+       "antier",
+       ""
       ],
       [
        "anoche",
        "last night",
        "",
-       "anoche"
+       "anoche",
+       ""
       ],
       [
        "la semana pasada",
        "last week",
        "",
-       "la semana pasada"
+       "la semana pasada",
+       ""
       ],
       [
        "el mes pasado",
        "last month",
        "",
-       "el mes pasado"
+       "el mes pasado",
+       ""
       ],
       [
        "el año pasado",
        "last year",
        "",
-       "el año pasado"
+       "el año pasado",
+       ""
       ],
       [
        "el lunes pasado",
        "last Monday",
        "",
-       "el lunes pasado"
+       "el lunes pasado",
+       ""
       ],
       [
        "hace dos días",
        "two days ago",
        "",
-       "hace dos días"
+       "hace dos días",
+       ""
       ],
       [
        "hace una semana",
        "a week ago",
        "",
-       "hace una semana"
+       "hace una semana",
+       ""
       ],
       [
        "hace mucho",
        "a long time ago",
        "",
-       "hace mucho"
+       "hace mucho",
+       ""
       ],
       [
        "el otro día",
        "the other day",
        "",
-       "el otro día"
+       "el otro día",
+       ""
       ],
       [
        "esta mañana",
        "this morning",
        "",
-       "esta mañana"
+       "esta mañana",
+       ""
       ],
       [
        "una vez",
        "once",
        "",
-       "una vez"
+       "una vez",
+       ""
       ],
       [
        "de repente",
        "suddenly",
        "",
-       "de repente"
+       "de repente",
+       ""
       ],
       [
        "primero",
        "first",
        "",
-       "primero"
+       "primero",
+       ""
       ],
       [
        "luego",
        "then",
        "",
-       "luego"
+       "luego",
+       ""
       ],
       [
        "después",
        "afterward",
        "",
-       "después"
+       "después",
+       ""
       ],
       [
        "al final",
        "in the end",
        "",
-       "al final"
+       "al final",
+       ""
       ],
       [
        "entonces",
        "so, then",
        "",
-       "entonces"
+       "entonces",
+       ""
       ],
       [
        "ya",
        "already",
        "",
-       "ya"
+       "ya",
+       ""
       ],
       [
        "todavía no",
        "not yet",
        "",
-       "todavía no"
+       "todavía no",
+       ""
       ],
       [
        "en ese momento",
        "at that moment",
        "",
-       "en ese momento"
+       "en ese momento",
+       ""
       ]
      ]
     },
@@ -15355,247 +16824,288 @@ window.COURSE = {
        "el cuerpo",
        "body",
        "",
-       "el cuerpo"
+       "el cuerpo",
+       ""
       ],
       [
        "la cabeza",
        "head",
        "",
-       "la cabeza"
+       "la cabeza",
+       ""
       ],
       [
        "la cara",
        "face",
        "",
-       "la cara"
+       "la cara",
+       ""
       ],
       [
        "el pelo",
        "hair",
        "",
-       "el pelo"
+       "el pelo",
+       ""
       ],
       [
        "los ojos",
        "eyes",
        "",
-       "los ojos"
+       "los ojos",
+       ""
       ],
       [
        "las cejas",
        "eyebrows",
        "",
-       "las cejas"
+       "las cejas",
+       ""
       ],
       [
        "las pestañas",
        "eyelashes",
        "",
-       "las pestañas"
+       "las pestañas",
+       ""
       ],
       [
        "la nariz",
        "nose",
        "",
-       "la nariz"
+       "la nariz",
+       ""
       ],
       [
        "la boca",
        "mouth",
        "",
-       "la boca"
+       "la boca",
+       ""
       ],
       [
        "los labios",
        "lips",
        "",
-       "los labios"
+       "los labios",
+       ""
       ],
       [
        "los dientes",
        "teeth",
        "",
-       "los dientes"
+       "los dientes",
+       ""
       ],
       [
        "la muela",
        "molar",
        "",
-       "la muela"
+       "la muela",
+       ""
       ],
       [
        "la lengua",
        "tongue",
        "",
-       "la lengua"
+       "la lengua",
+       ""
       ],
       [
        "la oreja",
        "ear (outer)",
        "",
-       "la oreja"
+       "la oreja",
+       ""
       ],
       [
        "el oído",
        "ear (inner); hearing",
        "",
-       "el oído"
+       "el oído",
+       ""
       ],
       [
        "el cuello",
        "neck",
        "",
-       "el cuello"
+       "el cuello",
+       ""
       ],
       [
        "la garganta",
        "throat",
        "",
-       "la garganta"
+       "la garganta",
+       ""
       ],
       [
        "el hombro",
        "shoulder",
        "",
-       "el hombro"
+       "el hombro",
+       ""
       ],
       [
        "el brazo",
        "arm",
        "",
-       "el brazo"
+       "el brazo",
+       ""
       ],
       [
        "el codo",
        "elbow",
        "",
-       "el codo"
+       "el codo",
+       ""
       ],
       [
        "la muñeca",
        "wrist; doll",
        "",
-       "la muñeca"
+       "la muñeca",
+       ""
       ],
       [
        "la mano",
        "hand",
        "💡 la mano, even though it ends in -o",
-       "la mano"
+       "la mano",
+       ""
       ],
       [
        "el dedo",
        "finger",
        "",
-       "el dedo"
+       "el dedo",
+       ""
       ],
       [
        "la uña",
        "nail",
        "",
-       "la uña"
+       "la uña",
+       ""
       ],
       [
        "el pecho",
        "chest",
        "",
-       "el pecho"
+       "el pecho",
+       ""
       ],
       [
        "la espalda",
        "back",
        "",
-       "la espalda"
+       "la espalda",
+       ""
       ],
       [
        "el estómago",
        "stomach",
        "",
-       "el estómago"
+       "el estómago",
+       ""
       ],
       [
        "la panza",
        "belly",
        "💡 casual, Mexico",
-       "la panza"
+       "la panza",
+       ""
       ],
       [
        "la cintura",
        "waist",
        "",
-       "la cintura"
+       "la cintura",
+       ""
       ],
       [
        "la cadera",
        "hip",
        "",
-       "la cadera"
+       "la cadera",
+       ""
       ],
       [
        "la pierna",
        "leg",
        "",
-       "la pierna"
+       "la pierna",
+       ""
       ],
       [
        "la rodilla",
        "knee",
        "",
-       "la rodilla"
+       "la rodilla",
+       ""
       ],
       [
        "el tobillo",
        "ankle",
        "",
-       "el tobillo"
+       "el tobillo",
+       ""
       ],
       [
        "el pie",
        "foot",
        "",
-       "el pie"
+       "el pie",
+       ""
       ],
       [
        "el dedo del pie",
        "toe",
        "",
-       "el dedo del pie"
+       "el dedo del pie",
+       ""
       ],
       [
        "el corazón",
        "heart",
        "",
-       "el corazón"
+       "el corazón",
+       ""
       ],
       [
        "los pulmones",
        "lungs",
        "",
-       "los pulmones"
+       "los pulmones",
+       ""
       ],
       [
        "el cerebro",
        "brain",
        "",
-       "el cerebro"
+       "el cerebro",
+       ""
       ],
       [
        "la piel",
        "skin",
        "",
-       "la piel"
+       "la piel",
+       ""
       ],
       [
        "el hueso",
        "bone",
        "",
-       "el hueso"
+       "el hueso",
+       ""
       ],
       [
        "la sangre",
        "blood",
        "",
-       "la sangre"
+       "la sangre",
+       ""
       ]
      ]
     },
@@ -15607,163 +17117,190 @@ window.COURSE = {
        "el médico",
        "doctor",
        "",
-       "el médico"
+       "el médico",
+       ""
       ],
       [
        "el consultorio",
        "doctor's office",
        "",
-       "el consultorio"
+       "el consultorio",
+       ""
       ],
       [
        "la clínica",
        "clinic",
        "",
-       "la clínica"
+       "la clínica",
+       ""
       ],
       [
        "urgencias",
        "emergency room",
        "",
-       "urgencias"
+       "urgencias",
+       ""
       ],
       [
        "la ambulancia",
        "ambulance",
        "",
-       "la ambulancia"
+       "la ambulancia",
+       ""
       ],
       [
        "la cita",
        "appointment",
        "",
-       "la cita"
+       "la cita",
+       ""
       ],
       [
        "la receta",
        "prescription",
        "",
-       "la receta"
+       "la receta",
+       ""
       ],
       [
        "la pastilla",
        "pill",
        "",
-       "la pastilla"
+       "la pastilla",
+       ""
       ],
       [
        "el jarabe",
        "syrup",
        "",
-       "el jarabe"
+       "el jarabe",
+       ""
       ],
       [
        "la inyección",
        "shot, injection",
        "",
-       "la inyección"
+       "la inyección",
+       ""
       ],
       [
        "la vacuna",
        "vaccine",
        "",
-       "la vacuna"
+       "la vacuna",
+       ""
       ],
       [
        "el termómetro",
        "thermometer",
        "",
-       "el termómetro"
+       "el termómetro",
+       ""
       ],
       [
        "tener fiebre",
        "to have a fever",
        "💡 Mexico also says tener temperatura",
-       "tener fiebre"
+       "tener fiebre",
+       ""
       ],
       [
        "la gripa",
        "the flu",
        "💡 Mexico; 🌎 gripe",
-       "la gripa"
+       "la gripa",
+       ""
       ],
       [
        "el resfriado",
        "cold",
        "💡 also el catarro",
-       "el resfriado"
+       "el resfriado",
+       ""
       ],
       [
        "la tos",
        "cough",
        "",
-       "la tos"
+       "la tos",
+       ""
       ],
       [
        "toser",
        "to cough",
        "",
-       "toser"
+       "toser",
+       ""
       ],
       [
        "estornudar",
        "to sneeze",
        "",
-       "estornudar"
+       "estornudar",
+       ""
       ],
       [
        "la alergia",
        "allergy",
        "",
-       "la alergia"
+       "la alergia",
+       ""
       ],
       [
        "el dolor",
        "pain",
        "",
-       "el dolor"
+       "el dolor",
+       ""
       ],
       [
        "me duele…",
        "my … hurts",
        "",
-       "me duele"
+       "me duele",
+       ""
       ],
       [
        "mareado, mareada",
        "dizzy",
        "",
-       "mareado, mareada"
+       "mareado, mareada",
+       ""
       ],
       [
        "vomitar",
        "to throw up",
        "",
-       "vomitar"
+       "vomitar",
+       ""
       ],
       [
        "la diarrea",
        "diarrhea",
        "",
-       "la diarrea"
+       "la diarrea",
+       ""
       ],
       [
        "enfermarse",
        "to get sick",
        "",
-       "enfermarse"
+       "enfermarse",
+       ""
       ],
       [
        "sentirse mal",
        "to feel bad",
        "",
-       "sentirse mal"
+       "sentirse mal",
+       ""
       ],
       [
        "el seguro médico",
        "health insurance",
        "",
-       "el seguro médico"
+       "el seguro médico",
+       ""
       ]
      ]
     },
@@ -15775,175 +17312,204 @@ window.COURSE = {
        "el accidente",
        "accident",
        "",
-       "el accidente"
+       "el accidente",
+       ""
       ],
       [
        "caerse",
        "to fall down",
        "",
-       "caerse"
+       "caerse",
+       ""
       ],
       [
        "tropezarse",
        "to trip",
        "",
-       "tropezarse"
+       "tropezarse",
+       ""
       ],
       [
        "resbalarse",
        "to slip",
        "",
-       "resbalarse"
+       "resbalarse",
+       ""
       ],
       [
        "golpearse",
        "to hit yourself, bump",
        "",
-       "golpearse"
+       "golpearse",
+       ""
       ],
       [
        "romperse",
        "to break",
        "💡 Se rompió el brazo.",
-       "romperse"
+       "romperse",
+       ""
       ],
       [
        "quebrarse",
        "to break (a bone)",
        "💡 common in Mexico",
-       "quebrarse"
+       "quebrarse",
+       ""
       ],
       [
        "torcerse el tobillo",
        "to twist your ankle",
        "",
-       "torcerse el tobillo"
+       "torcerse el tobillo",
+       ""
       ],
       [
        "cortarse",
        "to cut yourself",
        "",
-       "cortarse"
+       "cortarse",
+       ""
       ],
       [
        "quemarse",
        "to burn yourself",
        "",
-       "quemarse"
+       "quemarse",
+       ""
       ],
       [
        "la herida",
        "wound",
        "",
-       "la herida"
+       "la herida",
+       ""
       ],
       [
        "la cortada",
        "cut",
        "💡 Mexico; 🌎 cortadura, corte",
-       "la cortada"
+       "la cortada",
+       ""
       ],
       [
        "el moretón",
        "bruise",
        "🌎 morado (Arg, Col)",
-       "el moretón"
+       "el moretón",
+       ""
       ],
       [
        "el chipote",
        "bump on the head",
        "💡 Mexico",
-       "el chipote"
+       "el chipote",
+       ""
       ],
       [
        "la curita",
        "band-aid",
        "🇪🇸 tirita",
-       "la curita"
+       "la curita",
+       ""
       ],
       [
        "la venda",
        "bandage",
        "",
-       "la venda"
+       "la venda",
+       ""
       ],
       [
        "el yeso",
        "cast",
        "",
-       "el yeso"
+       "el yeso",
+       ""
       ],
       [
        "se me olvidó",
        "I forgot (it slipped my mind)",
        "",
-       "se me olvidó"
+       "se me olvidó",
+       ""
       ],
       [
        "se me cayó",
        "I dropped it",
        "",
-       "se me cayó"
+       "se me cayó",
+       ""
       ],
       [
        "se me rompió",
        "it broke on me",
        "",
-       "se me rompió"
+       "se me rompió",
+       ""
       ],
       [
        "se me perdió",
        "I lost it",
        "",
-       "se me perdió"
+       "se me perdió",
+       ""
       ],
       [
        "se me acabó",
        "I ran out of it",
        "",
-       "se me acabó"
+       "se me acabó",
+       ""
       ],
       [
        "se descompuso",
        "it broke down",
        "💡 Mexico; 🌎 se dañó (Col), se malogró (Peru)",
-       "se descompuso"
+       "se descompuso",
+       ""
       ],
       [
        "se fue la luz",
        "the power went out",
        "",
-       "se fue la luz"
+       "se fue la luz",
+       ""
       ],
       [
        "sin querer",
        "by accident",
        "",
-       "sin querer"
+       "sin querer",
+       ""
       ],
       [
        "a propósito",
        "on purpose",
        "",
-       "a propósito"
+       "a propósito",
+       ""
       ],
       [
        "¡Qué mala suerte!",
        "What bad luck!",
        "",
-       "¡Qué mala suerte!"
+       "¡Qué mala suerte!",
+       ""
       ],
       [
        "¿Estás bien?",
        "Are you OK?",
        "",
-       "¿Estás bien?"
+       "¿Estás bien?",
+       ""
       ],
       [
        "¡Cuidado!",
        "Careful!",
        "",
-       "¡Cuidado!"
+       "¡Cuidado!",
+       ""
       ]
      ]
     }
@@ -16355,181 +17921,211 @@ window.COURSE = {
        "el aeropuerto",
        "airport",
        "",
-       "el aeropuerto"
+       "el aeropuerto",
+       ""
       ],
       [
        "el vuelo",
        "flight",
        "",
-       "el vuelo"
+       "el vuelo",
+       ""
       ],
       [
        "la aerolínea",
        "airline",
        "",
-       "la aerolínea"
+       "la aerolínea",
+       ""
       ],
       [
        "el boleto de avión",
        "plane ticket",
        "🌎 pasaje · 🇪🇸 billete",
-       "el boleto de avión"
+       "el boleto de avión",
+       ""
       ],
       [
        "de ida",
        "one-way",
        "",
-       "de ida"
+       "de ida",
+       ""
       ],
       [
        "de ida y vuelta",
        "round-trip",
        "💡 Mexico also says viaje redondo",
-       "de ida y vuelta"
+       "de ida y vuelta",
+       ""
       ],
       [
        "el pasaporte",
        "passport",
        "",
-       "el pasaporte"
+       "el pasaporte",
+       ""
       ],
       [
        "la visa",
        "visa",
        "🇪🇸 visado",
-       "la visa"
+       "la visa",
+       ""
       ],
       [
        "la maleta",
        "suitcase",
        "🌎 valija (Arg)",
-       "la maleta"
+       "la maleta",
+       ""
       ],
       [
        "el equipaje",
        "luggage",
        "",
-       "el equipaje"
+       "el equipaje",
+       ""
       ],
       [
        "el equipaje de mano",
        "carry-on",
        "",
-       "el equipaje de mano"
+       "el equipaje de mano",
+       ""
       ],
       [
        "documentar",
        "to check (luggage)",
        "💡 Mexico; 🌎 chequear · 🇪🇸 facturar",
-       "documentar"
+       "documentar",
+       ""
       ],
       [
        "el pase de abordar",
        "boarding pass",
        "💡 Mexico; 🇪🇸 tarjeta de embarque",
-       "el pase de abordar"
+       "el pase de abordar",
+       ""
       ],
       [
        "abordar",
        "to board",
        "🇪🇸 embarcar",
-       "abordar"
+       "abordar",
+       ""
       ],
       [
        "la puerta",
        "gate",
        "",
-       "la puerta"
+       "la puerta",
+       ""
       ],
       [
        "la sala de espera",
        "waiting area",
        "",
-       "la sala de espera"
+       "la sala de espera",
+       ""
       ],
       [
        "el asiento",
        "seat",
        "",
-       "el asiento"
+       "el asiento",
+       ""
       ],
       [
        "la ventanilla",
        "window seat",
        "",
-       "la ventanilla"
+       "la ventanilla",
+       ""
       ],
       [
        "el pasillo",
        "aisle",
        "",
-       "el pasillo"
+       "el pasillo",
+       ""
       ],
       [
        "la escala",
        "layover",
        "",
-       "la escala"
+       "la escala",
+       ""
       ],
       [
        "el vuelo directo",
        "direct flight",
        "",
-       "el vuelo directo"
+       "el vuelo directo",
+       ""
       ],
       [
        "despegar",
        "to take off",
        "",
-       "despegar"
+       "despegar",
+       ""
       ],
       [
        "aterrizar",
        "to land",
        "",
-       "aterrizar"
+       "aterrizar",
+       ""
       ],
       [
        "el retraso",
        "delay",
        "",
-       "el retraso"
+       "el retraso",
+       ""
       ],
       [
        "cancelado",
        "canceled",
        "",
-       "cancelado"
+       "cancelado",
+       ""
       ],
       [
        "migración",
        "immigration (desk)",
        "",
-       "migración"
+       "migración",
+       ""
       ],
       [
        "la aduana",
        "customs",
        "",
-       "la aduana"
+       "la aduana",
+       ""
       ],
       [
        "el sobrecargo",
        "flight attendant",
        "💡 Mexico; 🌎 azafata, aeromozo",
-       "el sobrecargo"
+       "el sobrecargo",
+       ""
       ],
       [
        "la llegada",
        "arrival",
        "",
-       "la llegada"
+       "la llegada",
+       ""
       ],
       [
        "la salida",
        "departure",
        "",
-       "la salida"
+       "la salida",
+       ""
       ]
      ]
     },
@@ -16541,133 +18137,155 @@ window.COURSE = {
        "el hotel",
        "hotel",
        "",
-       "el hotel"
+       "el hotel",
+       ""
       ],
       [
        "el hostal",
        "hostel",
        "",
-       "el hostal"
+       "el hostal",
+       ""
       ],
       [
        "la reservación",
        "reservation",
        "🇪🇸 reserva",
-       "la reservación"
+       "la reservación",
+       ""
       ],
       [
        "la habitación",
        "room",
        "💡 also el cuarto",
-       "la habitación"
+       "la habitación",
+       ""
       ],
       [
        "sencilla",
        "single",
        "",
-       "sencilla"
+       "sencilla",
+       ""
       ],
       [
        "doble",
        "double",
        "",
-       "doble"
+       "doble",
+       ""
       ],
       [
        "la cama matrimonial",
        "double bed",
        "",
-       "la cama matrimonial"
+       "la cama matrimonial",
+       ""
       ],
       [
        "la recepción",
        "front desk",
        "",
-       "la recepción"
+       "la recepción",
+       ""
       ],
       [
        "el huésped",
        "guest",
        "",
-       "el huésped"
+       "el huésped",
+       ""
       ],
       [
        "registrarse",
        "to check in",
        "",
-       "registrarse"
+       "registrarse",
+       ""
       ],
       [
        "la salida",
        "checkout",
        "",
-       "la salida"
+       "la salida",
+       ""
       ],
       [
        "la llave",
        "key",
        "",
-       "la llave"
+       "la llave",
+       ""
       ],
       [
        "el elevador",
        "elevator",
        "🇪🇸 ascensor",
-       "el elevador"
+       "el elevador",
+       ""
       ],
       [
        "el piso",
        "floor",
        "",
-       "el piso"
+       "el piso",
+       ""
       ],
       [
        "la alberca",
        "swimming pool",
        "💡 Mexico; 🌎 piscina, pileta (Arg)",
-       "la alberca"
+       "la alberca",
+       ""
       ],
       [
        "el desayuno incluido",
        "breakfast included",
        "",
-       "el desayuno incluido"
+       "el desayuno incluido",
+       ""
       ],
       [
        "todo incluido",
        "all-inclusive",
        "",
-       "todo incluido"
+       "todo incluido",
+       ""
       ],
       [
        "la toalla",
        "towel",
        "",
-       "la toalla"
+       "la toalla",
+       ""
       ],
       [
        "el servicio a cuarto",
        "room service",
        "",
-       "el servicio a cuarto"
+       "el servicio a cuarto",
+       ""
       ],
       [
        "la caja fuerte",
        "safe",
        "",
-       "la caja fuerte"
+       "la caja fuerte",
+       ""
       ],
       [
        "la vista al mar",
        "ocean view",
        "",
-       "la vista al mar"
+       "la vista al mar",
+       ""
       ],
       [
        "la queja",
        "complaint",
        "",
-       "la queja"
+       "la queja",
+       ""
       ]
      ]
     },
@@ -16679,121 +18297,141 @@ window.COURSE = {
        "la playa",
        "beach",
        "",
-       "la playa"
+       "la playa",
+       ""
       ],
       [
        "la ola",
        "wave",
        "",
-       "la ola"
+       "la ola",
+       ""
       ],
       [
        "el bloqueador",
        "sunscreen",
        "💡 Mexico; 🌎 protector solar · 🇪🇸 crema solar",
-       "el bloqueador"
+       "el bloqueador",
+       ""
       ],
       [
        "los lentes de sol",
        "sunglasses",
        "🇪🇸 gafas de sol",
-       "los lentes de sol"
+       "los lentes de sol",
+       ""
       ],
       [
        "el traje de baño",
        "swimsuit",
        "🌎 malla (Arg), vestido de baño (Col) · 🇪🇸 bañador",
-       "el traje de baño"
+       "el traje de baño",
+       ""
       ],
       [
        "la sombrilla",
        "beach umbrella",
        "",
-       "la sombrilla"
+       "la sombrilla",
+       ""
       ],
       [
        "nadar",
        "to swim",
        "",
-       "nadar"
+       "nadar",
+       ""
       ],
       [
        "bucear",
        "to scuba dive",
        "",
-       "bucear"
+       "bucear",
+       ""
       ],
       [
        "surfear",
        "to surf",
        "",
-       "surfear"
+       "surfear",
+       ""
       ],
       [
        "la lancha",
        "small boat",
        "",
-       "la lancha"
+       "la lancha",
+       ""
       ],
       [
        "el barco",
        "ship, boat",
        "",
-       "el barco"
+       "el barco",
+       ""
       ],
       [
        "el muelle",
        "dock, pier",
        "",
-       "el muelle"
+       "el muelle",
+       ""
       ],
       [
        "la palmera",
        "palm tree",
        "",
-       "la palmera"
+       "la palmera",
+       ""
       ],
       [
        "asolearse",
        "to sunbathe",
        "💡 Mexico; 🌎 tomar el sol",
-       "asolearse"
+       "asolearse",
+       ""
       ],
       [
        "quemarse",
        "to get sunburned",
        "",
-       "quemarse"
+       "quemarse",
+       ""
       ],
       [
        "el salvavidas",
        "lifeguard; life jacket",
        "",
-       "el salvavidas"
+       "el salvavidas",
+       ""
       ],
       [
        "acampar",
        "to go camping",
        "",
-       "acampar"
+       "acampar",
+       ""
       ],
       [
        "la tienda de campaña",
        "tent",
        "🌎 carpa",
-       "la tienda de campaña"
+       "la tienda de campaña",
+       ""
       ],
       [
        "la fogata",
        "campfire",
        "",
-       "la fogata"
+       "la fogata",
+       ""
       ],
       [
        "el sendero",
        "trail",
        "",
-       "el sendero"
+       "el sendero",
+       ""
       ]
      ]
     },
@@ -16805,169 +18443,197 @@ window.COURSE = {
        "el dinero",
        "money",
        "",
-       "el dinero"
+       "el dinero",
+       ""
       ],
       [
        "la lana",
        "money (slang)",
        "💡 Mexico; 🌎 plata",
-       "la lana"
+       "la lana",
+       ""
       ],
       [
        "el peso",
        "peso",
        "",
-       "el peso"
+       "el peso",
+       ""
       ],
       [
        "el efectivo",
        "cash",
        "",
-       "el efectivo"
+       "el efectivo",
+       ""
       ],
       [
        "la tarjeta de crédito",
        "credit card",
        "",
-       "la tarjeta de crédito"
+       "la tarjeta de crédito",
+       ""
       ],
       [
        "la tarjeta de débito",
        "debit card",
        "",
-       "la tarjeta de débito"
+       "la tarjeta de débito",
+       ""
       ],
       [
        "el cajero automático",
        "ATM",
        "",
-       "el cajero automático"
+       "el cajero automático",
+       ""
       ],
       [
        "sacar dinero",
        "to take out money",
        "",
-       "sacar dinero"
+       "sacar dinero",
+       ""
       ],
       [
        "el billete",
        "bill (paper money)",
        "",
-       "el billete"
+       "el billete",
+       ""
       ],
       [
        "la moneda",
        "coin",
        "",
-       "la moneda"
+       "la moneda",
+       ""
       ],
       [
        "la feria",
        "small change",
        "💡 Mexico: ¿Traes feria?",
-       "la feria"
+       "la feria",
+       ""
       ],
       [
        "el cambio",
        "change",
        "",
-       "el cambio"
+       "el cambio",
+       ""
       ],
       [
        "pagar",
        "to pay",
        "",
-       "pagar"
+       "pagar",
+       ""
       ],
       [
        "cobrar",
        "to charge",
        "",
-       "cobrar"
+       "cobrar",
+       ""
       ],
       [
        "la cuenta",
        "bill, check; account",
        "",
-       "la cuenta"
+       "la cuenta",
+       ""
       ],
       [
        "el ticket",
        "receipt",
        "💡 Mexico; also el recibo",
-       "el ticket"
+       "el ticket",
+       ""
       ],
       [
        "la factura",
        "invoice (for taxes)",
        "",
-       "la factura"
+       "la factura",
+       ""
       ],
       [
        "el precio",
        "price",
        "",
-       "el precio"
+       "el precio",
+       ""
       ],
       [
        "el descuento",
        "discount",
        "",
-       "el descuento"
+       "el descuento",
+       ""
       ],
       [
        "gastar",
        "to spend",
        "",
-       "gastar"
+       "gastar",
+       ""
       ],
       [
        "ahorrar",
        "to save",
        "",
-       "ahorrar"
+       "ahorrar",
+       ""
       ],
       [
        "prestar",
        "to lend",
        "",
-       "prestar"
+       "prestar",
+       ""
       ],
       [
        "pedir prestado",
        "to borrow",
        "",
-       "pedir prestado"
+       "pedir prestado",
+       ""
       ],
       [
        "deber",
        "to owe",
        "",
-       "deber"
+       "deber",
+       ""
       ],
       [
        "la casa de cambio",
        "currency exchange",
        "",
-       "la casa de cambio"
+       "la casa de cambio",
+       ""
       ],
       [
        "a meses sin intereses",
        "in interest-free monthly payments",
        "💡 Mexico",
-       "a meses sin intereses"
+       "a meses sin intereses",
+       ""
       ],
       [
        "¿Aceptan tarjeta?",
        "Do you take cards?",
        "",
-       "¿Aceptan tarjeta?"
+       "¿Aceptan tarjeta?",
+       ""
       ],
       [
        "¿Cuánto es?",
        "How much is it?",
        "",
-       "¿Cuánto es?"
+       "¿Cuánto es?",
+       ""
       ]
      ]
     }
@@ -17358,121 +19024,141 @@ window.COURSE = {
        "la infancia",
        "childhood",
        "",
-       "la infancia"
+       "la infancia",
+       ""
       ],
       [
        "de niño, de niña",
        "as a kid",
        "",
-       "de niño, de niña"
+       "de niño, de niña",
+       ""
       ],
       [
        "cuando era niño",
        "when I was a kid",
        "",
-       "cuando era niño"
+       "cuando era niño",
+       ""
       ],
       [
        "el kínder",
        "kindergarten",
        "💡 Mexico; 🌎 jardín de niños",
-       "el kínder"
+       "el kínder",
+       ""
       ],
       [
        "la primaria",
        "elementary school",
        "",
-       "la primaria"
+       "la primaria",
+       ""
       ],
       [
        "la secundaria",
        "middle school",
        "",
-       "la secundaria"
+       "la secundaria",
+       ""
       ],
       [
        "el recreo",
        "recess",
        "",
-       "el recreo"
+       "el recreo",
+       ""
       ],
       [
        "el mejor amigo",
        "best friend",
        "",
-       "el mejor amigo"
+       "el mejor amigo",
+       ""
       ],
       [
        "la travesura",
        "prank, mischief",
        "",
-       "la travesura"
+       "la travesura",
+       ""
       ],
       [
        "portarse bien",
        "to behave",
        "",
-       "portarse bien"
+       "portarse bien",
+       ""
       ],
       [
        "portarse mal",
        "to misbehave",
        "",
-       "portarse mal"
+       "portarse mal",
+       ""
       ],
       [
        "regañar",
        "to scold",
        "🌎 retar (Arg)",
-       "regañar"
+       "regañar",
+       ""
       ],
       [
        "castigar",
        "to punish, ground",
        "",
-       "castigar"
+       "castigar",
+       ""
       ],
       [
        "la mascota",
        "pet",
        "",
-       "la mascota"
+       "la mascota",
+       ""
       ],
       [
        "el columpio",
        "swing",
        "",
-       "el columpio"
+       "el columpio",
+       ""
       ],
       [
        "la resbaladilla",
        "slide",
        "💡 Mexico; 🌎 tobogán, rodadero (Col)",
-       "la resbaladilla"
+       "la resbaladilla",
+       ""
       ],
       [
        "el sube y baja",
        "seesaw",
        "",
-       "el sube y baja"
+       "el sube y baja",
+       ""
       ],
       [
        "llorar",
        "to cry",
        "",
-       "llorar"
+       "llorar",
+       ""
       ],
       [
        "la niñera",
        "babysitter",
        "",
-       "la niñera"
+       "la niñera",
+       ""
       ],
       [
        "el cuento",
        "story",
        "",
-       "el cuento"
+       "el cuento",
+       ""
       ]
      ]
     },
@@ -17484,127 +19170,148 @@ window.COURSE = {
        "la materia",
        "school subject",
        "",
-       "la materia"
+       "la materia",
+       ""
       ],
       [
        "las matemáticas",
        "math",
        "💡 las mate",
-       "las matemáticas"
+       "las matemáticas",
+       ""
       ],
       [
        "la historia",
        "history",
        "",
-       "la historia"
+       "la historia",
+       ""
       ],
       [
        "la geografía",
        "geography",
        "",
-       "la geografía"
+       "la geografía",
+       ""
       ],
       [
        "las ciencias",
        "science",
        "",
-       "las ciencias"
+       "las ciencias",
+       ""
       ],
       [
        "la biología",
        "biology",
        "",
-       "la biología"
+       "la biología",
+       ""
       ],
       [
        "la química",
        "chemistry",
        "",
-       "la química"
+       "la química",
+       ""
       ],
       [
        "la física",
        "physics",
        "",
-       "la física"
+       "la física",
+       ""
       ],
       [
        "el español",
        "Spanish",
        "",
-       "el español"
+       "el español",
+       ""
       ],
       [
        "el inglés",
        "English",
        "",
-       "el inglés"
+       "el inglés",
+       ""
       ],
       [
        "la educación física",
        "PE",
        "",
-       "la educación física"
+       "la educación física",
+       ""
       ],
       [
        "el arte",
        "art",
        "",
-       "el arte"
+       "el arte",
+       ""
       ],
       [
        "la música",
        "music",
        "",
-       "la música"
+       "la música",
+       ""
       ],
       [
        "la computación",
        "computer class",
        "💡 Mexico; 🌎 informática",
-       "la computación"
+       "la computación",
+       ""
       ],
       [
        "la literatura",
        "literature",
        "",
-       "la literatura"
+       "la literatura",
+       ""
       ],
       [
        "el civismo",
        "civics",
        "",
-       "el civismo"
+       "el civismo",
+       ""
       ],
       [
        "la tarea",
        "homework",
        "",
-       "la tarea"
+       "la tarea",
+       ""
       ],
       [
        "el examen",
        "test",
        "",
-       "el examen"
+       "el examen",
+       ""
       ],
       [
        "la calificación",
        "grade",
        "💡 Mexico; 🌎 nota",
-       "la calificación"
+       "la calificación",
+       ""
       ],
       [
        "pasar",
        "to pass",
        "💡 also aprobar",
-       "pasar"
+       "pasar",
+       ""
       ],
       [
        "reprobar",
        "to fail",
        "🌎 perder (Col), jalar (Peru) · 🇪🇸 suspender",
-       "reprobar"
+       "reprobar",
+       ""
       ]
      ]
     },
@@ -17616,145 +19323,169 @@ window.COURSE = {
        "el lápiz",
        "pencil",
        "",
-       "el lápiz"
+       "el lápiz",
+       ""
       ],
       [
        "la pluma",
        "pen",
        "💡 Mexico; 🌎 bolígrafo, lapicero (Col, Peru), birome (Arg) · 🇪🇸 boli",
-       "la pluma"
+       "la pluma",
+       ""
       ],
       [
        "la goma",
        "eraser",
        "🌎 borrador",
-       "la goma"
+       "la goma",
+       ""
       ],
       [
        "el sacapuntas",
        "pencil sharpener",
        "",
-       "el sacapuntas"
+       "el sacapuntas",
+       ""
       ],
       [
        "el cuaderno",
        "notebook",
        "",
-       "el cuaderno"
+       "el cuaderno",
+       ""
       ],
       [
        "la libreta",
        "notepad, notebook",
        "",
-       "la libreta"
+       "la libreta",
+       ""
       ],
       [
        "el libro",
        "book",
        "",
-       "el libro"
+       "el libro",
+       ""
       ],
       [
        "la mochila",
        "backpack",
        "",
-       "la mochila"
+       "la mochila",
+       ""
       ],
       [
        "la regla",
        "ruler",
        "",
-       "la regla"
+       "la regla",
+       ""
       ],
       [
        "las tijeras",
        "scissors",
        "",
-       "las tijeras"
+       "las tijeras",
+       ""
       ],
       [
        "el pegamento",
        "glue",
        "💡 Mexico also says el resistol",
-       "el pegamento"
+       "el pegamento",
+       ""
       ],
       [
        "los colores",
        "colored pencils",
        "💡 Mexico",
-       "los colores"
+       "los colores",
+       ""
       ],
       [
        "los crayones",
        "crayons",
        "",
-       "los crayones"
+       "los crayones",
+       ""
       ],
       [
        "el plumón",
        "marker",
        "💡 Mexico; 🌎 marcador",
-       "el plumón"
+       "el plumón",
+       ""
       ],
       [
        "la hoja",
        "sheet of paper",
        "",
-       "la hoja"
+       "la hoja",
+       ""
       ],
       [
        "la carpeta",
        "folder",
        "",
-       "la carpeta"
+       "la carpeta",
+       ""
       ],
       [
        "la calculadora",
        "calculator",
        "",
-       "la calculadora"
+       "la calculadora",
+       ""
       ],
       [
        "el pizarrón",
        "board",
        "💡 Mexico; 🌎 pizarra, tablero (Col)",
-       "el pizarrón"
+       "el pizarrón",
+       ""
       ],
       [
        "el gis",
        "chalk",
        "💡 Mexico; 🌎 tiza",
-       "el gis"
+       "el gis",
+       ""
       ],
       [
        "el borrador",
        "board eraser",
        "",
-       "el borrador"
+       "el borrador",
+       ""
       ],
       [
        "el estuche",
        "pencil case",
        "",
-       "el estuche"
+       "el estuche",
+       ""
       ],
       [
        "la engrapadora",
        "stapler",
        "🌎 abrochadora (Arg), cosedora (Col) · 🇪🇸 grapadora",
-       "la engrapadora"
+       "la engrapadora",
+       ""
       ],
       [
        "el clip",
        "paper clip",
        "",
-       "el clip"
+       "el clip",
+       ""
       ],
       [
        "el corrector",
        "white-out",
        "",
-       "el corrector"
+       "el corrector",
+       ""
       ]
      ]
     },
@@ -17766,121 +19497,141 @@ window.COURSE = {
        "el juguete",
        "toy",
        "",
-       "el juguete"
+       "el juguete",
+       ""
       ],
       [
        "la muñeca",
        "doll",
        "",
-       "la muñeca"
+       "la muñeca",
+       ""
       ],
       [
        "el carrito",
        "toy car",
        "",
-       "el carrito"
+       "el carrito",
+       ""
       ],
       [
        "la pelota",
        "ball",
        "",
-       "la pelota"
+       "la pelota",
+       ""
       ],
       [
        "el balón",
        "ball (soccer, basketball)",
        "",
-       "el balón"
+       "el balón",
+       ""
       ],
       [
        "los patines",
        "skates",
        "",
-       "los patines"
+       "los patines",
+       ""
       ],
       [
        "el trompo",
        "spinning top",
        "",
-       "el trompo"
+       "el trompo",
+       ""
       ],
       [
        "el yoyo",
        "yo-yo",
        "",
-       "el yoyo"
+       "el yoyo",
+       ""
       ],
       [
        "el balero",
        "cup-and-ball toy",
        "💡 Mexico",
-       "el balero"
+       "el balero",
+       ""
       ],
       [
        "las canicas",
        "marbles",
        "",
-       "las canicas"
+       "las canicas",
+       ""
       ],
       [
        "la lotería",
        "Mexican picture bingo",
        "",
-       "la lotería"
+       "la lotería",
+       ""
       ],
       [
        "el papalote",
        "kite",
        "💡 Mexico; 🌎 cometa, barrilete (Arg), volantín (Chile)",
-       "el papalote"
+       "el papalote",
+       ""
       ],
       [
        "el rompecabezas",
        "jigsaw puzzle",
        "",
-       "el rompecabezas"
+       "el rompecabezas",
+       ""
       ],
       [
        "el peluche",
        "stuffed animal",
        "",
-       "el peluche"
+       "el peluche",
+       ""
       ],
       [
        "el videojuego",
        "video game",
        "",
-       "el videojuego"
+       "el videojuego",
+       ""
       ],
       [
        "las escondidas",
        "hide-and-seek",
        "",
-       "las escondidas"
+       "las escondidas",
+       ""
       ],
       [
        "las traes",
        "tag",
        "💡 Mexico",
-       "las traes"
+       "las traes",
+       ""
       ],
       [
        "brincar la cuerda",
        "to jump rope",
        "🌎 saltar la cuerda",
-       "brincar la cuerda"
+       "brincar la cuerda",
+       ""
       ],
       [
        "el avión",
        "hopscotch",
        "💡 Mexico; 🌎 rayuela",
-       "el avión"
+       "el avión",
+       ""
       ],
       [
        "la matatena",
        "jacks",
        "💡 Mexico",
-       "la matatena"
+       "la matatena",
+       ""
       ]
      ]
     }
@@ -18302,145 +20053,169 @@ window.COURSE = {
        "la ropa",
        "clothes",
        "",
-       "la ropa"
+       "la ropa",
+       ""
       ],
       [
        "la playera",
        "T-shirt",
        "🌎 remera (Arg), camiseta · 🇪🇸 camiseta",
-       "la playera"
+       "la playera",
+       ""
       ],
       [
        "la camisa",
        "shirt",
        "",
-       "la camisa"
+       "la camisa",
+       ""
       ],
       [
        "la blusa",
        "blouse",
        "",
-       "la blusa"
+       "la blusa",
+       ""
       ],
       [
        "el suéter",
        "sweater",
        "🌎 buzo, pulóver (Arg) · 🇪🇸 jersey",
-       "el suéter"
+       "el suéter",
+       ""
       ],
       [
        "la sudadera",
        "sweatshirt, hoodie",
        "🌎 buzo (Arg, Col)",
-       "la sudadera"
+       "la sudadera",
+       ""
       ],
       [
        "la chamarra",
        "jacket",
        "🌎 campera (Arg), chaqueta · 🇪🇸 chaqueta, cazadora",
-       "la chamarra"
+       "la chamarra",
+       ""
       ],
       [
        "el abrigo",
        "coat",
        "",
-       "el abrigo"
+       "el abrigo",
+       ""
       ],
       [
        "el saco",
        "blazer, suit jacket",
        "🇪🇸 americana",
-       "el saco"
+       "el saco",
+       ""
       ],
       [
        "el traje",
        "suit",
        "",
-       "el traje"
+       "el traje",
+       ""
       ],
       [
        "la corbata",
        "tie",
        "",
-       "la corbata"
+       "la corbata",
+       ""
       ],
       [
        "los pantalones",
        "pants",
        "",
-       "los pantalones"
+       "los pantalones",
+       ""
       ],
       [
        "los jeans",
        "jeans",
        "💡 also los pantalones de mezclilla · 🇪🇸 vaqueros",
-       "los jeans"
+       "los jeans",
+       ""
       ],
       [
        "los shorts",
        "shorts",
        "",
-       "los shorts"
+       "los shorts",
+       ""
       ],
       [
        "la falda",
        "skirt",
        "🌎 pollera (Arg)",
-       "la falda"
+       "la falda",
+       ""
       ],
       [
        "el vestido",
        "dress",
        "",
-       "el vestido"
+       "el vestido",
+       ""
       ],
       [
        "la pijama",
        "pajamas",
        "💡 also la piyama",
-       "la pijama"
+       "la pijama",
+       ""
       ],
       [
        "la ropa interior",
        "underwear",
        "",
-       "la ropa interior"
+       "la ropa interior",
+       ""
       ],
       [
        "los calzones",
        "underwear (briefs)",
        "💡 Mexico",
-       "los calzones"
+       "los calzones",
+       ""
       ],
       [
        "el brasier",
        "bra",
        "💡 Mexico; 🌎 sostén, corpiño (Arg) · 🇪🇸 sujetador",
-       "el brasier"
+       "el brasier",
+       ""
       ],
       [
        "los calcetines",
        "socks",
        "🌎 medias (Col, Arg)",
-       "los calcetines"
+       "los calcetines",
+       ""
       ],
       [
        "las medias",
        "tights, pantyhose",
        "",
-       "las medias"
+       "las medias",
+       ""
       ],
       [
        "el uniforme",
        "uniform",
        "",
-       "el uniforme"
+       "el uniforme",
+       ""
       ],
       [
        "el impermeable",
        "raincoat",
        "",
-       "el impermeable"
+       "el impermeable",
+       ""
       ]
      ]
     },
@@ -18452,133 +20227,155 @@ window.COURSE = {
        "los zapatos",
        "shoes",
        "",
-       "los zapatos"
+       "los zapatos",
+       ""
       ],
       [
        "los tenis",
        "sneakers",
        "🌎 zapatillas (Arg, Chile) · 🇪🇸 zapatillas, deportivas",
-       "los tenis"
+       "los tenis",
+       ""
       ],
       [
        "las botas",
        "boots",
        "",
-       "las botas"
+       "las botas",
+       ""
       ],
       [
        "las sandalias",
        "sandals",
        "",
-       "las sandalias"
+       "las sandalias",
+       ""
       ],
       [
        "las chanclas",
        "flip-flops",
        "🌎 ojotas (Arg), cholas (Ven)",
-       "las chanclas"
+       "las chanclas",
+       ""
       ],
       [
        "los tacones",
        "high heels",
        "",
-       "los tacones"
+       "los tacones",
+       ""
       ],
       [
        "la gorra",
        "cap",
        "",
-       "la gorra"
+       "la gorra",
+       ""
       ],
       [
        "el sombrero",
        "hat",
        "",
-       "el sombrero"
+       "el sombrero",
+       ""
       ],
       [
        "la bufanda",
        "scarf",
        "",
-       "la bufanda"
+       "la bufanda",
+       ""
       ],
       [
        "los guantes",
        "gloves",
        "",
-       "los guantes"
+       "los guantes",
+       ""
       ],
       [
        "el cinturón",
        "belt",
        "",
-       "el cinturón"
+       "el cinturón",
+       ""
       ],
       [
        "la bolsa",
        "purse, bag",
        "🌎 cartera (Arg) · 🇪🇸 bolso",
-       "la bolsa"
+       "la bolsa",
+       ""
       ],
       [
        "la cartera",
        "wallet",
        "💡 Mexico; 🌎 billetera",
-       "la cartera"
+       "la cartera",
+       ""
       ],
       [
        "los lentes",
        "glasses",
        "🌎 anteojos (Arg) · 🇪🇸 gafas",
-       "los lentes"
+       "los lentes",
+       ""
       ],
       [
        "el reloj",
        "watch",
        "",
-       "el reloj"
+       "el reloj",
+       ""
       ],
       [
        "los aretes",
        "earrings",
        "🌎 aros (Arg), zarcillos (Ven) · 🇪🇸 pendientes",
-       "los aretes"
+       "los aretes",
+       ""
       ],
       [
        "el collar",
        "necklace",
        "",
-       "el collar"
+       "el collar",
+       ""
       ],
       [
        "la pulsera",
        "bracelet",
        "",
-       "la pulsera"
+       "la pulsera",
+       ""
       ],
       [
        "el anillo",
        "ring",
        "",
-       "el anillo"
+       "el anillo",
+       ""
       ],
       [
        "el rebozo",
        "shawl",
        "",
-       "el rebozo"
+       "el rebozo",
+       ""
       ],
       [
        "el sarape",
        "woven blanket-poncho",
        "",
-       "el sarape"
+       "el sarape",
+       ""
       ],
       [
        "el huipil",
        "embroidered tunic",
        "",
-       "el huipil"
+       "el huipil",
+       ""
       ]
      ]
     },
@@ -18590,127 +20387,148 @@ window.COURSE = {
        "el color",
        "color",
        "",
-       "el color"
+       "el color",
+       ""
       ],
       [
        "rojo, roja",
        "red",
        "",
-       "rojo, roja"
+       "rojo, roja",
+       ""
       ],
       [
        "azul",
        "blue",
        "",
-       "azul"
+       "azul",
+       ""
       ],
       [
        "amarillo, amarilla",
        "yellow",
        "",
-       "amarillo, amarilla"
+       "amarillo, amarilla",
+       ""
       ],
       [
        "verde",
        "green",
        "",
-       "verde"
+       "verde",
+       ""
       ],
       [
        "negro, negra",
        "black",
        "",
-       "negro, negra"
+       "negro, negra",
+       ""
       ],
       [
        "blanco, blanca",
        "white",
        "",
-       "blanco, blanca"
+       "blanco, blanca",
+       ""
       ],
       [
        "gris",
        "gray",
        "",
-       "gris"
+       "gris",
+       ""
       ],
       [
        "café",
        "brown",
        "💡 Mexico; 🌎 marrón · 🇪🇸 marrón",
-       "café"
+       "café",
+       ""
       ],
       [
        "morado, morada",
        "purple",
        "",
-       "morado, morada"
+       "morado, morada",
+       ""
       ],
       [
        "rosa",
        "pink",
        "🌎 rosado",
-       "rosa"
+       "rosa",
+       ""
       ],
       [
        "anaranjado, anaranjada",
        "orange",
        "💡 also naranja",
-       "anaranjado, anaranjada"
+       "anaranjado, anaranjada",
+       ""
       ],
       [
        "beige",
        "beige",
        "",
-       "beige"
+       "beige",
+       ""
       ],
       [
        "dorado, dorada",
        "gold",
        "",
-       "dorado, dorada"
+       "dorado, dorada",
+       ""
       ],
       [
        "plateado, plateada",
        "silver",
        "",
-       "plateado, plateada"
+       "plateado, plateada",
+       ""
       ],
       [
        "azul marino",
        "navy blue",
        "",
-       "azul marino"
+       "azul marino",
+       ""
       ],
       [
        "azul claro",
        "light blue",
        "",
-       "azul claro"
+       "azul claro",
+       ""
       ],
       [
        "verde oscuro",
        "dark green",
        "",
-       "verde oscuro"
+       "verde oscuro",
+       ""
       ],
       [
        "color vino",
        "maroon",
        "💡 also guinda in Mexico",
-       "color vino"
+       "color vino",
+       ""
       ],
       [
        "turquesa",
        "turquoise",
        "",
-       "turquesa"
+       "turquesa",
+       ""
       ],
       [
        "celeste",
        "sky blue",
        "",
-       "celeste"
+       "celeste",
+       ""
       ]
      ]
     },
@@ -18722,169 +20540,197 @@ window.COURSE = {
        "la talla",
        "size",
        "",
-       "la talla"
+       "la talla",
+       ""
       ],
       [
        "chico, mediano, grande",
        "small, medium, large",
        "🇪🇸 pequeño",
-       "chico, mediano, grande"
+       "chico, mediano, grande",
+       ""
       ],
       [
        "el número",
        "shoe size",
        "",
-       "el número"
+       "el número",
+       ""
       ],
       [
        "el probador",
        "fitting room",
        "",
-       "el probador"
+       "el probador",
+       ""
       ],
       [
        "probarse",
        "to try on",
        "",
-       "probarse"
+       "probarse",
+       ""
       ],
       [
        "me queda bien",
        "it fits me",
        "",
-       "me queda bien"
+       "me queda bien",
+       ""
       ],
       [
        "me queda chico",
        "it's too small on me",
        "",
-       "me queda chico"
+       "me queda chico",
+       ""
       ],
       [
        "me queda grande",
        "it's too big on me",
        "",
-       "me queda grande"
+       "me queda grande",
+       ""
       ],
       [
        "ajustado, ajustada",
        "tight",
        "",
-       "ajustado, ajustada"
+       "ajustado, ajustada",
+       ""
       ],
       [
        "holgado, holgada",
        "loose",
        "",
-       "holgado, holgada"
+       "holgado, holgada",
+       ""
       ],
       [
        "combinar",
        "to match",
        "",
-       "combinar"
+       "combinar",
+       ""
       ],
       [
        "de moda",
        "in style",
        "",
-       "de moda"
+       "de moda",
+       ""
       ],
       [
        "pasado de moda",
        "out of style",
        "",
-       "pasado de moda"
+       "pasado de moda",
+       ""
       ],
       [
        "de manga larga",
        "long-sleeved",
        "",
-       "de manga larga"
+       "de manga larga",
+       ""
       ],
       [
        "de manga corta",
        "short-sleeved",
        "",
-       "de manga corta"
+       "de manga corta",
+       ""
       ],
       [
        "sin mangas",
        "sleeveless",
        "",
-       "sin mangas"
+       "sin mangas",
+       ""
       ],
       [
        "de rayas",
        "striped",
        "",
-       "de rayas"
+       "de rayas",
+       ""
       ],
       [
        "de cuadros",
        "plaid",
        "",
-       "de cuadros"
+       "de cuadros",
+       ""
       ],
       [
        "de lunares",
        "polka-dot",
        "",
-       "de lunares"
+       "de lunares",
+       ""
       ],
       [
        "liso, lisa",
        "plain",
        "",
-       "liso, lisa"
+       "liso, lisa",
+       ""
       ],
       [
        "estampado, estampada",
        "printed, patterned",
        "",
-       "estampado, estampada"
+       "estampado, estampada",
+       ""
       ],
       [
        "de algodón",
        "cotton",
        "",
-       "de algodón"
+       "de algodón",
+       ""
       ],
       [
        "de lana",
        "wool",
        "",
-       "de lana"
+       "de lana",
+       ""
       ],
       [
        "de seda",
        "silk",
        "",
-       "de seda"
+       "de seda",
+       ""
       ],
       [
        "de piel",
        "leather",
        "🌎 de cuero",
-       "de piel"
+       "de piel",
+       ""
       ],
       [
        "de mezclilla",
        "denim",
        "",
-       "de mezclilla"
+       "de mezclilla",
+       ""
       ],
       [
        "de oro",
        "gold",
        "",
-       "de oro"
+       "de oro",
+       ""
       ],
       [
        "de plata",
        "silver",
        "",
-       "de plata"
+       "de plata",
+       ""
       ]
      ]
     },
@@ -18896,139 +20742,162 @@ window.COURSE = {
        "la tienda de ropa",
        "clothing store",
        "",
-       "la tienda de ropa"
+       "la tienda de ropa",
+       ""
       ],
       [
        "la zapatería",
        "shoe store",
        "",
-       "la zapatería"
+       "la zapatería",
+       ""
       ],
       [
        "la joyería",
        "jewelry store",
        "",
-       "la joyería"
+       "la joyería",
+       ""
       ],
       [
        "la ferretería",
        "hardware store",
        "",
-       "la ferretería"
+       "la ferretería",
+       ""
       ],
       [
        "la frutería",
        "fruit shop",
        "",
-       "la frutería"
+       "la frutería",
+       ""
       ],
       [
        "la pescadería",
        "fish market",
        "",
-       "la pescadería"
+       "la pescadería",
+       ""
       ],
       [
        "la tienda de abarrotes",
        "grocery store, corner store",
        "💡 Mexico",
-       "la tienda de abarrotes"
+       "la tienda de abarrotes",
+       ""
       ],
       [
        "el centro comercial",
        "mall",
        "💡 Mexico also says la plaza",
-       "el centro comercial"
+       "el centro comercial",
+       ""
       ],
       [
        "el súper",
        "supermarket",
        "",
-       "el súper"
+       "el súper",
+       ""
       ],
       [
        "la caja",
        "checkout",
        "",
-       "la caja"
+       "la caja",
+       ""
       ],
       [
        "el cajero, la cajera",
        "cashier",
        "",
-       "el cajero, la cajera"
+       "el cajero, la cajera",
+       ""
       ],
       [
        "el carrito",
        "shopping cart",
        "",
-       "el carrito"
+       "el carrito",
+       ""
       ],
       [
        "la fila",
        "line",
        "🇪🇸 cola",
-       "la fila"
+       "la fila",
+       ""
       ],
       [
        "hacer fila",
        "to wait in line",
        "🇪🇸 hacer cola",
-       "hacer fila"
+       "hacer fila",
+       ""
       ],
       [
        "la oferta",
        "sale, special offer",
        "",
-       "la oferta"
+       "la oferta",
+       ""
       ],
       [
        "la rebaja",
        "markdown",
        "",
-       "la rebaja"
+       "la rebaja",
+       ""
       ],
       [
        "devolver",
        "to return (an item)",
        "",
-       "devolver"
+       "devolver",
+       ""
       ],
       [
        "cambiar",
        "to exchange",
        "",
-       "cambiar"
+       "cambiar",
+       ""
       ],
       [
        "la garantía",
        "warranty",
        "",
-       "la garantía"
+       "la garantía",
+       ""
       ],
       [
        "nada más estoy viendo",
        "I'm just looking",
        "💡 Mexico; 🌎 solo estoy mirando",
-       "nada más estoy viendo"
+       "nada más estoy viendo",
+       ""
       ],
       [
        "¿Lo tiene en otro color?",
        "Do you have it in another color?",
        "",
-       "¿Lo tiene en otro color?"
+       "¿Lo tiene en otro color?",
+       ""
       ],
       [
        "¿Me hace un descuento?",
        "Can you give me a discount?",
        "",
-       "¿Me hace un descuento?"
+       "¿Me hace un descuento?",
+       ""
       ],
       [
        "¿Me lo envuelve?",
        "Can you wrap it for me?",
        "",
-       "¿Me lo envuelve?"
+       "¿Me lo envuelve?",
+       ""
       ]
      ]
     }
@@ -19424,151 +21293,176 @@ window.COURSE = {
        "y",
        "and",
        "",
-       "y"
+       "y",
+       ""
       ],
       [
        "pero",
        "but",
        "",
-       "pero"
+       "pero",
+       ""
       ],
       [
        "o",
        "or",
        "",
-       "o"
+       "o",
+       ""
       ],
       [
        "porque",
        "because",
        "",
-       "porque"
+       "porque",
+       ""
       ],
       [
        "como",
        "since (at the start)",
        "💡 Como llovía, no salí.",
-       "como"
+       "como",
+       ""
       ],
       [
        "pues",
        "well",
        "",
-       "pues"
+       "pues",
+       ""
       ],
       [
        "entonces",
        "so, then",
        "",
-       "entonces"
+       "entonces",
+       ""
       ],
       [
        "así que",
        "so",
        "",
-       "así que"
+       "así que",
+       ""
       ],
       [
        "aunque",
        "although",
        "",
-       "aunque"
+       "aunque",
+       ""
       ],
       [
        "sin embargo",
        "however",
        "",
-       "sin embargo"
+       "sin embargo",
+       ""
       ],
       [
        "además",
        "besides, also",
        "",
-       "además"
+       "además",
+       ""
       ],
       [
        "también",
        "also",
        "",
-       "también"
+       "también",
+       ""
       ],
       [
        "tampoco",
        "neither",
        "",
-       "tampoco"
+       "tampoco",
+       ""
       ],
       [
        "por eso",
        "that's why",
        "",
-       "por eso"
+       "por eso",
+       ""
       ],
       [
        "mientras",
        "while",
        "",
-       "mientras"
+       "mientras",
+       ""
       ],
       [
        "cuando",
        "when",
        "",
-       "cuando"
+       "cuando",
+       ""
       ],
       [
        "en cuanto",
        "as soon as",
        "",
-       "en cuanto"
+       "en cuanto",
+       ""
       ],
       [
        "hasta que",
        "until",
        "",
-       "hasta que"
+       "hasta que",
+       ""
       ],
       [
        "o sea",
        "I mean",
        "",
-       "o sea"
+       "o sea",
+       ""
       ],
       [
        "es decir",
        "that is",
        "",
-       "es decir"
+       "es decir",
+       ""
       ],
       [
        "por ejemplo",
        "for example",
        "",
-       "por ejemplo"
+       "por ejemplo",
+       ""
       ],
       [
        "por cierto",
        "by the way",
        "",
-       "por cierto"
+       "por cierto",
+       ""
       ],
       [
        "de todos modos",
        "anyway",
        "",
-       "de todos modos"
+       "de todos modos",
+       ""
       ],
       [
        "en fin",
        "anyway, in short",
        "",
-       "en fin"
+       "en fin",
+       ""
       ],
       [
        "total",
        "so anyway",
        "💡 Mexico: Total, que se fue.",
-       "total"
+       "total",
+       ""
       ]
      ]
     },
@@ -19580,139 +21474,162 @@ window.COURSE = {
        "antes",
        "before",
        "",
-       "antes"
+       "antes",
+       ""
       ],
       [
        "ahora",
        "now",
        "",
-       "ahora"
+       "ahora",
+       ""
       ],
       [
        "después",
        "after",
        "",
-       "después"
+       "después",
+       ""
       ],
       [
        "hoy en día",
        "nowadays",
        "",
-       "hoy en día"
+       "hoy en día",
+       ""
       ],
       [
        "en aquel entonces",
        "back then",
        "",
-       "en aquel entonces"
+       "en aquel entonces",
+       ""
       ],
       [
        "en esa época",
        "at that time",
        "",
-       "en esa época"
+       "en esa época",
+       ""
       ],
       [
        "de niño",
        "as a child",
        "",
-       "de niño"
+       "de niño",
+       ""
       ],
       [
        "ya",
        "already",
        "",
-       "ya"
+       "ya",
+       ""
       ],
       [
        "ya no",
        "no longer",
        "",
-       "ya no"
+       "ya no",
+       ""
       ],
       [
        "todavía",
        "still",
        "",
-       "todavía"
+       "todavía",
+       ""
       ],
       [
        "todavía no",
        "not yet",
        "",
-       "todavía no"
+       "todavía no",
+       ""
       ],
       [
        "acabar de",
        "to have just",
        "💡 Acabo de llegar.",
-       "acabar de"
+       "acabar de",
+       ""
       ],
       [
        "hace un año",
        "a year ago",
        "💡 hace + time = ago",
-       "hace un año"
+       "hace un año",
+       ""
       ],
       [
        "desde",
        "since",
        "",
-       "desde"
+       "desde",
+       ""
       ],
       [
        "desde hace",
        "for (still going)",
        "💡 Vivo aquí desde hace dos años.",
-       "desde hace"
+       "desde hace",
+       ""
       ],
       [
        "durante",
        "during, for",
        "",
-       "durante"
+       "durante",
+       ""
       ],
       [
        "por fin",
        "finally",
        "",
-       "por fin"
+       "por fin",
+       ""
       ],
       [
        "a tiempo",
        "on time",
        "",
-       "a tiempo"
+       "a tiempo",
+       ""
       ],
       [
        "a la vez",
        "at the same time",
        "",
-       "a la vez"
+       "a la vez",
+       ""
       ],
       [
        "cada vez más",
        "more and more",
        "",
-       "cada vez más"
+       "cada vez más",
+       ""
       ],
       [
        "para entonces",
        "by then",
        "",
-       "para entonces"
+       "para entonces",
+       ""
       ],
       [
        "dentro de",
        "within, in (future)",
        "",
-       "dentro de"
+       "dentro de",
+       ""
       ],
       [
        "algún día",
        "someday",
        "",
-       "algún día"
+       "algún día",
+       ""
       ]
      ]
     },
@@ -19724,181 +21641,211 @@ window.COURSE = {
        "¡Qué padre!",
        "How cool!",
        "",
-       "¡Qué padre!"
+       "¡Qué padre!",
+       ""
       ],
       [
        "¡Qué chido!",
        "How cool!",
        "",
-       "¡Qué chido!"
+       "¡Qué chido!",
+       ""
       ],
       [
        "padrísimo",
        "awesome",
        "",
-       "padrísimo"
+       "padrísimo",
+       ""
       ],
       [
        "¡Qué onda!",
        "What's up!",
        "",
-       "¡Qué onda!"
+       "¡Qué onda!",
+       ""
       ],
       [
        "la neta",
        "the truth; honestly",
        "",
-       "la neta"
+       "la neta",
+       ""
       ],
       [
        "¿Neta?",
        "For real?",
        "",
-       "¿Neta?"
+       "¿Neta?",
+       ""
       ],
       [
        "¡Órale!",
        "Wow! / OK!",
        "",
-       "¡Órale!"
+       "¡Órale!",
+       ""
       ],
       [
        "¡Ándale!",
        "Come on! / Exactly!",
        "",
-       "¡Ándale!"
+       "¡Ándale!",
+       ""
       ],
       [
        "¡Híjole!",
        "Oh man!",
        "",
-       "¡Híjole!"
+       "¡Híjole!",
+       ""
       ],
       [
        "¡Aguas!",
        "Watch out!",
        "",
-       "¡Aguas!"
+       "¡Aguas!",
+       ""
       ],
       [
        "¡No manches!",
        "No way!",
        "",
-       "¡No manches!"
+       "¡No manches!",
+       ""
       ],
       [
        "¡No inventes!",
        "You're kidding!",
        "",
-       "¡No inventes!"
+       "¡No inventes!",
+       ""
       ],
       [
        "¡Qué oso!",
        "How embarrassing!",
        "",
-       "¡Qué oso!"
+       "¡Qué oso!",
+       ""
       ],
       [
        "¡Qué flojera!",
        "I can't be bothered!",
        "",
-       "¡Qué flojera!"
+       "¡Qué flojera!",
+       ""
       ],
       [
        "¿A poco?",
        "Really?",
        "",
-       "¿A poco?"
+       "¿A poco?",
+       ""
       ],
       [
        "sale",
        "OK, deal",
        "",
-       "sale"
+       "sale",
+       ""
       ],
       [
        "va",
        "OK",
        "",
-       "va"
+       "va",
+       ""
       ],
       [
        "güey",
        "dude",
        "💡 very casual — friends only, can sound rude",
-       "güey"
+       "güey",
+       ""
       ],
       [
        "el cuate",
        "buddy",
        "",
-       "el cuate"
+       "el cuate",
+       ""
       ],
       [
        "el compa",
        "pal",
        "",
-       "el compa"
+       "el compa",
+       ""
       ],
       [
        "la chamba",
        "job",
        "",
-       "la chamba"
+       "la chamba",
+       ""
       ],
       [
        "la lana",
        "money",
        "",
-       "la lana"
+       "la lana",
+       ""
       ],
       [
        "la chela",
        "beer",
        "",
-       "la chela"
+       "la chela",
+       ""
       ],
       [
        "el antro",
        "nightclub",
        "",
-       "el antro"
+       "el antro",
+       ""
       ],
       [
        "chafa",
        "cheap, low-quality",
        "",
-       "chafa"
+       "chafa",
+       ""
       ],
       [
        "fresa",
        "posh, preppy",
        "",
-       "fresa"
+       "fresa",
+       ""
       ],
       [
        "apapachar",
        "to cuddle, comfort",
        "",
-       "apapachar"
+       "apapachar",
+       ""
       ],
       [
        "chiquear",
        "to spoil, pamper",
        "",
-       "chiquear"
+       "chiquear",
+       ""
       ],
       [
        "la pachanga",
        "party",
        "",
-       "la pachanga"
+       "la pachanga",
+       ""
       ],
       [
        "ya ni la friegas",
        "you've really done it now",
        "💡 informal",
-       "ya ni la friegas"
+       "ya ni la friegas",
+       ""
       ]
      ]
     },
@@ -19910,127 +21857,148 @@ window.COURSE = {
        "salir con",
        "to go out with",
        "",
-       "salir con"
+       "salir con",
+       ""
       ],
       [
        "andar con",
        "to be dating",
        "💡 Mexico",
-       "andar con"
+       "andar con",
+       ""
       ],
       [
        "ser novios",
        "to be boyfriend and girlfriend",
        "",
-       "ser novios"
+       "ser novios",
+       ""
       ],
       [
        "coquetear",
        "to flirt",
        "",
-       "coquetear"
+       "coquetear",
+       ""
       ],
       [
        "ligar",
        "to hook up, pick up",
        "💡 casual",
-       "ligar"
+       "ligar",
+       ""
       ],
       [
        "enamorarse",
        "to fall in love",
        "",
-       "enamorarse"
+       "enamorarse",
+       ""
       ],
       [
        "la cita",
        "date",
        "",
-       "la cita"
+       "la cita",
+       ""
       ],
       [
        "el amor",
        "love",
        "",
-       "el amor"
+       "el amor",
+       ""
       ],
       [
        "extrañar",
        "to miss (someone)",
        "🇪🇸 echar de menos",
-       "extrañar"
+       "extrañar",
+       ""
       ],
       [
        "pelearse",
        "to fight",
        "",
-       "pelearse"
+       "pelearse",
+       ""
       ],
       [
        "reconciliarse",
        "to make up",
        "",
-       "reconciliarse"
+       "reconciliarse",
+       ""
       ],
       [
        "cortar",
        "to break up",
        "💡 Mexico: Cortó con su novio.",
-       "cortar"
+       "cortar",
+       ""
       ],
       [
        "terminar",
        "to break up, end",
        "",
-       "terminar"
+       "terminar",
+       ""
       ],
       [
        "engañar",
        "to cheat on",
        "",
-       "engañar"
+       "engañar",
+       ""
       ],
       [
        "los celos",
        "jealousy",
        "",
-       "los celos"
+       "los celos",
+       ""
       ],
       [
        "dejar plantado",
        "to stand (someone) up",
        "",
-       "dejar plantado"
+       "dejar plantado",
+       ""
       ],
       [
        "comprometerse",
        "to get engaged",
        "",
-       "comprometerse"
+       "comprometerse",
+       ""
       ],
       [
        "el prometido, la prometida",
        "fiancé, fiancée",
        "",
-       "el prometido, la prometida"
+       "el prometido, la prometida",
+       ""
       ],
       [
        "casarse",
        "to get married",
        "",
-       "casarse"
+       "casarse",
+       ""
       ],
       [
        "divorciarse",
        "to get divorced",
        "",
-       "divorciarse"
+       "divorciarse",
+       ""
       ],
       [
        "el ex",
        "ex",
        "",
-       "el ex"
+       "el ex",
+       ""
       ]
      ]
     }
@@ -20885,139 +22853,162 @@ window.COURSE = {
        "la computadora",
        "computer",
        "🌎 computador (Col, Chile) · 🇪🇸 ordenador",
-       "la computadora"
+       "la computadora",
+       ""
       ],
       [
        "la laptop",
        "laptop",
        "💡 also la computadora portátil · 🇪🇸 portátil",
-       "la laptop"
+       "la laptop",
+       ""
       ],
       [
        "la tableta",
        "tablet",
        "",
-       "la tableta"
+       "la tableta",
+       ""
       ],
       [
        "el teclado",
        "keyboard",
        "",
-       "el teclado"
+       "el teclado",
+       ""
       ],
       [
        "el mouse",
        "mouse",
        "💡 Mexico; 🌎 🇪🇸 ratón",
-       "el mouse"
+       "el mouse",
+       ""
       ],
       [
        "la pantalla",
        "screen",
        "",
-       "la pantalla"
+       "la pantalla",
+       ""
       ],
       [
        "el monitor",
        "monitor",
        "",
-       "el monitor"
+       "el monitor",
+       ""
       ],
       [
        "las bocinas",
        "speakers",
        "💡 Mexico; 🌎 parlantes · 🇪🇸 altavoces",
-       "las bocinas"
+       "las bocinas",
+       ""
       ],
       [
        "los audífonos",
        "headphones",
        "🌎 auriculares · 🇪🇸 cascos",
-       "los audífonos"
+       "los audífonos",
+       ""
       ],
       [
        "el micrófono",
        "microphone",
        "",
-       "el micrófono"
+       "el micrófono",
+       ""
       ],
       [
        "la cámara web",
        "webcam",
        "",
-       "la cámara web"
+       "la cámara web",
+       ""
       ],
       [
        "la impresora",
        "printer",
        "",
-       "la impresora"
+       "la impresora",
+       ""
       ],
       [
        "el escáner",
        "scanner",
        "",
-       "el escáner"
+       "el escáner",
+       ""
       ],
       [
        "la memoria USB",
        "USB drive",
        "🌎 pendrive (Arg)",
-       "la memoria USB"
+       "la memoria USB",
+       ""
       ],
       [
        "el disco duro",
        "hard drive",
        "",
-       "el disco duro"
+       "el disco duro",
+       ""
       ],
       [
        "el cable",
        "cable",
        "",
-       "el cable"
+       "el cable",
+       ""
       ],
       [
        "el cargador",
        "charger",
        "",
-       "el cargador"
+       "el cargador",
+       ""
       ],
       [
        "el procesador",
        "processor",
        "",
-       "el procesador"
+       "el procesador",
+       ""
       ],
       [
        "la memoria RAM",
        "RAM",
        "",
-       "la memoria RAM"
+       "la memoria RAM",
+       ""
       ],
       [
        "la tarjeta madre",
        "motherboard",
        "🌎 placa madre · 🇪🇸 placa base",
-       "la tarjeta madre"
+       "la tarjeta madre",
+       ""
       ],
       [
        "el servidor",
        "server",
        "",
-       "el servidor"
+       "el servidor",
+       ""
       ],
       [
        "el puerto",
        "port",
        "",
-       "el puerto"
+       "el puerto",
+       ""
       ],
       [
        "la batería",
        "battery",
        "",
-       "la batería"
+       "la batería",
+       ""
       ]
      ]
     },
@@ -21029,151 +23020,176 @@ window.COURSE = {
        "la red",
        "network",
        "",
-       "la red"
+       "la red",
+       ""
       ],
       [
        "el router",
        "router",
        "💡 Mexico says router; also el enrutador",
-       "el router"
+       "el router",
+       ""
       ],
       [
        "el módem",
        "modem",
        "",
-       "el módem"
+       "el módem",
+       ""
       ],
       [
        "el switch",
        "network switch",
        "💡 also el conmutador",
-       "el switch"
+       "el switch",
+       ""
       ],
       [
        "el punto de acceso",
        "access point",
        "",
-       "el punto de acceso"
+       "el punto de acceso",
+       ""
       ],
       [
        "el wifi",
        "Wi-Fi",
        "",
-       "el wifi"
+       "el wifi",
+       ""
       ],
       [
        "la conexión",
        "connection",
        "",
-       "la conexión"
+       "la conexión",
+       ""
       ],
       [
        "el cable de red",
        "network cable",
        "",
-       "el cable de red"
+       "el cable de red",
+       ""
       ],
       [
        "inalámbrico, inalámbrica",
        "wireless",
        "",
-       "inalámbrico, inalámbrica"
+       "inalámbrico, inalámbrica",
+       ""
       ],
       [
        "la dirección IP",
        "IP address",
        "",
-       "la dirección IP"
+       "la dirección IP",
+       ""
       ],
       [
        "la dirección MAC",
        "MAC address",
        "",
-       "la dirección MAC"
+       "la dirección MAC",
+       ""
       ],
       [
        "el ancho de banda",
        "bandwidth",
        "",
-       "el ancho de banda"
+       "el ancho de banda",
+       ""
       ],
       [
        "el paquete",
        "packet",
        "",
-       "el paquete"
+       "el paquete",
+       ""
       ],
       [
        "el protocolo",
        "protocol",
        "",
-       "el protocolo"
+       "el protocolo",
+       ""
       ],
       [
        "el cortafuegos",
        "firewall",
        "💡 IT people often just say el firewall",
-       "el cortafuegos"
+       "el cortafuegos",
+       ""
       ],
       [
        "la VPN",
        "VPN",
        "",
-       "la VPN"
+       "la VPN",
+       ""
       ],
       [
        "el cliente",
        "client",
        "",
-       "el cliente"
+       "el cliente",
+       ""
       ],
       [
        "la nube",
        "the cloud",
        "",
-       "la nube"
+       "la nube",
+       ""
       ],
       [
        "el centro de datos",
        "data center",
        "",
-       "el centro de datos"
+       "el centro de datos",
+       ""
       ],
       [
        "la red local",
        "local network",
        "",
-       "la red local"
+       "la red local",
+       ""
       ],
       [
        "la velocidad",
        "speed",
        "",
-       "la velocidad"
+       "la velocidad",
+       ""
       ],
       [
        "la latencia",
        "latency",
        "",
-       "la latencia"
+       "la latencia",
+       ""
       ],
       [
        "el tráfico",
        "traffic",
        "",
-       "el tráfico"
+       "el tráfico",
+       ""
       ],
       [
        "conectarse",
        "to connect",
        "",
-       "conectarse"
+       "conectarse",
+       ""
       ],
       [
        "desconectarse",
        "to disconnect",
        "",
-       "desconectarse"
+       "desconectarse",
+       ""
       ]
      ]
     },
@@ -21185,157 +23201,183 @@ window.COURSE = {
        "el sistema operativo",
        "operating system",
        "",
-       "el sistema operativo"
+       "el sistema operativo",
+       ""
       ],
       [
        "el programa",
        "program",
        "",
-       "el programa"
+       "el programa",
+       ""
       ],
       [
        "la aplicación",
        "app",
        "💡 la app",
-       "la aplicación"
+       "la aplicación",
+       ""
       ],
       [
        "el software",
        "software",
        "",
-       "el software"
+       "el software",
+       ""
       ],
       [
        "el navegador",
        "browser",
        "",
-       "el navegador"
+       "el navegador",
+       ""
       ],
       [
        "el archivo",
        "file",
        "",
-       "el archivo"
+       "el archivo",
+       ""
       ],
       [
        "la carpeta",
        "folder",
        "",
-       "la carpeta"
+       "la carpeta",
+       ""
       ],
       [
        "el escritorio",
        "desktop",
        "",
-       "el escritorio"
+       "el escritorio",
+       ""
       ],
       [
        "la ventana",
        "window",
        "",
-       "la ventana"
+       "la ventana",
+       ""
       ],
       [
        "el ícono",
        "icon",
        "",
-       "el ícono"
+       "el ícono",
+       ""
       ],
       [
        "el menú",
        "menu",
        "",
-       "el menú"
+       "el menú",
+       ""
       ],
       [
        "la terminal",
        "terminal",
        "",
-       "la terminal"
+       "la terminal",
+       ""
       ],
       [
        "el comando",
        "command",
        "",
-       "el comando"
+       "el comando",
+       ""
       ],
       [
        "el código",
        "code",
        "",
-       "el código"
+       "el código",
+       ""
       ],
       [
        "el usuario",
        "user",
        "",
-       "el usuario"
+       "el usuario",
+       ""
       ],
       [
        "la configuración",
        "settings",
        "",
-       "la configuración"
+       "la configuración",
+       ""
       ],
       [
        "la actualización",
        "update",
        "",
-       "la actualización"
+       "la actualización",
+       ""
       ],
       [
        "actualizar",
        "to update",
        "",
-       "actualizar"
+       "actualizar",
+       ""
       ],
       [
        "instalar",
        "to install",
        "",
-       "instalar"
+       "instalar",
+       ""
       ],
       [
        "desinstalar",
        "to uninstall",
        "",
-       "desinstalar"
+       "desinstalar",
+       ""
       ],
       [
        "descargar",
        "to download",
        "💡 Mexico also says bajar",
-       "descargar"
+       "descargar",
+       ""
       ],
       [
        "reiniciar",
        "to restart",
        "",
-       "reiniciar"
+       "reiniciar",
+       ""
       ],
       [
        "prender",
        "to turn on",
        "💡 Mexico; 🌎 encender",
-       "prender"
+       "prender",
+       ""
       ],
       [
        "apagar",
        "to turn off",
        "",
-       "apagar"
+       "apagar",
+       ""
       ],
       [
        "el antivirus",
        "antivirus",
        "",
-       "el antivirus"
+       "el antivirus",
+       ""
       ],
       [
        "el controlador",
        "driver",
        "",
-       "el controlador"
+       "el controlador",
+       ""
       ]
      ]
     },
@@ -21347,91 +23389,106 @@ window.COURSE = {
        "el internet",
        "the internet",
        "",
-       "el internet"
+       "el internet",
+       ""
       ],
       [
        "la página web",
        "web page",
        "",
-       "la página web"
+       "la página web",
+       ""
       ],
       [
        "el sitio web",
        "website",
        "",
-       "el sitio web"
+       "el sitio web",
+       ""
       ],
       [
        "el enlace",
        "link",
        "💡 also el link",
-       "el enlace"
+       "el enlace",
+       ""
       ],
       [
        "el correo electrónico",
        "email",
        "💡 also el correo, el mail",
-       "el correo electrónico"
+       "el correo electrónico",
+       ""
       ],
       [
        "el buscador",
        "search engine",
        "",
-       "el buscador"
+       "el buscador",
+       ""
       ],
       [
        "buscar",
        "to search",
        "",
-       "buscar"
+       "buscar",
+       ""
       ],
       [
        "la cuenta",
        "account",
        "",
-       "la cuenta"
+       "la cuenta",
+       ""
       ],
       [
        "el perfil",
        "profile",
        "",
-       "el perfil"
+       "el perfil",
+       ""
       ],
       [
        "la publicación",
        "post",
        "",
-       "la publicación"
+       "la publicación",
+       ""
       ],
       [
        "el historial",
        "history",
        "",
-       "el historial"
+       "el historial",
+       ""
       ],
       [
        "las cookies",
        "cookies",
        "",
-       "las cookies"
+       "las cookies",
+       ""
       ],
       [
        "la descarga",
        "download",
        "",
-       "la descarga"
+       "la descarga",
+       ""
       ],
       [
        "en línea",
        "online",
        "",
-       "en línea"
+       "en línea",
+       ""
       ],
       [
        "fuera de línea",
        "offline",
        "",
-       "fuera de línea"
+       "fuera de línea",
+       ""
       ]
      ]
     }
@@ -22286,127 +24343,148 @@ window.COURSE = {
        "la cuenta",
        "account",
        "",
-       "la cuenta"
+       "la cuenta",
+       ""
       ],
       [
        "el nombre de usuario",
        "username",
        "",
-       "el nombre de usuario"
+       "el nombre de usuario",
+       ""
       ],
       [
        "la contraseña",
        "password",
        "",
-       "la contraseña"
+       "la contraseña",
+       ""
       ],
       [
        "la contraseña segura",
        "strong password",
        "",
-       "la contraseña segura"
+       "la contraseña segura",
+       ""
       ],
       [
        "el PIN",
        "PIN",
        "",
-       "el PIN"
+       "el PIN",
+       ""
       ],
       [
        "iniciar sesión",
        "to log in",
        "",
-       "iniciar sesión"
+       "iniciar sesión",
+       ""
       ],
       [
        "cerrar sesión",
        "to log out",
        "",
-       "cerrar sesión"
+       "cerrar sesión",
+       ""
       ],
       [
        "registrarse",
        "to sign up",
        "",
-       "registrarse"
+       "registrarse",
+       ""
       ],
       [
        "crear una cuenta",
        "to create an account",
        "",
-       "crear una cuenta"
+       "crear una cuenta",
+       ""
       ],
       [
        "la verificación en dos pasos",
        "two-step verification",
        "",
-       "la verificación en dos pasos"
+       "la verificación en dos pasos",
+       ""
       ],
       [
        "el código de verificación",
        "verification code",
        "",
-       "el código de verificación"
+       "el código de verificación",
+       ""
       ],
       [
        "el gestor de contraseñas",
        "password manager",
        "",
-       "el gestor de contraseñas"
+       "el gestor de contraseñas",
+       ""
       ],
       [
        "restablecer la contraseña",
        "to reset the password",
        "",
-       "restablecer la contraseña"
+       "restablecer la contraseña",
+       ""
       ],
       [
        "olvidé mi contraseña",
        "I forgot my password",
        "",
-       "olvidé mi contraseña"
+       "olvidé mi contraseña",
+       ""
       ],
       [
        "la cuenta bloqueada",
        "locked account",
        "",
-       "la cuenta bloqueada"
+       "la cuenta bloqueada",
+       ""
       ],
       [
        "la huella digital",
        "fingerprint",
        "",
-       "la huella digital"
+       "la huella digital",
+       ""
       ],
       [
        "el reconocimiento facial",
        "face recognition",
        "",
-       "el reconocimiento facial"
+       "el reconocimiento facial",
+       ""
       ],
       [
        "la llave de seguridad",
        "security key",
        "",
-       "la llave de seguridad"
+       "la llave de seguridad",
+       ""
       ],
       [
        "los permisos",
        "permissions",
        "",
-       "los permisos"
+       "los permisos",
+       ""
       ],
       [
        "el administrador",
        "administrator",
        "",
-       "el administrador"
+       "el administrador",
+       ""
       ],
       [
        "el acceso",
        "access",
        "",
-       "el acceso"
+       "el acceso",
+       ""
       ]
      ]
     },
@@ -22418,157 +24496,183 @@ window.COURSE = {
        "proteger",
        "to protect",
        "",
-       "proteger"
+       "proteger",
+       ""
       ],
       [
        "cifrar",
        "to encrypt",
        "💡 also encriptar",
-       "cifrar"
+       "cifrar",
+       ""
       ],
       [
        "descifrar",
        "to decrypt",
        "",
-       "descifrar"
+       "descifrar",
+       ""
       ],
       [
        "respaldar",
        "to back up",
        "💡 hacer un respaldo · 🌎 hacer una copia de seguridad",
-       "respaldar"
+       "respaldar",
+       ""
       ],
       [
        "restaurar",
        "to restore",
        "",
-       "restaurar"
+       "restaurar",
+       ""
       ],
       [
        "actualizar",
        "to update",
        "",
-       "actualizar"
+       "actualizar",
+       ""
       ],
       [
        "aplicar un parche",
        "to patch",
        "",
-       "aplicar un parche"
+       "aplicar un parche",
+       ""
       ],
       [
        "escanear",
        "to scan",
        "",
-       "escanear"
+       "escanear",
+       ""
       ],
       [
        "detectar",
        "to detect",
        "",
-       "detectar"
+       "detectar",
+       ""
       ],
       [
        "bloquear",
        "to block",
        "",
-       "bloquear"
+       "bloquear",
+       ""
       ],
       [
        "reportar",
        "to report",
        "",
-       "reportar"
+       "reportar",
+       ""
       ],
       [
        "verificar",
        "to verify",
        "",
-       "verificar"
+       "verificar",
+       ""
       ],
       [
        "autenticar",
        "to authenticate",
        "",
-       "autenticar"
+       "autenticar",
+       ""
       ],
       [
        "autorizar",
        "to authorize",
        "",
-       "autorizar"
+       "autorizar",
+       ""
       ],
       [
        "monitorear",
        "to monitor",
        "🇪🇸 monitorizar",
-       "monitorear"
+       "monitorear",
+       ""
       ],
       [
        "revisar los registros",
        "to check the logs",
        "",
-       "revisar los registros"
+       "revisar los registros",
+       ""
       ],
       [
        "configurar",
        "to configure",
        "",
-       "configurar"
+       "configurar",
+       ""
       ],
       [
        "activar",
        "to turn on, enable",
        "",
-       "activar"
+       "activar",
+       ""
       ],
       [
        "desactivar",
        "to turn off, disable",
        "",
-       "desactivar"
+       "desactivar",
+       ""
       ],
       [
        "aislar",
        "to isolate",
        "",
-       "aislar"
+       "aislar",
+       ""
       ],
       [
        "eliminar",
        "to delete, remove",
        "",
-       "eliminar"
+       "eliminar",
+       ""
       ],
       [
        "cambiar la contraseña",
        "to change the password",
        "",
-       "cambiar la contraseña"
+       "cambiar la contraseña",
+       ""
       ],
       [
        "rastrear",
        "to track",
        "",
-       "rastrear"
+       "rastrear",
+       ""
       ],
       [
        "filtrar",
        "to filter; to leak",
        "",
-       "filtrar"
+       "filtrar",
+       ""
       ],
       [
        "denegar",
        "to deny",
        "",
-       "denegar"
+       "denegar",
+       ""
       ],
       [
        "permitir",
        "to allow",
        "",
-       "permitir"
+       "permitir",
+       ""
       ]
      ]
     },
@@ -22580,109 +24684,127 @@ window.COURSE = {
        "hacer clic",
        "to click",
        "💡 also dar clic",
-       "hacer clic"
+       "hacer clic",
+       ""
       ],
       [
        "dar doble clic",
        "to double-click",
        "",
-       "dar doble clic"
+       "dar doble clic",
+       ""
       ],
       [
        "arrastrar",
        "to drag",
        "",
-       "arrastrar"
+       "arrastrar",
+       ""
       ],
       [
        "seleccionar",
        "to select",
        "",
-       "seleccionar"
+       "seleccionar",
+       ""
       ],
       [
        "escribir",
        "to type",
        "",
-       "escribir"
+       "escribir",
+       ""
       ],
       [
        "presionar",
        "to press",
        "💡 Presionen Enter.",
-       "presionar"
+       "presionar",
+       ""
       ],
       [
        "la tecla",
        "key",
        "",
-       "la tecla"
+       "la tecla",
+       ""
       ],
       [
        "la barra espaciadora",
        "space bar",
        "",
-       "la barra espaciadora"
+       "la barra espaciadora",
+       ""
       ],
       [
        "copiar",
        "to copy",
        "",
-       "copiar"
+       "copiar",
+       ""
       ],
       [
        "pegar",
        "to paste",
        "",
-       "pegar"
+       "pegar",
+       ""
       ],
       [
        "guardar",
        "to save",
        "",
-       "guardar"
+       "guardar",
+       ""
       ],
       [
        "guardar como",
        "save as",
        "",
-       "guardar como"
+       "guardar como",
+       ""
       ],
       [
        "imprimir",
        "to print",
        "",
-       "imprimir"
+       "imprimir",
+       ""
       ],
       [
        "compartir pantalla",
        "to share the screen",
        "",
-       "compartir pantalla"
+       "compartir pantalla",
+       ""
       ],
       [
        "minimizar",
        "to minimize",
        "",
-       "minimizar"
+       "minimizar",
+       ""
       ],
       [
        "el cursor",
        "cursor",
        "",
-       "el cursor"
+       "el cursor",
+       ""
       ],
       [
        "la flecha",
        "arrow",
        "",
-       "la flecha"
+       "la flecha",
+       ""
       ],
       [
        "la barra de tareas",
        "taskbar",
        "",
-       "la barra de tareas"
+       "la barra de tareas",
+       ""
       ]
      ]
     },
@@ -22694,115 +24816,134 @@ window.COURSE = {
        "el documento",
        "document",
        "",
-       "el documento"
+       "el documento",
+       ""
       ],
       [
        "la hoja de cálculo",
        "spreadsheet",
        "",
-       "la hoja de cálculo"
+       "la hoja de cálculo",
+       ""
       ],
       [
        "la base de datos",
        "database",
        "",
-       "la base de datos"
+       "la base de datos",
+       ""
       ],
       [
        "los datos",
        "data",
        "",
-       "los datos"
+       "los datos",
+       ""
       ],
       [
        "la información personal",
        "personal information",
        "",
-       "la información personal"
+       "la información personal",
+       ""
       ],
       [
        "el respaldo",
        "backup",
        "🌎 copia de seguridad",
-       "el respaldo"
+       "el respaldo",
+       ""
       ],
       [
        "la versión",
        "version",
        "",
-       "la versión"
+       "la versión",
+       ""
       ],
       [
        "el formato",
        "format",
        "",
-       "el formato"
+       "el formato",
+       ""
       ],
       [
        "el tamaño",
        "size",
        "",
-       "el tamaño"
+       "el tamaño",
+       ""
       ],
       [
        "el archivo adjunto",
        "attachment",
        "",
-       "el archivo adjunto"
+       "el archivo adjunto",
+       ""
       ],
       [
        "comprimir",
        "to compress, zip",
        "",
-       "comprimir"
+       "comprimir",
+       ""
       ],
       [
        "descomprimir",
        "to unzip",
        "",
-       "descomprimir"
+       "descomprimir",
+       ""
       ],
       [
        "el registro",
        "log",
        "",
-       "el registro"
+       "el registro",
+       ""
       ],
       [
        "la ruta",
        "file path",
        "",
-       "la ruta"
+       "la ruta",
+       ""
       ],
       [
        "la extensión",
        "file extension",
        "",
-       "la extensión"
+       "la extensión",
+       ""
       ],
       [
        "confidencial",
        "confidential",
        "",
-       "confidencial"
+       "confidencial",
+       ""
       ],
       [
        "sensible",
        "sensitive",
        "",
-       "sensible"
+       "sensible",
+       ""
       ],
       [
        "compartido, compartida",
        "shared",
        "",
-       "compartido, compartida"
+       "compartido, compartida",
+       ""
       ],
       [
        "cifrado, cifrada",
        "encrypted",
        "",
-       "cifrado, cifrada"
+       "cifrado, cifrada",
+       ""
       ]
      ]
     }
@@ -23493,145 +25634,169 @@ window.COURSE = {
        "la amenaza",
        "threat",
        "",
-       "la amenaza"
+       "la amenaza",
+       ""
       ],
       [
        "el ataque",
        "attack",
        "",
-       "el ataque"
+       "el ataque",
+       ""
       ],
       [
        "el atacante",
        "attacker",
        "",
-       "el atacante"
+       "el atacante",
+       ""
       ],
       [
        "el ciberdelincuente",
        "cybercriminal",
        "",
-       "el ciberdelincuente"
+       "el ciberdelincuente",
+       ""
       ],
       [
        "el malware",
        "malware",
        "",
-       "el malware"
+       "el malware",
+       ""
       ],
       [
        "el virus",
        "virus",
        "",
-       "el virus"
+       "el virus",
+       ""
       ],
       [
        "el gusano",
        "worm",
        "",
-       "el gusano"
+       "el gusano",
+       ""
       ],
       [
        "el troyano",
        "Trojan",
        "",
-       "el troyano"
+       "el troyano",
+       ""
       ],
       [
        "el ransomware",
        "ransomware",
        "",
-       "el ransomware"
+       "el ransomware",
+       ""
       ],
       [
        "el software espía",
        "spyware",
        "",
-       "el software espía"
+       "el software espía",
+       ""
       ],
       [
        "el phishing",
        "phishing",
        "",
-       "el phishing"
+       "el phishing",
+       ""
       ],
       [
        "el correo falso",
        "fake email",
        "",
-       "el correo falso"
+       "el correo falso",
+       ""
       ],
       [
        "el enlace sospechoso",
        "suspicious link",
        "",
-       "el enlace sospechoso"
+       "el enlace sospechoso",
+       ""
       ],
       [
        "la estafa",
        "scam",
        "",
-       "la estafa"
+       "la estafa",
+       ""
       ],
       [
        "el fraude",
        "fraud",
        "",
-       "el fraude"
+       "el fraude",
+       ""
       ],
       [
        "el robo de identidad",
        "identity theft",
        "",
-       "el robo de identidad"
+       "el robo de identidad",
+       ""
       ],
       [
        "la ingeniería social",
        "social engineering",
        "",
-       "la ingeniería social"
+       "la ingeniería social",
+       ""
       ],
       [
        "el ataque de fuerza bruta",
        "brute-force attack",
        "",
-       "el ataque de fuerza bruta"
+       "el ataque de fuerza bruta",
+       ""
       ],
       [
        "la denegación de servicio",
        "denial of service",
        "",
-       "la denegación de servicio"
+       "la denegación de servicio",
+       ""
       ],
       [
        "la vulnerabilidad",
        "vulnerability",
        "",
-       "la vulnerabilidad"
+       "la vulnerabilidad",
+       ""
       ],
       [
        "la filtración de datos",
        "data breach",
        "",
-       "la filtración de datos"
+       "la filtración de datos",
+       ""
       ],
       [
        "el acceso no autorizado",
        "unauthorized access",
        "",
-       "el acceso no autorizado"
+       "el acceso no autorizado",
+       ""
       ],
       [
        "la puerta trasera",
        "backdoor",
        "",
-       "la puerta trasera"
+       "la puerta trasera",
+       ""
       ],
       [
        "la red de bots",
        "botnet",
        "",
-       "la red de bots"
+       "la red de bots",
+       ""
       ]
      ]
     },
@@ -23643,103 +25808,120 @@ window.COURSE = {
        "la confidencialidad",
        "confidentiality",
        "",
-       "la confidencialidad"
+       "la confidencialidad",
+       ""
       ],
       [
        "la integridad",
        "integrity",
        "",
-       "la integridad"
+       "la integridad",
+       ""
       ],
       [
        "la disponibilidad",
        "availability",
        "",
-       "la disponibilidad"
+       "la disponibilidad",
+       ""
       ],
       [
        "la autenticación",
        "authentication",
        "",
-       "la autenticación"
+       "la autenticación",
+       ""
       ],
       [
        "la autorización",
        "authorization",
        "",
-       "la autorización"
+       "la autorización",
+       ""
       ],
       [
        "el privilegio mínimo",
        "least privilege",
        "",
-       "el privilegio mínimo"
+       "el privilegio mínimo",
+       ""
       ],
       [
        "la defensa en profundidad",
        "defense in depth",
        "",
-       "la defensa en profundidad"
+       "la defensa en profundidad",
+       ""
       ],
       [
        "el riesgo",
        "risk",
        "",
-       "el riesgo"
+       "el riesgo",
+       ""
       ],
       [
        "el control",
        "control",
        "",
-       "el control"
+       "el control",
+       ""
       ],
       [
        "la política de seguridad",
        "security policy",
        "",
-       "la política de seguridad"
+       "la política de seguridad",
+       ""
       ],
       [
        "la privacidad",
        "privacy",
        "",
-       "la privacidad"
+       "la privacidad",
+       ""
       ],
       [
        "la seguridad",
        "security; safety",
        "",
-       "la seguridad"
+       "la seguridad",
+       ""
       ],
       [
        "la confianza cero",
        "zero trust",
        "",
-       "la confianza cero"
+       "la confianza cero",
+       ""
       ],
       [
        "la segmentación",
        "segmentation",
        "",
-       "la segmentación"
+       "la segmentación",
+       ""
       ],
       [
        "el cumplimiento",
        "compliance",
        "",
-       "el cumplimiento"
+       "el cumplimiento",
+       ""
       ],
       [
        "la ética",
        "ethics",
        "",
-       "la ética"
+       "la ética",
+       ""
       ],
       [
        "el permiso",
        "permission",
        "",
-       "el permiso"
+       "el permiso",
+       ""
       ]
      ]
     },
@@ -23751,133 +25933,155 @@ window.COURSE = {
        "el incidente",
        "incident",
        "",
-       "el incidente"
+       "el incidente",
+       ""
       ],
       [
        "la alerta",
        "alert",
        "",
-       "la alerta"
+       "la alerta",
+       ""
       ],
       [
        "la detección",
        "detection",
        "",
-       "la detección"
+       "la detección",
+       ""
       ],
       [
        "la contención",
        "containment",
        "",
-       "la contención"
+       "la contención",
+       ""
       ],
       [
        "la erradicación",
        "eradication",
        "",
-       "la erradicación"
+       "la erradicación",
+       ""
       ],
       [
        "la recuperación",
        "recovery",
        "",
-       "la recuperación"
+       "la recuperación",
+       ""
       ],
       [
        "las lecciones aprendidas",
        "lessons learned",
        "",
-       "las lecciones aprendidas"
+       "las lecciones aprendidas",
+       ""
       ],
       [
        "el informe",
        "report",
        "💡 also el reporte",
-       "el informe"
+       "el informe",
+       ""
       ],
       [
        "el equipo de respuesta",
        "response team",
        "",
-       "el equipo de respuesta"
+       "el equipo de respuesta",
+       ""
       ],
       [
        "el analista",
        "analyst",
        "",
-       "el analista"
+       "el analista",
+       ""
       ],
       [
        "la evidencia",
        "evidence",
        "",
-       "la evidencia"
+       "la evidencia",
+       ""
       ],
       [
        "la línea de tiempo",
        "timeline",
        "",
-       "la línea de tiempo"
+       "la línea de tiempo",
+       ""
       ],
       [
        "el impacto",
        "impact",
        "",
-       "el impacto"
+       "el impacto",
+       ""
       ],
       [
        "la causa",
        "cause",
        "",
-       "la causa"
+       "la causa",
+       ""
       ],
       [
        "investigar",
        "to investigate",
        "",
-       "investigar"
+       "investigar",
+       ""
       ],
       [
        "contener",
        "to contain",
        "",
-       "contener"
+       "contener",
+       ""
       ],
       [
        "aislar el equipo",
        "to isolate the machine",
        "",
-       "aislar el equipo"
+       "aislar el equipo",
+       ""
       ],
       [
        "restaurar el respaldo",
        "to restore the backup",
        "",
-       "restaurar el respaldo"
+       "restaurar el respaldo",
+       ""
       ],
       [
        "notificar",
        "to notify",
        "",
-       "notificar"
+       "notificar",
+       ""
       ],
       [
        "documentar",
        "to document",
        "",
-       "documentar"
+       "documentar",
+       ""
       ],
       [
        "¿Cuándo empezó?",
        "When did it start?",
        "",
-       "¿Cuándo empezó?"
+       "¿Cuándo empezó?",
+       ""
       ],
       [
        "¿Quién tuvo acceso?",
        "Who had access?",
        "",
-       "¿Quién tuvo acceso?"
+       "¿Quién tuvo acceso?",
+       ""
       ]
      ]
     },
@@ -23889,103 +26093,120 @@ window.COURSE = {
        "sospechoso, sospechosa",
        "suspicious",
        "",
-       "sospechoso, sospechosa"
+       "sospechoso, sospechosa",
+       ""
       ],
       [
        "malicioso, maliciosa",
        "malicious",
        "",
-       "malicioso, maliciosa"
+       "malicioso, maliciosa",
+       ""
       ],
       [
        "legítimo, legítima",
        "legitimate",
        "",
-       "legítimo, legítima"
+       "legítimo, legítima",
+       ""
       ],
       [
        "falso, falsa",
        "fake",
        "",
-       "falso, falsa"
+       "falso, falsa",
+       ""
       ],
       [
        "urgente",
        "urgent",
        "",
-       "urgente"
+       "urgente",
+       ""
       ],
       [
        "grave",
        "serious",
        "",
-       "grave"
+       "grave",
+       ""
       ],
       [
        "crítico, crítica",
        "critical",
        "",
-       "crítico, crítica"
+       "crítico, crítica",
+       ""
       ],
       [
        "comprometido, comprometida",
        "compromised",
        "",
-       "comprometido, comprometida"
+       "comprometido, comprometida",
+       ""
       ],
       [
        "infectado, infectada",
        "infected",
        "",
-       "infectado, infectada"
+       "infectado, infectada",
+       ""
       ],
       [
        "vulnerable",
        "vulnerable",
        "",
-       "vulnerable"
+       "vulnerable",
+       ""
       ],
       [
        "protegido, protegida",
        "protected",
        "",
-       "protegido, protegida"
+       "protegido, protegida",
+       ""
       ],
       [
        "desactualizado, desactualizada",
        "out of date",
        "",
-       "desactualizado, desactualizada"
+       "desactualizado, desactualizada",
+       ""
       ],
       [
        "expuesto, expuesta",
        "exposed",
        "",
-       "expuesto, expuesta"
+       "expuesto, expuesta",
+       ""
       ],
       [
        "raro, rara",
        "strange",
        "",
-       "raro, rara"
+       "raro, rara",
+       ""
       ],
       [
        "lento, lenta",
        "slow",
        "",
-       "lento, lenta"
+       "lento, lenta",
+       ""
       ],
       [
        "caído, caída",
        "down (not working)",
        "💡 El servidor está caído.",
-       "caído, caída"
+       "caído, caída",
+       ""
       ],
       [
        "sin permiso",
        "without permission",
        "",
-       "sin permiso"
+       "sin permiso",
+       ""
       ]
      ]
     }
@@ -24453,97 +26674,113 @@ window.COURSE = {
        "el salón de clases",
        "classroom",
        "💡 Mexico; 🌎 el aula",
-       "el salón de clases"
+       "el salón de clases",
+       ""
       ],
       [
        "el pupitre",
        "student desk",
        "",
-       "el pupitre"
+       "el pupitre",
+       ""
       ],
       [
        "el escritorio",
        "teacher's desk",
        "",
-       "el escritorio"
+       "el escritorio",
+       ""
       ],
       [
        "el pizarrón",
        "board",
        "",
-       "el pizarrón"
+       "el pizarrón",
+       ""
       ],
       [
        "el pizarrón blanco",
        "whiteboard",
        "",
-       "el pizarrón blanco"
+       "el pizarrón blanco",
+       ""
       ],
       [
        "el plumón",
        "marker",
        "",
-       "el plumón"
+       "el plumón",
+       ""
       ],
       [
        "el proyector",
        "projector",
        "",
-       "el proyector"
+       "el proyector",
+       ""
       ],
       [
        "la pantalla",
        "screen",
        "",
-       "la pantalla"
+       "la pantalla",
+       ""
       ],
       [
        "el horario",
        "schedule",
        "",
-       "el horario"
+       "el horario",
+       ""
       ],
       [
        "la lista de asistencia",
        "attendance list",
        "",
-       "la lista de asistencia"
+       "la lista de asistencia",
+       ""
       ],
       [
        "el libro de texto",
        "textbook",
        "",
-       "el libro de texto"
+       "el libro de texto",
+       ""
       ],
       [
        "la hoja de trabajo",
        "worksheet",
        "",
-       "la hoja de trabajo"
+       "la hoja de trabajo",
+       ""
       ],
       [
        "el laboratorio de cómputo",
        "computer lab",
        "💡 Mexico; 🌎 sala de informática",
-       "el laboratorio de cómputo"
+       "el laboratorio de cómputo",
+       ""
       ],
       [
        "el enchufe",
        "outlet",
        "",
-       "el enchufe"
+       "el enchufe",
+       ""
       ],
       [
        "el reloj",
        "clock",
        "",
-       "el reloj"
+       "el reloj",
+       ""
       ],
       [
        "el cartel",
        "poster",
        "",
-       "el cartel"
+       "el cartel",
+       ""
       ]
      ]
     },
@@ -24555,151 +26792,176 @@ window.COURSE = {
        "siéntense",
        "sit down",
        "",
-       "siéntense"
+       "siéntense",
+       ""
       ],
       [
        "levántense",
        "stand up",
        "",
-       "levántense"
+       "levántense",
+       ""
       ],
       [
        "abran",
        "open",
        "",
-       "abran"
+       "abran",
+       ""
       ],
       [
        "cierren",
        "close",
        "",
-       "cierren"
+       "cierren",
+       ""
       ],
       [
        "saquen",
        "take out",
        "",
-       "saquen"
+       "saquen",
+       ""
       ],
       [
        "guarden",
        "put away",
        "",
-       "guarden"
+       "guarden",
+       ""
       ],
       [
        "escuchen",
        "listen",
        "",
-       "escuchen"
+       "escuchen",
+       ""
       ],
       [
        "miren",
        "look",
        "",
-       "miren"
+       "miren",
+       ""
       ],
       [
        "lean",
        "read",
        "",
-       "lean"
+       "lean",
+       ""
       ],
       [
        "escriban",
        "write",
        "",
-       "escriban"
+       "escriban",
+       ""
       ],
       [
        "repitan",
        "repeat",
        "",
-       "repitan"
+       "repitan",
+       ""
       ],
       [
        "contesten",
        "answer",
        "",
-       "contesten"
+       "contesten",
+       ""
       ],
       [
        "pregunten",
        "ask",
        "",
-       "pregunten"
+       "pregunten",
+       ""
       ],
       [
        "pongan atención",
        "pay attention",
        "",
-       "pongan atención"
+       "pongan atención",
+       ""
       ],
       [
        "guarden silencio",
        "be quiet",
        "",
-       "guarden silencio"
+       "guarden silencio",
+       ""
       ],
       [
        "levanten la mano",
        "raise your hand",
        "",
-       "levanten la mano"
+       "levanten la mano",
+       ""
       ],
       [
        "trabajen en parejas",
        "work in pairs",
        "",
-       "trabajen en parejas"
+       "trabajen en parejas",
+       ""
       ],
       [
        "formen equipos",
        "make teams",
        "",
-       "formen equipos"
+       "formen equipos",
+       ""
       ],
       [
        "hagan fila",
        "line up",
        "",
-       "hagan fila"
+       "hagan fila",
+       ""
       ],
       [
        "entreguen la tarea",
        "turn in the homework",
        "",
-       "entreguen la tarea"
+       "entreguen la tarea",
+       ""
       ],
       [
        "pasa al frente",
        "come to the front (one student)",
        "",
-       "pasa al frente"
+       "pasa al frente",
+       ""
       ],
       [
        "apaguen los celulares",
        "turn off your phones",
        "",
-       "apaguen los celulares"
+       "apaguen los celulares",
+       ""
       ],
       [
        "esperen",
        "wait",
        "",
-       "esperen"
+       "esperen",
+       ""
       ],
       [
        "siéntate",
        "sit down (one student)",
        "",
-       "siéntate"
+       "siéntate",
+       ""
       ],
       [
        "ven",
        "come here (one student)",
        "",
-       "ven"
+       "ven",
+       ""
       ]
      ]
     },
@@ -24711,85 +26973,99 @@ window.COURSE = {
        "el director, la directora",
        "principal",
        "",
-       "el director, la directora"
+       "el director, la directora",
+       ""
       ],
       [
        "el subdirector",
        "vice principal",
        "",
-       "el subdirector"
+       "el subdirector",
+       ""
       ],
       [
        "el alumno, la alumna",
        "student",
        "",
-       "el alumno, la alumna"
+       "el alumno, la alumna",
+       ""
       ],
       [
        "el orientador, la orientadora",
        "counselor",
        "💡 Mexico; 🌎 consejero",
-       "el orientador, la orientadora"
+       "el orientador, la orientadora",
+       ""
       ],
       [
        "el intendente",
        "custodian",
        "💡 Mexico; 🌎 conserje",
-       "el intendente"
+       "el intendente",
+       ""
       ],
       [
        "la enfermera",
        "nurse",
        "",
-       "la enfermera"
+       "la enfermera",
+       ""
       ],
       [
        "el bibliotecario",
        "librarian",
        "",
-       "el bibliotecario"
+       "el bibliotecario",
+       ""
       ],
       [
        "los padres de familia",
        "parents",
        "",
-       "los padres de familia"
+       "los padres de familia",
+       ""
       ],
       [
        "el grupo",
        "class, homeroom",
        "💡 Mexico: el grupo 3°B",
-       "el grupo"
+       "el grupo",
+       ""
       ],
       [
        "la dirección",
        "principal's office",
        "",
-       "la dirección"
+       "la dirección",
+       ""
       ],
       [
        "la sala de maestros",
        "teachers' lounge",
        "",
-       "la sala de maestros"
+       "la sala de maestros",
+       ""
       ],
       [
        "la cafetería",
        "cafeteria",
        "",
-       "la cafetería"
+       "la cafetería",
+       ""
       ],
       [
        "la enfermería",
        "nurse's office",
        "",
-       "la enfermería"
+       "la enfermería",
+       ""
       ],
       [
        "el patio",
        "schoolyard",
        "",
-       "el patio"
+       "el patio",
+       ""
       ]
      ]
     },
@@ -24801,121 +27077,141 @@ window.COURSE = {
        "la tarea",
        "homework",
        "",
-       "la tarea"
+       "la tarea",
+       ""
       ],
       [
        "el proyecto",
        "project",
        "",
-       "el proyecto"
+       "el proyecto",
+       ""
       ],
       [
        "el examen",
        "test",
        "",
-       "el examen"
+       "el examen",
+       ""
       ],
       [
        "la prueba",
        "quiz",
        "",
-       "la prueba"
+       "la prueba",
+       ""
       ],
       [
        "la calificación",
        "grade",
        "",
-       "la calificación"
+       "la calificación",
+       ""
       ],
       [
        "el promedio",
        "average",
        "",
-       "el promedio"
+       "el promedio",
+       ""
       ],
       [
        "entregar",
        "to turn in",
        "",
-       "entregar"
+       "entregar",
+       ""
       ],
       [
        "la fecha de entrega",
        "due date",
        "",
-       "la fecha de entrega"
+       "la fecha de entrega",
+       ""
       ],
       [
        "los puntos extra",
        "extra credit",
        "",
-       "los puntos extra"
+       "los puntos extra",
+       ""
       ],
       [
        "la boleta",
        "report card",
        "💡 Mexico; 🌎 libreta de calificaciones",
-       "la boleta"
+       "la boleta",
+       ""
       ],
       [
        "la asistencia",
        "attendance",
        "",
-       "la asistencia"
+       "la asistencia",
+       ""
       ],
       [
        "la falta",
        "absence",
        "",
-       "la falta"
+       "la falta",
+       ""
       ],
       [
        "el retardo",
        "tardy",
        "💡 Mexico",
-       "el retardo"
+       "el retardo",
+       ""
       ],
       [
        "el semestre",
        "semester",
        "",
-       "el semestre"
+       "el semestre",
+       ""
       ],
       [
        "la rúbrica",
        "rubric",
        "",
-       "la rúbrica"
+       "la rúbrica",
+       ""
       ],
       [
        "revisar",
        "to check",
        "",
-       "revisar"
+       "revisar",
+       ""
       ],
       [
        "corregir",
        "to correct",
        "",
-       "corregir"
+       "corregir",
+       ""
       ],
       [
        "la respuesta correcta",
        "right answer",
        "",
-       "la respuesta correcta"
+       "la respuesta correcta",
+       ""
       ],
       [
        "la respuesta incorrecta",
        "wrong answer",
        "",
-       "la respuesta incorrecta"
+       "la respuesta incorrecta",
+       ""
       ],
       [
        "sacar un diez",
        "to get a perfect score",
        "💡 Mexico grades go up to 10",
-       "sacar un diez"
+       "sacar un diez",
+       ""
       ]
      ]
     }
@@ -25344,109 +27640,127 @@ window.COURSE = {
        "¡Muy bien!",
        "Very good!",
        "",
-       "¡Muy bien!"
+       "¡Muy bien!",
+       ""
       ],
       [
        "¡Excelente!",
        "Excellent!",
        "",
-       "¡Excelente!"
+       "¡Excelente!",
+       ""
       ],
       [
        "¡Buen trabajo!",
        "Good work!",
        "",
-       "¡Buen trabajo!"
+       "¡Buen trabajo!",
+       ""
       ],
       [
        "¡Bien hecho!",
        "Well done!",
        "",
-       "¡Bien hecho!"
+       "¡Bien hecho!",
+       ""
       ],
       [
        "¡Eso es!",
        "That's it!",
        "",
-       "¡Eso es!"
+       "¡Eso es!",
+       ""
       ],
       [
        "¡Así se hace!",
        "That's how it's done!",
        "",
-       "¡Así se hace!"
+       "¡Así se hace!",
+       ""
       ],
       [
        "¡Casi!",
        "Almost!",
        "",
-       "¡Casi!"
+       "¡Casi!",
+       ""
       ],
       [
        "¡Tú puedes!",
        "You can do it!",
        "",
-       "¡Tú puedes!"
+       "¡Tú puedes!",
+       ""
       ],
       [
        "¡Sigue así!",
        "Keep it up!",
        "",
-       "¡Sigue así!"
+       "¡Sigue así!",
+       ""
       ],
       [
        "¡Vas muy bien!",
        "You're doing great!",
        "",
-       "¡Vas muy bien!"
+       "¡Vas muy bien!",
+       ""
       ],
       [
        "¡Qué buena pregunta!",
        "What a good question!",
        "",
-       "¡Qué buena pregunta!"
+       "¡Qué buena pregunta!",
+       ""
       ],
       [
        "¡Lo lograste!",
        "You did it!",
        "",
-       "¡Lo lograste!"
+       "¡Lo lograste!",
+       ""
       ],
       [
        "¡Échale ganas!",
        "Give it your all!",
        "💡 Mexico",
-       "¡Échale ganas!"
+       "¡Échale ganas!",
+       ""
       ],
       [
        "estoy orgulloso de ti",
        "I'm proud of you",
        "",
-       "estoy orgulloso de ti"
+       "estoy orgulloso de ti",
+       ""
       ],
       [
        "inténtalo otra vez",
        "try again",
        "",
-       "inténtalo otra vez"
+       "inténtalo otra vez",
+       ""
       ],
       [
        "no te preocupes",
        "don't worry",
        "",
-       "no te preocupes"
+       "no te preocupes",
+       ""
       ],
       [
        "está bien equivocarse",
        "it's OK to make mistakes",
        "",
-       "está bien equivocarse"
+       "está bien equivocarse",
+       ""
       ],
       [
        "poco a poco",
        "little by little",
        "",
-       "poco a poco"
+       "poco a poco",
+       ""
       ]
      ]
     },
@@ -25458,97 +27772,113 @@ window.COURSE = {
        "te recomiendo que…",
        "I recommend that you…",
        "💡 + subjunctive",
-       "te recomiendo que"
+       "te recomiendo que",
+       ""
       ],
       [
        "te sugiero que…",
        "I suggest that you…",
        "",
-       "te sugiero que"
+       "te sugiero que",
+       ""
       ],
       [
        "es importante que…",
        "it's important that…",
        "",
-       "es importante que"
+       "es importante que",
+       ""
       ],
       [
        "es mejor que…",
        "it's better that…",
        "",
-       "es mejor que"
+       "es mejor que",
+       ""
       ],
       [
        "deberías…",
        "you should…",
        "",
-       "deberías"
+       "deberías",
+       ""
       ],
       [
        "tienes que…",
        "you have to…",
        "",
-       "tienes que"
+       "tienes que",
+       ""
       ],
       [
        "hay que…",
        "you have to, one must…",
        "",
-       "hay que"
+       "hay que",
+       ""
       ],
       [
        "¿Por qué no…?",
        "Why don't you…?",
        "",
-       "¿Por qué no?"
+       "¿Por qué no?",
+       ""
       ],
       [
        "si yo fuera tú…",
        "if I were you…",
        "",
-       "si yo fuera tú"
+       "si yo fuera tú",
+       ""
       ],
       [
        "ojalá que…",
        "I hope that…",
        "",
-       "ojalá que"
+       "ojalá que",
+       ""
       ],
       [
        "espero que…",
        "I hope that…",
        "",
-       "espero que"
+       "espero que",
+       ""
       ],
       [
        "asegúrate de…",
        "make sure to…",
        "",
-       "asegúrate de"
+       "asegúrate de",
+       ""
       ],
       [
        "no olvides…",
        "don't forget…",
        "",
-       "no olvides"
+       "no olvides",
+       ""
       ],
       [
        "acuérdate de…",
        "remember to…",
        "",
-       "acuérdate de"
+       "acuérdate de",
+       ""
       ],
       [
        "ten cuidado con…",
        "be careful with…",
        "",
-       "ten cuidado con"
+       "ten cuidado con",
+       ""
       ],
       [
        "nunca compartas…",
        "never share…",
        "",
-       "nunca compartas"
+       "nunca compartas",
+       ""
       ]
      ]
     },
@@ -25560,97 +27890,113 @@ window.COURSE = {
        "atento, atenta",
        "attentive",
        "",
-       "atento, atenta"
+       "atento, atenta",
+       ""
       ],
       [
        "distraído, distraída",
        "distracted",
        "",
-       "distraído, distraída"
+       "distraído, distraída",
+       ""
       ],
       [
        "participativo, participativa",
        "participates a lot",
        "",
-       "participativo, participativa"
+       "participativo, participativa",
+       ""
       ],
       [
        "callado, callada",
        "quiet",
        "",
-       "callado, callada"
+       "callado, callada",
+       ""
       ],
       [
        "platicador, platicadora",
        "chatty",
        "💡 Mexico",
-       "platicador, platicadora"
+       "platicador, platicadora",
+       ""
       ],
       [
        "respetuoso, respetuosa",
        "respectful",
        "",
-       "respetuoso, respetuosa"
+       "respetuoso, respetuosa",
+       ""
       ],
       [
        "puntual",
        "punctual",
        "",
-       "puntual"
+       "puntual",
+       ""
       ],
       [
        "responsable",
        "responsible",
        "",
-       "responsable"
+       "responsable",
+       ""
       ],
       [
        "motivado, motivada",
        "motivated",
        "",
-       "motivado, motivada"
+       "motivado, motivada",
+       ""
       ],
       [
        "frustrado, frustrada",
        "frustrated",
        "",
-       "frustrado, frustrada"
+       "frustrado, frustrada",
+       ""
       ],
       [
        "seguro de sí mismo",
        "self-confident",
        "",
-       "seguro de sí mismo"
+       "seguro de sí mismo",
+       ""
       ],
       [
        "se porta bien",
        "behaves well",
        "",
-       "se porta bien"
+       "se porta bien",
+       ""
       ],
       [
        "se porta mal",
        "misbehaves",
        "",
-       "se porta mal"
+       "se porta mal",
+       ""
       ],
       [
        "copiar",
        "to copy; to cheat",
        "",
-       "copiar"
+       "copiar",
+       ""
       ],
       [
        "hacer trampa",
        "to cheat",
        "",
-       "hacer trampa"
+       "hacer trampa",
+       ""
       ],
       [
        "echar relajo",
        "to goof around",
        "💡 Mexico",
-       "echar relajo"
+       "echar relajo",
+       ""
       ]
      ]
     },
@@ -25662,85 +28008,99 @@ window.COURSE = {
        "la junta de padres",
        "parent meeting",
        "💡 Mexico; 🌎 reunión de padres",
-       "la junta de padres"
+       "la junta de padres",
+       ""
       ],
       [
        "el comportamiento",
        "behavior",
        "",
-       "el comportamiento"
+       "el comportamiento",
+       ""
       ],
       [
        "el progreso",
        "progress",
        "",
-       "el progreso"
+       "el progreso",
+       ""
       ],
       [
        "su hijo va muy bien",
        "your son is doing very well",
        "",
-       "su hijo va muy bien"
+       "su hijo va muy bien",
+       ""
       ],
       [
        "necesita mejorar en…",
        "needs to improve in…",
        "",
-       "necesita mejorar en"
+       "necesita mejorar en",
+       ""
       ],
       [
        "le falta entregar…",
        "still has to turn in…",
        "",
-       "le falta entregar"
+       "le falta entregar",
+       ""
       ],
       [
        "le mando un correo",
        "I'll send you an email",
        "",
-       "le mando un correo"
+       "le mando un correo",
+       ""
       ],
       [
        "¿Tiene alguna pregunta?",
        "Do you have any questions?",
        "",
-       "¿Tiene alguna pregunta?"
+       "¿Tiene alguna pregunta?",
+       ""
       ],
       [
        "gracias por venir",
        "thank you for coming",
        "",
-       "gracias por venir"
+       "gracias por venir",
+       ""
       ],
       [
        "el apoyo en casa",
        "support at home",
        "",
-       "el apoyo en casa"
+       "el apoyo en casa",
+       ""
       ],
       [
        "firmar",
        "to sign",
        "",
-       "firmar"
+       "firmar",
+       ""
       ],
       [
        "la firma",
        "signature",
        "",
-       "la firma"
+       "la firma",
+       ""
       ],
       [
        "el aviso",
        "notice",
        "",
-       "el aviso"
+       "el aviso",
+       ""
       ],
       [
        "el permiso",
        "permission slip",
        "",
-       "el permiso"
+       "el permiso",
+       ""
       ]
      ]
     }

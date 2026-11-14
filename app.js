@@ -568,25 +568,63 @@ function drillModes(D) {
   };
 }
 
-// 📖 Words: themed word lists for the week (words.py) — 🔊, ➕, hide-English self-test and a quick quiz per list
+// 📖 Words: themed word lists for the week (words.py) as cards — 🔊, ➕, filter, hide-English self-test and a quiz per list
+const ARTICLE = /^(el|la|los|las)\s+(.+)$/i;
+function wordCard([es, en, note, clip], topic) {
+  const m = es.match(ARTICLE), g = m && /^(el|los)$/i.test(m[1]) ? 'm' : 'f';
+  const word = m ? `<span class="art ${g}">${esc(m[1])}</span> ${esc(m[2])}` : esc(es);
+  const pills = (note ? note.split(' · ') : []).map(n =>
+    `<span class="pill ${n.startsWith('🌎') ? 'latam' : n.startsWith('🇪🇸') ? 'spain' : 'tip'}">${esc(n)}</span>`).join('');
+  return `<div class="wcard" data-f="${attr(fold([es, en, note].join(' ')))}">
+    <div class="es">${word} ${sayBtn(clip)}</div><div class="en">${esc(en)}</div>${pills ? `<div class="pills">${pills}</div>` : ''}
+    <button class="add vault-only" data-es="${attr(clip)}" data-en="${attr(en)}" data-topic="${attr(topic)}" title="Add to my Vocab">➕</button></div>`;
+}
+function wordGrid(rows, topic) {
+  let group = null, html = '';
+  for (const r of rows) {
+    if (r[4] !== group && (group = r[4])) html += `<h3 class="wgroup">${esc(group)}</h3>`;
+    html += wordCard(r, topic);
+  }
+  return `<div class="wgrid">${html}</div>`;
+}
 function wordsPane(pane, w) {
   const S = w.words, topic = `Week ${w.week} words`;
-  const row = ([es, en, note, clip]) => `<tr><td><strong>${esc(es)}</strong> ${sayBtn(clip)}</td><td class="en">${esc(en)}${note ? `<div class="note">${esc(note)}</div>` : ''}</td>
-    <td><button class="add vault-only" data-es="${attr(clip)}" data-en="${attr(en)}" data-topic="${attr(topic)}" title="Add to my Vocab">➕</button></td></tr>`;
-  pane.innerHTML = `<p class="muted">${S.reduce((a, s) => a + s.rows.length, 0)} words in ${S.length} lists. Mexican Spanish first: 🌎 = what other Latin American countries say, 🇪🇸 = Spain, 💡 = tip.
-      <span class="vault-only">➕ copies a word into My Notes/Vocab.md.</span></p>
-    <div class="row"><label class="chip" style="cursor:pointer"><input type="checkbox" id="hide-en"> 🙈 Hide English (tap to peek)</label></div>
-    <div id="wsets">${S.map((s, i) => `<button class="chip" data-go="${i}">${esc(s.title)}</button>`).join(' ')}</div>
-    <div class="prose">${S.map((s, i) => `<h2 id="ws-${i}">${esc(s.title)} <span class="muted" style="font-size:.8rem;font-weight:400">${s.rows.length}</span></h2>
-      <div class="row"><button class="btn ghost" data-quiz="${i}">🎲 Quiz me</button>${s.bank ? `<a class="btn ghost vault-only" href="#/vocab/${s.bank}">📚 More in the Vocabulary Bank</a>` : ''}</div>
-      <div class="wquiz" id="wq-${i}"></div>
-      <table class="vocab words"><thead><tr><th>Español</th><th>English</th><th></th></tr></thead><tbody>${s.rows.map(row).join('')}</tbody></table>`).join('')}</div>`;
+  pane.innerHTML = `<p class="muted wintro">${S.reduce((a, s) => a + s.rows.length, 0)} words in ${S.length} lists. Mexican Spanish first —
+      <span class="pill latam">🌎 other Latin America</span> <span class="pill spain">🇪🇸 Spain</span> <span class="pill tip">💡 tip</span>
+      <span class="art m">el / los</span> <span class="art f">la / las</span></p>
+    <div class="wbar">
+      <div class="wtools"><input type="search" id="wfilter" placeholder="Filter: fruit, mango, spicy…">
+        <label class="chip"><input type="checkbox" id="hide-en"> 🙈 Hide English</label></div>
+      <div id="wsets">${S.map((s, i) => `<button class="chip" data-go="${i}">${esc(s.title)}</button>`).join('')}</div>
+    </div>
+    ${S.map((s, i) => `<section class="wsec" id="ws-${i}">
+      <div class="wsec-head"><h2>${esc(s.title)} <span class="count">${s.rows.length} words</span></h2>
+        <div class="wsec-btns"><button class="btn ghost" data-quiz="${i}">🎲 Quiz me</button>${s.bank ? `<a class="btn ghost vault-only" href="#/vocab/${s.bank}">📚 Vocabulary Bank</a>` : ''}</div></div>
+      <div class="wquiz" id="wq-${i}"></div>${wordGrid(s.rows, topic)}</section>`).join('')}
+    <p class="muted" id="wnone" hidden>No words match.</p>`;
   pane.querySelector('#hide-en').onchange = e => pane.classList.toggle('hide-en', e.target.checked);
+  pane.querySelector('#wfilter').oninput = e => {
+    const q = fold(e.target.value.trim());
+    let any = false;
+    pane.querySelectorAll('.wsec').forEach(sec => {
+      let shown = 0, head = null, headShown = 0;
+      const closeGroup = () => { if (head) head.hidden = !headShown; };
+      for (const el of sec.querySelector('.wgrid').children) {
+        if (el.tagName === 'H3') { closeGroup(); head = el; headShown = 0; continue; }
+        el.hidden = !!q && !el.dataset.f.includes(q);
+        if (!el.hidden) { shown++; headShown++; }
+      }
+      closeGroup();
+      sec.hidden = !shown;
+      any ||= !!shown;
+    });
+    pane.querySelector('#wnone').hidden = any;
+  };
   pane.onclick = e => {
-    const go = e.target.closest('[data-go]'), qz = e.target.closest('[data-quiz]'), en = e.target.closest('td.en');
+    const go = e.target.closest('[data-go]'), qz = e.target.closest('[data-quiz]'), card = e.target.closest('.wcard');
     if (go) document.getElementById('ws-' + go.dataset.go).scrollIntoView({ behavior: 'smooth' });
     else if (qz) wordQuiz(document.getElementById('wq-' + qz.dataset.quiz), S[+qz.dataset.quiz].rows);
-    else if (en && pane.classList.contains('hide-en')) en.classList.toggle('peek');
+    else if (card && pane.classList.contains('hide-en') && !e.target.closest('button')) card.classList.toggle('peek');
   };
 }
 

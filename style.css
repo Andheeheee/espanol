@@ -162,14 +162,48 @@ button.add { border: 0; background: none; cursor: pointer; font-size: 1rem; padd
 .vocab th:nth-child(3), .vocab td:nth-child(3) { width: 2.4em; padding-left: 4px; padding-right: 4px; text-align: center; }
 .vocab.search th:nth-child(4), .vocab.search td:nth-child(4) { width: 28%; font-size: .85rem; }
 
-/* 📖 Words tab */
-#wsets { margin: 8px 0 4px; display: flex; flex-wrap: wrap; gap: 6px; }
-#wsets .chip { cursor: pointer; font: inherit; font-size: .8rem; }
+/* 📖 Words tab — word cards */
+:root { --masc: #1d4ed8; --masc-soft: #dbeafe; --fem: #be185d; --fem-soft: #fce7f3; --latam-soft: #e0f2fe; --spain-soft: #fef3c7; }
+@media (prefers-color-scheme: dark) {
+  :root { --masc: #93c5fd; --masc-soft: #172554; --fem: #f9a8d4; --fem-soft: #4a1630; --latam-soft: #0c2d3f; --spain-soft: #3a3010; }
+}
+.wintro { line-height: 2; }
+.wbar { position: sticky; top: 57px; z-index: 4; background: var(--bg); padding: 10px 0 8px; margin: 0 0 8px; border-bottom: 1px solid var(--line); }
+.wtools { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.wtools input[type=search] { flex: 1 1 200px; min-width: 0; padding: 8px 12px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); color: var(--ink); font: inherit; }
+.wtools .chip { cursor: pointer; font-size: .85rem; padding: 6px 12px; }
+#wsets { margin-top: 8px; display: flex; gap: 6px; overflow-x: auto; scrollbar-width: thin; padding-bottom: 2px; }
+#wsets .chip { cursor: pointer; font: inherit; font-size: .85rem; padding: 4px 12px; white-space: nowrap; flex: none; }
 #wsets .chip:hover { color: var(--accent); border-color: var(--accent); }
-.vocab .note { font-size: .8rem; color: var(--muted); margin-top: 2px; }
-.hide-en td.en { cursor: pointer; }
-.hide-en td.en:not(.peek) > * , .hide-en td.en:not(.peek) { color: transparent; text-shadow: 0 0 8px var(--muted); }
-.wquiz .card { margin: 8px 0 12px; }
+.wsec { scroll-margin-top: 170px; margin-top: 28px; }
+.wsec-head { display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 10px; }
+.wsec-head h2 { margin: 0; font-size: 1.35rem; }
+.wsec-head .count { font-size: .8rem; font-weight: 400; color: var(--muted); margin-left: 4px; }
+.wsec-btns { display: flex; gap: 8px; flex-wrap: wrap; }
+.wsec-btns .btn { padding: 6px 12px; font-size: .9rem; }
+.wgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 10px; }
+.wgroup { grid-column: 1 / -1; margin: 14px 0 0; font-size: .8rem; text-transform: uppercase; letter-spacing: .07em; color: var(--accent); border-bottom: 1px solid var(--line); padding-bottom: 4px; }
+.wgroup:first-child { margin-top: 0; }
+.wcard { position: relative; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 12px 40px 12px 14px; display: flex; flex-direction: column; gap: 2px; transition: border-color .15s; }
+.wcard:hover { border-color: var(--accent); }
+.wcard .es { font-size: 1.08rem; font-weight: 650; line-height: 1.35; overflow-wrap: anywhere; }
+.wcard .es .play { vertical-align: middle; margin-left: 2px; }
+.wcard .en { color: var(--muted); font-size: .95rem; line-height: 1.4; }
+.wcard .pills { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 6px; }
+.wcard button.add { position: absolute; top: 10px; right: 8px; opacity: .55; }
+.wcard button.add:hover { opacity: 1; }
+.art { font-weight: 600; border-radius: 6px; padding: 0 5px; font-size: .9em; }
+.art.m { color: var(--masc); background: var(--masc-soft); }
+.art.f { color: var(--fem); background: var(--fem-soft); }
+.pill { display: inline-block; font-size: .76rem; line-height: 1.35; padding: 2px 8px; border-radius: 999px; color: var(--ink); }
+.pill.latam { background: var(--latam-soft); }
+.pill.spain { background: var(--spain-soft); }
+.pill.tip { background: var(--bg); border: 1px solid var(--line); color: var(--muted); }
+.hide-en .wcard { cursor: pointer; }
+.hide-en .wcard:not(.peek) .en, .hide-en .wcard:not(.peek) .pills { filter: blur(6px); user-select: none; }
+.wquiz .card { margin: 0 0 12px; }
+@media (max-width: 600px) { .wbar { top: 53px; } .wgrid { grid-template-columns: 1fr 1fr; gap: 8px; } .wcard { padding: 10px 30px 10px 12px; } }
+@media (max-width: 480px) { .wgrid { grid-template-columns: 1fr; } }
 
 /* Public copy: hide anything that saves to the Obsidian vault */
 body.public .vault-only, body.public .sync { display: none !important; }
