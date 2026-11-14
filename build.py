@@ -3878,8 +3878,13 @@ def word_list_note(w, sections):
     out = [f"# Words — {w['title']}", f"Themed word lists for [[{note_name(w)}]]. Mexican Spanish first; 🌎 = other Latin American countries, 🇪🇸 = Spain, 💡 = tip.",
            "On the site: open the week → **📖 Words** (🔊 audio, ➕ add to [[Vocab]], 🙈 hide English, 🎲 quiz).", ""]
     for sec in sections:
-        out += [f"## {sec['title']}", "| Español | English | Note |", "|---|---|---|"]
-        out += [f"| **{es}** | {en} | {note} |" for es, en, note, _ in sec["rows"]]
+        out.append(f"## {sec['title']}")
+        group = None
+        for es, en, note, _, g in sec["rows"]:
+            if g != group:
+                out += ([f"### {g}"] if g else []) + ["| Español | English | Note |", "|---|---|---|"]
+                group = g
+            out.append(f"| **{es}** | {en} | {note} |")
         out.append("")
     out.append("Back to [[Word Lists]]")
     return "\n".join(out)

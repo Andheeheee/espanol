@@ -1,7 +1,7 @@
 """Themed word lists for each week's 📖 Words tab — Mexican Spanish first.
 
 WORDS[week id] = [(section title, Vocabulary Bank folder id or "", block)]
-Each block line: Spanish | English | note (optional). Notes start with 🌎 (what other Latin American countries say),
+Each block line: Spanish | English | note (optional); a '## Name' line starts a subheading. Notes start with 🌎 (what other Latin American countries say),
 🇪🇸 (what Spain says) or 💡 (a tip). Checked against the Quizlet Vocabulary Bank for coverage, but written for Mexico.
 """
 WORDS = {}
@@ -134,6 +134,7 @@ el primero de enero | January 1st | 💡 only the 1st uses primero; then el dos,
 
 WORDS["nouns"] = [
 ("🍓 Fruit", "05", """
+## Everyday fruit
 la fruta | fruit |
 la manzana | apple |
 la pera | pear |
@@ -163,6 +164,7 @@ el higo | fig |
 la granada | pomegranate |
 el coco | coconut |
 el kiwi | kiwi |
+## Tropical & Mexican favorites
 la guayaba | guava |
 la tuna | prickly pear (cactus fruit) | 🇪🇸 higo chumbo
 la pitaya | dragon fruit | 🌎 pitahaya
@@ -178,10 +180,12 @@ la carambola | starfruit |
 el nanche | nance (small yellow fruit) |
 el tejocote | Mexican hawthorn | 💡 goes in ponche at Christmas
 la jícama | jicama | 💡 eaten raw with lime and chile
+## From other countries
 el lulo | lulo, naranjilla | 🌎 Colombia, Ecuador — not common in Mexico
 la uchuva | goldenberry | 🌎 Colombia — not common in Mexico
 el marañón | cashew fruit | 🌎 Central America, Venezuela
 el mamoncillo | Spanish lime | 🌎 Caribbean, Colombia — not common in Mexico
+## Talking about fruit
 maduro, madura | ripe |
 verde | unripe; green |
 pelar | to peel |
@@ -298,33 +302,12 @@ la nuez | walnut; pecan |
 la almendra | almond |
 """),
 ("🌮 Mexican dishes", "", """
+## Tacos & meats
 el taco | taco |
 los tacos al pastor | marinated pork tacos |
 las carnitas | slow-cooked pork |
 la barbacoa | slow-cooked beef or lamb |
 la birria | spiced goat or beef stew |
-la quesadilla | quesadilla | 💡 in Mexico City it may come without cheese — ask con queso
-la enchilada | enchilada |
-los chilaquiles | tortilla chips in salsa (breakfast) |
-el tamal | tamale | 💡 plural los tamales
-el pozole | hominy soup |
-el mole | mole sauce |
-la torta | sandwich on a roll | 🌎 a torta is a cake in Arg and Ven
-la gordita | thick stuffed corn cake |
-el sope | thick tortilla with toppings |
-el tlacoyo | oval stuffed masa cake |
-la tlayuda | big crispy Oaxacan tortilla |
-la tostada | crispy flat tortilla with toppings | 🇪🇸 in Spain tostada means toast
-la flauta | rolled fried taco |
-el chile relleno | stuffed poblano pepper |
-los frijoles refritos | refried beans |
-el guacamole | guacamole |
-el pico de gallo | fresh tomato salsa |
-el esquite | corn in a cup |
-la sopa de tortilla | tortilla soup |
-el ceviche | ceviche |
-el burrito | burrito | 💡 mostly a northern Mexico thing
-el antojito | street snack |
 los tacos de canasta | basket tacos (steamed) |
 los tacos de suadero | tacos of thin-cut beef | 💡 Mexico City
 los tacos de lengua | beef tongue tacos |
@@ -338,6 +321,18 @@ la machaca | dried shredded beef | 💡 northern Mexico
 el alambre | grilled meat with peppers, onion and cheese |
 el cabrito | roast kid goat | 💡 Monterrey
 la carne en su jugo | beef in its own broth | 💡 Guadalajara
+## Tortilla & masa dishes
+la quesadilla | quesadilla | 💡 in Mexico City it may come without cheese — ask con queso
+la enchilada | enchilada |
+los chilaquiles | tortilla chips in salsa (breakfast) |
+el tamal | tamale | 💡 plural los tamales
+la gordita | thick stuffed corn cake |
+el sope | thick tortilla with toppings |
+el tlacoyo | oval stuffed masa cake |
+la tlayuda | big crispy Oaxacan tortilla |
+la tostada | crispy flat tortilla with toppings | 🇪🇸 in Spain tostada means toast
+la flauta | rolled fried taco |
+el burrito | burrito | 💡 mostly a northern Mexico thing
 el huarache | long oval masa base with toppings |
 la chalupa | small fried tortilla with salsa | 💡 Puebla
 la memela | oval masa cake with beans | 💡 Oaxaca, Puebla
@@ -348,14 +343,20 @@ las entomatadas | tortillas in tomato sauce |
 las enmoladas | tortillas in mole |
 las enchiladas suizas | enchiladas in creamy green sauce |
 la empanada | turnover |
+## Tortas & bread
+la torta | sandwich on a roll | 🌎 a torta is a cake in Arg and Ven
 el pambazo | chile-dipped sandwich with potato and chorizo |
 la guajolota | tamale inside a bread roll | 💡 Mexico City
 la torta ahogada | "drowned" sandwich in salsa | 💡 Guadalajara
 los molletes | open roll with beans and melted cheese |
+## Breakfast eggs
 los huevos rancheros | fried eggs on tortillas with salsa |
 los huevos a la mexicana | scrambled eggs with tomato, onion and chile |
 los huevos divorciados | two eggs with red and green salsa |
 los huevos motuleños | eggs on tortillas with beans, ham and peas | 💡 Yucatán
+## Soups & stews
+el pozole | hominy soup |
+la sopa de tortilla | tortilla soup |
 el menudo | tripe soup | 💡 Mexico City says la pancita
 el caldo de pollo | chicken soup |
 el caldo de res | beef and vegetable soup |
@@ -364,14 +365,22 @@ la sopa de lima | lime soup | 💡 Yucatán
 la sopa de fideo | noodle soup |
 el consomé | broth (served with birria, barbacoa) |
 el mole de olla | beef and vegetable stew |
-el arroz rojo | Mexican red rice | 💡 also arroz a la mexicana
-los frijoles charros | cowboy beans with pork |
-los frijoles de la olla | whole pot beans |
+## Seafood
+el ceviche | ceviche |
 el aguachile | raw shrimp in lime and chile | 💡 Sinaloa
 el coctel de camarón | shrimp cocktail |
 el pescado a la veracruzana | fish with tomato, olives and capers |
 el pescado zarandeado | grilled butterflied fish | 💡 Nayarit, Sinaloa
 los camarones a la diabla | shrimp in spicy red sauce |
+## Moles, salsas & sides
+el mole | mole sauce |
+el chile relleno | stuffed poblano pepper |
+los frijoles refritos | refried beans |
+el guacamole | guacamole |
+el pico de gallo | fresh tomato salsa |
+el arroz rojo | Mexican red rice | 💡 also arroz a la mexicana
+los frijoles charros | cowboy beans with pork |
+los frijoles de la olla | whole pot beans |
 los chiles en nogada | stuffed chiles in walnut sauce | 💡 Puebla, in September
 las rajas con crema | poblano strips in cream |
 el pipián | pumpkin-seed sauce |
@@ -381,6 +390,9 @@ la ensalada de nopales | cactus salad |
 la salsa verde | green salsa |
 la salsa roja | red salsa |
 la salsa macha | chile oil salsa |
+## Street snacks
+el esquite | corn in a cup |
+el antojito | street snack |
 los chicharrones de harina | wheat crisps with hot sauce |
 los tostilocos | loaded tortilla-chip snack |
 la fruta con chile | fruit with lime and chile powder |
@@ -2621,11 +2633,18 @@ el permiso | permission slip |
 
 
 def words_data(clip):
-    """{week id: [{"title", "bank", "rows": [[es, en, note, clip text]]}]} for content.js."""
+    """{week id: [{"title", "bank", "rows": [[es, en, note, clip text, group]]}]} for content.js.
+    A '## Name' line in a block starts a subheading; the rows after it get that group."""
     out = {}
     for wid, sections in WORDS.items():
-        out[wid] = [{"title": t, "bank": bank, "rows": [
-            [es, en, note, clip(es)] for es, en, note in
-            ((p + ["", ""])[:3] for p in ([x.strip() for x in line.split("|")] for line in block.strip().splitlines()))]}
-            for t, bank, block in sections]
+        out[wid] = []
+        for t, bank, block in sections:
+            rows, group = [], ""
+            for line in block.strip().splitlines():
+                if line.startswith("## "):
+                    group = line[3:].strip()
+                    continue
+                es, en, note = ([x.strip() for x in line.split("|")] + ["", ""])[:3]
+                rows.append([es, en, note, clip(es), group])
+            out[wid].append({"title": t, "bank": bank, "rows": rows})
     return out
