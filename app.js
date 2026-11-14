@@ -570,9 +570,14 @@ function drillModes(D) {
 
 // 📖 Words: themed word lists for the week (words.py) as cards — 🔊, ➕, filter, hide-English self-test and a quiz per list
 const ARTICLE = /^(el|la|los|las)\s+(.+)$/i;
+const artWord = es => {
+  const parts = es.split('/');  // "el mesero/la mesera": colour both articles
+  if (parts.length > 1 && parts.every(x => ARTICLE.test(x.trim()))) return parts.map(x => artWord(x.trim())).join(' / ');
+  const m = es.match(ARTICLE);
+  return m ? `<span class="art ${/^(el|los)$/i.test(m[1]) ? 'm' : 'f'}">${esc(m[1])}</span> ${esc(m[2])}` : esc(es);
+};
 function wordCard([es, en, note, clip], topic) {
-  const m = es.match(ARTICLE), g = m && /^(el|los)$/i.test(m[1]) ? 'm' : 'f';
-  const word = m ? `<span class="art ${g}">${esc(m[1])}</span> ${esc(m[2])}` : esc(es);
+  const word = artWord(es);
   const pills = (note ? note.split(' · ') : []).map(n =>
     `<span class="pill ${n.startsWith('🌎') ? 'latam' : n.startsWith('🇪🇸') ? 'spain' : 'tip'}">${esc(n)}</span>`).join('');
   return `<div class="wcard" data-f="${attr(fold([es, en, note].join(' ')))}">
@@ -889,31 +894,35 @@ const LATAM_TAG = /^(.*\((?:L\.A\.|Mex|Ven|Col)\))[.,]?\s*(.*?)\s*\(Sp\)$/;  // 
 // What the voice reads: drop notes in brackets like (MX) or (L.A.) and read "caro/cara" as "caro, cara"
 const spoken = s => s.replace(/\((s|es)\)/g, '$1').replace(/\([^)]*\)/g, ', ').replace(/[\/;]|\.\.\./g, ', ').replace(/\s+/g, ' ').replace(/(\s*,\s*)+/g, ', ').replace(/^[\s,]+|[\s,]+$/g, '');
 
-// One table row. w = [English, Spanish, what to say instead (only for Spain-only words)]
-function vocabRow(w, topic) {
+// One Vocabulary Bank word, w = [English, Spanish, what to say instead, "spain"|"also"], sorted out for display:
+// es = the word to learn (Latin American first), other = the Spain-side word Quizlet gave, if any. null-safe for odd rows.
+function bankWord(w) {
   const [en, es, instead, kind] = w;
-  // The Spain-side word: 🇪🇸 with a Spain voice when it's Spain-only, 🌎 with the Mexican voice when Latin America uses it too
-  const other = word => {
-    if (/^— vulgar/.test(instead || '')) return `<span class="muted">${esc(word)}</span> ${sayBtn(spoken(word), 'es-ES')} <span class="chip">🇪🇸 Spain</span> <span class="chip">🔞 vulgar</span>`;
-    return kind === 'also'
-      ? `<span class="muted">${esc(word)}</span> ${sayBtn(spoken(word))} <span class="chip on">🌎 also Latin America</span>`
-      : `<span class="muted">${esc(word)}</span> ${sayBtn(spoken(word), 'es-ES')} <span class="chip">🇪🇸 Spain</span>` + (/\bcoger\b/.test(word) ? ' <span class="chip">⚠️ rude in Mexico</span>' : '');
-  };
-  let spanish = esc(es), add = es;
-  const m = !instead && es.match(LATAM_TAG);
+  if (/^— vulgar/.test(instead || '')) return { es, en, clip: spoken(es), lang: 'es-ES', vulgar: true, add: '' };
   if (instead) {
-    add = instead.startsWith('—') ? '' : instead.replace(/\s*\(.*$/, '');
-    spanish = `<strong>${esc(instead)}</strong>${add ? ' ' + sayBtn(spoken(instead)) : ''}<br>${other(es)}`;
-  } else if (m) {
-    add = spoken(m[1]);
-    spanish = `${esc(m[1])} ${sayBtn(add)}<br>${other(m[2])}`;
-  } else if (spoken(es)) {
-    spanish += ' ' + sayBtn(spoken(es));
+    const add = instead.replace(/\s*\(.*$/, '');
+    return { es: instead, en, clip: spoken(instead), other: es, kind: kind === 'also' ? 'also' : 'spain', rude: /\bcoger\b/.test(es), add };
   }
-  const btn = add ? `<button class="add" data-es="${attr(add)}" data-en="${attr(en)}" data-topic="${attr(topic)}" title="Add to my Vocab">➕</button>` : '';
-  return `<tr><td>${btn}${spanish}</td><td>${esc(en)}</td></tr>`;  // ➕ floats right inside the Spanish cell
+  const m = es.match(LATAM_TAG);
+  if (m) return { es: m[1], en, clip: spoken(m[1]), other: m[2], kind: 'spain', add: spoken(m[1]) };
+  return { es, en, clip: spoken(es), add: es };
 }
-const vocabTable = (rows, topic) => `<table class="vocab"><thead><tr><th>Español</th><th>English</th></tr></thead><tbody>${rows.map(w => vocabRow(w, topic)).join('')}</tbody></table>`;
+const today = () => new Date().toLocaleDateString('en-CA');  // YYYY-MM-DD, local time
+const isKnown = b => ((state && state.flash) || {})[b.es]?.box >= 2;
+
+function bankCard(w, topic, extra = '') {
+  const b = bankWord(w), pills = [];
+  if (b.other) pills.push(b.kind === 'also'
+    ? `<span class="pill latam">🌎 also Latin America: ${esc(b.other)} ${sayBtn(spoken(b.other))}</span>`
+    : `<span class="pill spain">🇪🇸 Spain: ${esc(b.other)} ${sayBtn(spoken(b.other), 'es-ES')}</span>`);
+  if (b.vulgar) pills.push('<span class="pill spain">🇪🇸 Spain</span><span class="pill tip">🔞 vulgar</span>');
+  if (b.rude) pills.push('<span class="pill tip">⚠️ rude in Mexico</span>');
+  if (isKnown(b)) pills.push('<span class="pill known">✅ known</span>');
+  const add = b.add ? `<button class="add vault-only" data-es="${attr(b.add)}" data-en="${attr(b.en)}" data-topic="${attr(topic)}" title="Add to my Vocab">➕</button>` : '';
+  return `<div class="wcard${b.vulgar ? ' dim' : ''}"><div class="es">${artWord(b.es)} ${sayBtn(b.clip, b.lang)}</div><div class="en">${esc(b.en)}</div>
+    ${pills.length || extra ? `<div class="pills">${pills.join('')}${extra}</div>` : ''}${add}</div>`;
+}
+const bankGrid = (words, topic) => `<div class="wgrid">${words.map(w => bankCard(w, topic)).join('')}</div>`;
 
 app.addEventListener('click', e => {
   const b = e.target.closest('button.add');
@@ -924,15 +933,18 @@ async function vocab(id) {
   app.innerHTML = '<p class="muted">Loading vocabulary…</p>';
   let Q;
   try { Q = await loadQuizlet(); } catch { app.innerHTML = '<p>Couldn\'t load the vocabulary list.</p>'; return; }
-  const total = Q.reduce((a, f) => a + f.sets.reduce((b, s) => b + s.words.length, 0), 0);
+  const count = f => f.sets.reduce((a, s) => a + s.words.length, 0);
+  const total = Q.reduce((a, f) => a + count(f), 0);
   const f = Q.find(f => f.id === id);
-  const head = `<p class="muted" style="font-size:.9rem">From the Quizlet class “Mastering Spanish Vocabulary”. Where Quizlet gives a Spain word, the Latin American word is in bold and the Spain one is underneath — 🇪🇸 Spain-only, or 🌎 also used in Latin America. ➕ copies a word into My Notes/Vocab.md.</p>
-    <input type="search" id="vq" placeholder="Search English or Spanish…" style="width:100%;margin:8px 0 4px">`;
+  const head = `<p class="muted wintro">From the Quizlet class “Mastering Spanish Vocabulary”. The Latin American word comes first —
+      <span class="pill spain">🇪🇸 Spain</span> or <span class="pill latam">🌎 also Latin America</span> shows the word Quizlet gave.
+      <span class="art m">el / los</span> <span class="art f">la / las</span><span class="vault-only"> · ➕ adds to My Notes/Vocab.md</span></p>
+    <div class="wtools"><input type="search" id="vq" placeholder="Search English or Spanish…"></div>`;
   if (!f) {
     app.innerHTML = `<div class="muted"><a href="#/">← Home</a></div><h1>📚 Vocabulary Bank</h1>${head}
       <div id="vres"></div>
       <div class="grid" id="vgrid">${Q.map(f => `<a class="card week-card" href="#/vocab/${f.id}">
-        <div class="num">${f.sets.reduce((a, s) => a + s.words.length, 0)} words</div><div class="t">${f.id}. ${esc(f.title)}</div></a>`).join('')}</div>
+        <div class="num">${count(f)} words</div><div class="t">${f.id}. ${esc(f.title)}</div></a>`).join('')}</div>
       <p class="muted" style="font-size:.9rem">${total.toLocaleString()} words in ${Q.length} topics.</p>`;
     const all = Q.flatMap(f => f.sets.flatMap(s => s.words.map(w => ({ w, f, key: fold(w.join(' ')) }))));
     document.getElementById('vq').oninput = e => {
@@ -940,31 +952,133 @@ async function vocab(id) {
       document.getElementById('vgrid').hidden = !!q;
       const hits = q ? all.filter(x => x.key.includes(q)) : [];
       document.getElementById('vres').innerHTML = !q ? '' : !hits.length ? '<p class="muted">No matches.</p>'
-        : `<div class="prose">${hits.length > 200 ? `<p class="muted">Showing 200 of ${hits.length} — keep typing to narrow it down.</p>` : ''}
-          <table class="vocab search"><thead><tr><th>Español</th><th>English</th><th>Topic</th></tr></thead><tbody>${hits.slice(0, 200).map(x =>
-            vocabRow(x.w, x.f.title).replace('</tr>', `<td><a href="#/vocab/${x.f.id}">${esc(x.f.title)}</a></td></tr>`)).join('')}</tbody></table></div>`;
+        : `${hits.length > 200 ? `<p class="muted">Showing 200 of ${hits.length} — keep typing to narrow it down.</p>` : ''}
+          <div class="wgrid">${hits.slice(0, 200).map(x => bankCard(x.w, x.f.title, `<a class="pill tip" href="#/vocab/${x.f.id}">${esc(x.f.title)}</a>`)).join('')}</div>`;
     };
     return;
   }
   const i = Q.indexOf(f), prev = Q[i - 1], next = Q[i + 1];
-  const sets = () => f.sets.map((s, k) => `<h2 id="set-${k}">${esc(s.title)}</h2>${vocabTable(s.words, f.title)}`).join('');
+  const summary = (s, k) => {
+    const words = s.words.map(bankWord), known = words.filter(isKnown).length;
+    return `<span class="vt">${esc(s.title)}</span>
+      <span class="vcount">${s.words.length} words${known ? ` · ✅ ${known} known` : ''}</span>
+      <button class="btn ghost" data-flash="${k}">🎴 Flashcards</button>`;
+  };
   app.innerHTML = `<div class="muted"><a href="#/">← Home</a> · <a href="#/vocab">📚 Vocabulary Bank</a></div>
     <h1>${f.id}. ${esc(f.title)}</h1>${head}
-    <div class="chips" id="vsets">${f.sets.map((s, k) => `<a class="chip" href="javascript:void 0" data-k="${k}">${esc(s.title)}</a>`).join('')}</div>
-    <div class="prose" id="vbody">${sets()}</div>
+    <div class="row vtop"><button class="btn" data-flash="all">🎴 Flashcards: whole topic</button>
+      <button class="btn ghost" id="vopen">Open all</button></div>
+    <div id="vres"></div>
+    <div id="vbody">${f.sets.map((s, k) => `<details class="vset" data-k="${k}"><summary>${summary(s, k)}</summary><div class="vgrid-slot"></div></details>`).join('')}</div>
     <div class="row" style="justify-content:space-between;margin-top:16px">
       ${prev ? `<a class="btn ghost" href="#/vocab/${prev.id}">← ${esc(prev.title)}</a>` : '<span></span>'}
       ${next ? `<a class="btn ghost" href="#/vocab/${next.id}">${esc(next.title)} →</a>` : ''}</div>`;
-  document.getElementById('vsets').onclick = e => {
-    const c = e.target.closest('[data-k]');
-    if (c) document.getElementById('set-' + c.dataset.k)?.scrollIntoView({ behavior: 'smooth' });
+  const body = document.getElementById('vbody');
+  const fill = d => { const slot = d.querySelector('.vgrid-slot'); if (!slot.innerHTML) slot.innerHTML = bankGrid(f.sets[+d.dataset.k].words, f.title); };
+  const refresh = () => body.querySelectorAll('.vset').forEach(d => {  // after flashcards: update ✅ counts and card badges
+    d.querySelector('summary').innerHTML = summary(f.sets[+d.dataset.k], d.dataset.k);
+    const slot = d.querySelector('.vgrid-slot');
+    if (slot.innerHTML) { slot.innerHTML = ''; fill(d); }
+  });
+  body.addEventListener('toggle', e => { if (e.target.open) fill(e.target); }, true);
+  app.querySelector('.vtop').onclick = body.onclick = e => {
+    const fb = e.target.closest('[data-flash]');
+    if (!fb) return;
+    e.preventDefault();  // a button inside <summary> would otherwise also open/close the set
+    const k = fb.dataset.flash;
+    k === 'all' ? flashcards(f.title, f.sets.flatMap(s => s.words), refresh) : flashcards(`${f.title} › ${f.sets[+k].title}`, f.sets[+k].words, refresh);
+  };
+  document.getElementById('vopen').onclick = e => {
+    const open = e.target.textContent === 'Open all';
+    body.querySelectorAll('.vset').forEach(d => { d.open = open; });
+    e.target.textContent = open ? 'Close all' : 'Open all';
   };
   document.getElementById('vq').oninput = e => {
     const q = fold(e.target.value.trim());
-    document.getElementById('vsets').hidden = !!q;
-    document.getElementById('vbody').innerHTML = !q ? sets()
-      : vocabTable(f.sets.flatMap(s => s.words).filter(w => fold(w.join(' ')).includes(q)), f.title);
+    body.hidden = !!q;
+    const hits = q ? f.sets.flatMap(s => s.words).filter(w => fold(w.join(' ')).includes(q)) : [];
+    document.getElementById('vres').innerHTML = !q ? '' : hits.length ? bankGrid(hits, f.title) : '<p class="muted">No matches.</p>';
   };
+}
+
+// 🎴 Flashcards: up to 20 cards, words that are due first. Tap (or Space) to flip, then "Still learning" / "I know it"
+// (keys 1 / 2, or swipe left / right). Missed cards come back once at the end of the round. Results go to the vault.
+function flashcards(title, words, onDone) {
+  const F = (state && state.flash) || {};
+  const pool = words.map(bankWord).filter(b => b && !b.vulgar);
+  const due = pool.filter(b => !F[b.es] || (F[b.es].due || '') <= today());
+  const deck = shuffle(due.length ? due : pool).slice(0, 20).map(b => ({ b, again: false }));
+  const results = new Map();
+  let i = 0, flipped = false, enFirst = false;
+  try { enFirst = localStorage.getItem('flash-en-first') === '1'; } catch {}
+  const ov = document.createElement('div');
+  ov.className = 'flash-ov';
+  ov.innerHTML = `<div class="flash-box" role="dialog" aria-label="Flashcards">
+    <div class="flash-top"><b>${esc(title)}</b><button class="fc-x" title="Close (Esc)">✕</button></div>
+    <div class="flash-bar"><div></div></div><div class="flash-n muted"></div>
+    <div class="fcard" tabindex="0"><div class="fin"><div class="face front"></div><div class="face back"></div></div></div>
+    <div class="fc-btns"><button class="btn ghost" data-r="0">😕 Still learning</button><button class="btn" data-r="1">✅ I know it</button></div>
+    <div class="flash-foot muted"><label><input type="checkbox" id="fc-en"${enFirst ? ' checked' : ''}> English first</label>
+      <span>Space flip · 1 still learning · 2 know it</span></div>
+    ${due.length ? '' : '<p class="muted" style="text-align:center;margin:4px 0 0">Nothing due — practicing the whole set.</p>'}</div>`;
+  document.body.appendChild(ov);
+  const $ = q => ov.querySelector(q), card = $('.fcard');
+  const sideEs = b => `<div class="big">${artWord(b.es)}</div>${sayBtn(b.clip)}`;
+  const sideEn = b => `<div class="big en">${esc(b.en)}</div>${b.other ? `<div class="pills"><span class="pill ${b.kind === 'also' ? 'latam' : 'spain'}">${b.kind === 'also' ? '🌎 also Latin America' : '🇪🇸 Spain'}: ${esc(b.other)}</span></div>` : ''}`;
+  const show = () => {
+    const { b } = deck[i];
+    flipped = false;
+    card.classList.remove('flipped', 'go-l', 'go-r');
+    $('.front').innerHTML = (enFirst ? sideEn(b) : sideEs(b)) + '<div class="hint">tap to flip</div>';
+    $('.back').innerHTML = enFirst ? sideEs(b) : sideEn(b);
+    $('.fc-btns').classList.remove('on');
+    $('.flash-n').textContent = `${i + 1} / ${deck.length}`;
+    $('.flash-bar div').style.width = `${100 * i / deck.length}%`;
+    card.focus({ preventScroll: true });
+  };
+  const flip = () => {
+    flipped = !flipped;
+    card.classList.toggle('flipped', flipped);
+    $('.fc-btns').classList.toggle('on', flipped);
+    if (flipped && enFirst) $('.back .play')?.click();  // hear the Spanish as it's revealed
+  };
+  const answer = known => {
+    if (!flipped) return;
+    const c = deck[i];
+    if (!results.has(c.b.es)) results.set(c.b.es, { es: c.b.es, en: c.b.en, known });  // first answer is what counts
+    if (!known && !c.again) deck.push({ b: c.b, again: true });
+    card.classList.add(known ? 'go-r' : 'go-l');
+    setTimeout(() => (++i < deck.length ? show() : finish()), 180);
+  };
+  const close = () => { document.removeEventListener('keydown', key); ov.remove(); };
+  const finish = async () => {
+    const r = [...results.values()], knew = r.filter(x => x.known).length, still = r.filter(x => !x.known);
+    $('.flash-bar div').style.width = '100%';
+    $('.flash-box').innerHTML = `<div class="flash-top"><b>${esc(title)}</b><button class="fc-x">✕</button></div>
+      <div class="fdone"><div class="big">${knew === r.length ? '🎉' : '💪'} ${knew} / ${r.length}</div><p class="muted">you knew on the first try</p>
+      ${still.length ? `<div class="fstill"><b>Still learning</b>${still.map(x => `<div>${esc(x.es)} — <span class="muted">${esc(x.en)}</span></div>`).join('')}</div>` : ''}
+      <div class="row" style="justify-content:center"><button class="btn" id="fc-again">Another round</button><button class="btn ghost fc-x">Done</button></div></div>`;
+    $('#fc-again').onclick = () => { close(); flashcards(title, words, onDone); };
+    ov.querySelectorAll('.fc-x').forEach(b => b.onclick = close);
+    await send({ type: 'flash', set: title, results: r }, PUBLIC ? '' : 'Flashcards saved to Obsidian');
+    onDone && onDone();
+  };
+  const key = e => {
+    if (e.key === 'Escape') return close();
+    if (!$('.fcard')) return;
+    if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); flip(); }
+    else if (e.key === '1' || e.key === 'ArrowLeft') answer(false);
+    else if (e.key === '2' || e.key === 'ArrowRight') answer(true);
+  };
+  document.addEventListener('keydown', key);
+  ov.onclick = e => { if (e.target === ov || e.target.closest('.fc-x')) close(); };
+  card.onclick = e => { if (swiped) swiped = false; else if (!e.target.closest('.play')) flip(); };
+  ov.querySelectorAll('[data-r]').forEach(b => b.onclick = () => answer(b.dataset.r === '1'));
+  $('#fc-en').onchange = e => { enFirst = e.target.checked; try { localStorage.setItem('flash-en-first', enFirst ? '1' : '0'); } catch {} show(); };
+  let x0 = null, swiped = false;  // swipe on phones, once the card is flipped
+  card.onpointerdown = e => { x0 = e.clientX; };
+  card.onpointerup = e => { if (x0 !== null && flipped && Math.abs(e.clientX - x0) > 70) { swiped = true; answer(e.clientX > x0); } x0 = null; };
+  show();
 }
 
 // ---------- router ----------

@@ -159,8 +159,6 @@ select { font: inherit; color: var(--ink); background: var(--bg); border: 1px so
 #vsets .chip:hover { color: var(--accent); border-color: var(--accent); }
 button.add { border: 0; background: none; cursor: pointer; font-size: 1rem; padding: 0 2px; }
 .prose table.vocab { display: table; table-layout: fixed; overflow-wrap: anywhere; }
-.vocab td button.add { float: right; margin-left: 6px; }
-.vocab.search th:nth-child(3), .vocab.search td:nth-child(3) { width: 28%; font-size: .85rem; }
 
 /* 📖 Words tab — word cards */
 :root { --masc: #1d4ed8; --masc-soft: #dbeafe; --fem: #be185d; --fem-soft: #fce7f3; --latam-soft: #e0f2fe; --spain-soft: #fef3c7; }
@@ -204,6 +202,57 @@ button.add { border: 0; background: none; cursor: pointer; font-size: 1rem; padd
 .wquiz .card { margin: 0 0 12px; }
 @media (max-width: 600px) { .wbar { top: 53px; } .wgrid { grid-template-columns: 1fr 1fr; gap: 8px; } .wcard { padding: 10px 30px 10px 12px; } }
 @media (max-width: 480px) { .wgrid { grid-template-columns: 1fr; } }
+
+/* Vocabulary Bank: sets as drop-downs of word cards */
+.wtools input#vq { width: 100%; }
+.vtop { margin: 12px 0 4px; gap: 8px; }
+.vset { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); margin: 10px 0; }
+.vset[open] { background: var(--bg); }
+.vset > summary { list-style: none; cursor: pointer; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; padding: 12px 14px; border-radius: var(--radius); background: var(--surface); }
+.vset > summary::-webkit-details-marker { display: none; }
+.vset > summary::before { content: "▸"; color: var(--accent); transition: transform .15s; }
+.vset[open] > summary { border-bottom: 1px solid var(--line); border-radius: var(--radius) var(--radius) 0 0; }
+.vset[open] > summary::before { transform: rotate(90deg); }
+.vset > summary:hover .vt { color: var(--accent); }
+.vset .vt { font-weight: 650; font-size: 1.05rem; flex: 1 1 auto; }
+.vset .vcount { color: var(--muted); font-size: .85rem; }
+.vset summary .btn { padding: 5px 12px; font-size: .85rem; }
+.vgrid-slot { padding: 12px; }
+.vgrid-slot:empty { display: none; }
+#vres .wgrid { margin-top: 12px; }
+.pill.known { background: var(--good-soft); color: var(--good); }
+.wcard.dim .es { color: var(--muted); }
+.wcard .pills .play { font-size: .7rem; padding: 0 4px; }
+
+/* 🎴 Flashcards */
+.flash-ov { position: fixed; inset: 0; z-index: 50; background: rgba(15, 12, 8, .55); display: flex; align-items: center; justify-content: center; padding: 16px; }
+.flash-box { width: min(520px, 100%); background: var(--bg); border-radius: 16px; padding: 18px; box-shadow: 0 20px 60px rgba(0,0,0,.3); max-height: 100%; overflow-y: auto; }
+.flash-top { display: flex; justify-content: space-between; align-items: center; gap: 10px; }
+.fc-x { border: 0; background: none; font-size: 1.2rem; cursor: pointer; color: var(--muted); }
+.flash-bar { height: 6px; background: var(--line); border-radius: 99px; margin: 12px 0 4px; overflow: hidden; }
+.flash-bar div { height: 100%; background: var(--accent); width: 0; transition: width .25s; }
+.flash-n { font-size: .8rem; text-align: right; }
+.fcard { perspective: 1200px; height: 260px; margin: 8px 0 14px; cursor: pointer; outline: none; touch-action: pan-y; user-select: none; }
+.fcard .fin { position: relative; width: 100%; height: 100%; transition: transform .45s; transform-style: preserve-3d; }
+.fcard.flipped .fin { transform: rotateY(180deg); }
+.fcard.go-r { transform: translateX(40px); opacity: .3; transition: .18s; }
+.fcard.go-l { transform: translateX(-40px); opacity: .3; transition: .18s; }
+.fcard .face { position: absolute; inset: 0; backface-visibility: hidden; -webkit-backface-visibility: hidden; background: var(--surface); border: 1px solid var(--line); border-radius: 16px;
+  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px; padding: 20px; text-align: center; box-shadow: 0 4px 14px rgba(0,0,0,.06); }
+.fcard:focus-visible .face { border-color: var(--accent); }
+.fcard .back { transform: rotateY(180deg); }
+.fcard .big { font-size: 1.9rem; font-weight: 700; line-height: 1.2; overflow-wrap: anywhere; }
+.fcard .big.en { font-weight: 600; font-size: 1.5rem; }
+.fcard .pills { justify-content: center; display: flex; flex-wrap: wrap; gap: 4px; }
+.fcard .hint { position: absolute; bottom: 10px; font-size: .75rem; color: var(--muted); }
+.fc-btns { display: flex; gap: 10px; visibility: hidden; }
+.fc-btns.on { visibility: visible; }
+.fc-btns .btn { flex: 1; justify-content: center; text-align: center; }
+.flash-foot { display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; font-size: .8rem; margin-top: 12px; }
+.fdone { text-align: center; padding: 18px 0 4px; }
+.fdone .big { font-size: 2.4rem; font-weight: 700; }
+.fstill { text-align: left; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 10px 14px; margin: 10px 0 16px; max-height: 220px; overflow-y: auto; }
+@media (max-width: 600px) { .flash-foot span { display: none; } .fcard { height: 230px; } }
 
 /* Public copy: hide anything that saves to the Obsidian vault */
 body.public .vault-only, body.public .sync { display: none !important; }
