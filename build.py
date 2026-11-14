@@ -1074,13 +1074,13 @@ Most of Latin America prefers the preterite for finished actions (*¿Ya comiste?
 *¿Y Valeria? ¿Volverá algún día? ¿Dónde estará?*
 
 ## Common mistakes to watch for
-- *Ayer voy al mercado* → Ayer **fui** al mercado
-- *Mañana fui* → Mañana **voy a ir** / **iré**
-- *Cuando era niño, comí tacos cada día* → … **comía** tacos cada día
-- *Voy comer* → Voy **a** comer
-- *Estoy saliendo mañana* → **Salgo** / **Voy a salir** mañana
-- *Me gusta los tacos* → Me gust**an** los tacos
-- *Estoy de México* → **Soy** de México
+- ❌ ~~Ayer voy al mercado~~ → ✅ *Ayer fui al mercado* — *ayer* needs the past.
+- ❌ ~~Mañana fui~~ → ✅ *Mañana voy a ir* / *Mañana iré* — *mañana* needs the future.
+- ❌ ~~Cuando era niño, comí tacos cada día~~ → ✅ *Cuando era niño, comía tacos cada día* — "used to / every day" is the imperfect.
+- ❌ ~~Voy comer~~ → ✅ *Voy a comer* — *ir* always takes *a* before the verb.
+- ❌ ~~Estoy saliendo mañana~~ → ✅ *Salgo mañana* / *Voy a salir mañana* — Spanish doesn't use -ando/-iendo for plans.
+- ❌ ~~Me gusta los tacos~~ → ✅ *Me gustan los tacos* — *gustar* agrees with the thing you like.
+- ❌ ~~Estoy de México~~ → ✅ *Soy de México* — where you're from uses *ser*, not *estar*.
 
 ## Checkpoint
 1. Worksheet, quiz and grammar check below mix every tense.
