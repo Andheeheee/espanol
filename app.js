@@ -911,9 +911,9 @@ function vocabRow(w, topic) {
     spanish += ' ' + sayBtn(spoken(es));
   }
   const btn = add ? `<button class="add" data-es="${attr(add)}" data-en="${attr(en)}" data-topic="${attr(topic)}" title="Add to my Vocab">➕</button>` : '';
-  return `<tr><td>${spanish}</td><td>${esc(en)}</td><td>${btn}</td></tr>`;
+  return `<tr><td>${btn}${spanish}</td><td>${esc(en)}</td></tr>`;  // ➕ floats right inside the Spanish cell
 }
-const vocabTable = (rows, topic) => `<table class="vocab"><thead><tr><th>Español</th><th>English</th><th></th></tr></thead><tbody>${rows.map(w => vocabRow(w, topic)).join('')}</tbody></table>`;
+const vocabTable = (rows, topic) => `<table class="vocab"><thead><tr><th>Español</th><th>English</th></tr></thead><tbody>${rows.map(w => vocabRow(w, topic)).join('')}</tbody></table>`;
 
 app.addEventListener('click', e => {
   const b = e.target.closest('button.add');
@@ -941,7 +941,7 @@ async function vocab(id) {
       const hits = q ? all.filter(x => x.key.includes(q)) : [];
       document.getElementById('vres').innerHTML = !q ? '' : !hits.length ? '<p class="muted">No matches.</p>'
         : `<div class="prose">${hits.length > 200 ? `<p class="muted">Showing 200 of ${hits.length} — keep typing to narrow it down.</p>` : ''}
-          <table class="vocab search"><thead><tr><th>Español</th><th>English</th><th></th><th>Topic</th></tr></thead><tbody>${hits.slice(0, 200).map(x =>
+          <table class="vocab search"><thead><tr><th>Español</th><th>English</th><th>Topic</th></tr></thead><tbody>${hits.slice(0, 200).map(x =>
             vocabRow(x.w, x.f.title).replace('</tr>', `<td><a href="#/vocab/${x.f.id}">${esc(x.f.title)}</a></td></tr>`)).join('')}</tbody></table></div>`;
     };
     return;
