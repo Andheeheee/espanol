@@ -170,7 +170,7 @@ Think **PLACE**: **P**osition, **L**ocation, **A**ction (-ando), **C**ondition, 
 ## Same adjective, different meaning — food edition
 | ser | estar |
 |---|---|
-| es rico — is rich | está rico — is tasty |
+| es rico — is rich (a person) | está rico — is tasty (food you're eating) |
 | es aburrido — is boring | está aburrido — is bored |
 | es listo — is clever | está listo — is ready |
 | es malo — is bad (a bad person) | está malo — is sick / has gone bad |
@@ -455,7 +455,7 @@ For **people**, Spanish speakers usually say *caer bien* (to come across well) i
 
 > *Me gusta Javi* sounds romantic — it means you're attracted to him! Use *me cae bien* for "I like him (as a person)."
 
-> Never say *Yo gusto la pizza* — that means "I am pleasing (to) the pizza."
+> Never say ~~Yo gusto la pizza~~ — that means "I am pleasing (to) the pizza."
 """,
         "chisme": [("A doña Rosa no le cae bien Javi.", "Doña Rosa doesn't like Javi."),
                    ("¿Te cae bien el novio de Lucía?", "Do you like Lucía's boyfriend?"),
@@ -519,7 +519,7 @@ Spanish uses the progressive only for **right now, in progress**:
 - *¿Qué estás haciendo? — Estoy cenando.* — What are you doing? — I'm having dinner.
 - *Javi está hablando con Lucía.* — Javi is talking to Lucía (at this moment).
 
-But NOT for plans — English "I'm going out tonight" is *Salgo esta noche* (or *Voy a salir*), never *Estoy saliendo esta noche*.
+But NOT for plans — English "I'm going out tonight" is *Salgo esta noche* (or *Voy a salir*), never ~~Estoy saliendo esta noche~~.
 
 > Exception that gossips love: *Están saliendo* also means "They're dating."
 
@@ -642,7 +642,7 @@ Body parts use **el/la**, not *mi*: *Me lavo **las** manos.*
 This is how most people talk about the future in everyday Latin American Spanish.
 
 ## Don't drop the "a"
-*Voy **a** comer*, never *Voy comer*. And the second verb stays in the infinitive: never *Voy a como*.
+*Voy **a** comer*, never ~~Voy comer~~. And the second verb stays in the infinitive: never ~~Voy a como~~.
 
 ## Future time words
 | | |
@@ -651,7 +651,7 @@ This is how most people talk about the future in everyday Latin American Spanish
 | *esta noche* | tonight |
 | *mañana* | tomorrow |
 | *pasado mañana* | the day after tomorrow |
-| *el fin de semana* | this weekend |
+| *este fin de semana* | this weekend |
 | *la próxima semana* / *la semana que viene* | next week |
 | *el próximo año* | next year |
 | *pronto* | soon |
@@ -1344,7 +1344,7 @@ The pattern is usually: *[trigger] + **que** + [different subject] + subjunctive
 - *No creo que **sea** verdad.* — I don't think it's true. (but *Creo que **es** verdad* — no doubt → indicative)
 - *Ojalá (que) no **llueva**.* — Hopefully it doesn't rain.
 
-**Same subject? Use the infinitive:** *Quiero **ir**.* (not *quiero que yo vaya*)
+**Same subject? Use the infinitive:** *Quiero **ir**.* (not ~~quiero que yo vaya~~)
 
 ## Cuando + future = subjunctive
 *Llámame cuando **llegues**.* — Call me when you arrive (hasn't happened yet).
@@ -1594,7 +1594,7 @@ CYBER_SETS[0] = {  # saying symbols and acronyms out loud
     "focus": "In class you'll spell usernames, read acronyms and dictate addresses out loud. Acronyms are spelled with **Spanish letter names**, and symbols have their own names.",
     "terms": [("arroba", "@"), ("punto", ". (dot)"), ("guion", "- (hyphen)"), ("guion bajo", "_ (underscore)"),
               ("barra", "/ (slash)"), ("barra invertida", "\\ (backslash)"), ("dos puntos", ": (colon)"),
-              ("mayúscula / minúscula", "uppercase / lowercase"), ("i pe", "IP"), ("uve pe ene", "VPN (also ve pe ene)"),
+              ("mayúscula / minúscula", "uppercase / lowercase"), ("i pe", "IP"), ("ve pe ene", "VPN (Spain says uve pe ene)"),
               ("u ese be", "USB"), ("de ene ese", "DNS"), ("hache te te pe ese", "HTTPS"), ("el wifi", "Wi-Fi (said \"wee-fee\" or \"wai-fai\")")],
     "examples": [("Mi correo es ana punto ruiz arroba colegio punto edu.", "My email is ana.ruiz@colegio.edu"),
                  ("La dirección IP es diez punto cero punto cero punto uno.", "The IP address is 10.0.0.1"),
@@ -1605,7 +1605,7 @@ CYBER_SETS[0] = {  # saying symbols and acronyms out loud
         {"q": "Name this symbol: .", "a": ["punto"]},
         {"q": "Name this symbol: _", "a": ["guion bajo"]},
         {"q": "Name this symbol: /", "a": ["barra"]},
-        {"q": "Spell \"VPN\" with Spanish letter names", "a": ["uve pe ene", "ve pe ene", "ve corta pe ene"]},
+        {"q": "Spell \"VPN\" with Spanish letter names", "a": ["ve pe ene", "ve corta pe ene", "uve pe ene"]},
         {"q": "Spell \"IP\" with Spanish letter names", "a": ["i pe"]},
     ],
 }
@@ -2200,7 +2200,7 @@ GRAMMAR = {
                   ("Valeria isn't here anymore.", "Valeria ya no está.", ["Valeria ya no es.", "Valeria ya no hay."], "Presence/location uses estar; ya no = not anymore.", ["Valeria ya no está aquí."]),
                   ("There's a new guy in the building.", "Hay un chico nuevo en el edificio.", ["Está un chico nuevo en el edificio."], "Something that exists, not yet known → hay.", []),
                   ("The party is at my house.", "La fiesta es en mi casa.", ["La fiesta está en mi casa."], "Where an EVENT happens uses ser.", []),
-                  ("The tacos are tasty.", "Los tacos están ricos.", ["Los tacos son ricos."], "estar rico = tasty (ser rico = rich).", []),
+                  ("These tacos are tasty! (eating them now)", "¡Los tacos están ricos!", ["¡Los tacos están rico!", "¡Los tacos es ricos!"], "Tasting it now → estar, and rico agrees with tacos: ricos. (Son ricos also works for food in general; about a person, ser rico = rich.)", ["Los tacos están ricos.", "¡Los tacos son ricos!", "Los tacos son ricos."]),
                   ("It's three o'clock.", "Son las tres.", ["Es las tres.", "Están las tres."], "Time uses ser, plural for hours above one.", []),
                   ("We are at home.", "Estamos en casa.", ["Somos en casa."], "Location of people uses estar.", ["Nosotros estamos en casa."])],
     "present-regular": [("I cook on Sundays.", "Cocino los domingos.", ["Cocina los domingos.", "Cocinar los domingos."], "yo → -o. Don't leave the verb in the infinitive.", ["Yo cocino los domingos."]),
