@@ -3786,6 +3786,9 @@ to students who need it, within a few months.
   (same Dalia voice as the course audio) the first time a word is played and caches it in `Media/audio/say/`.
   Each set is a drop-down of word cards with 🎴 Flashcards: answers go to `flash` in `Progress/progress.json` (box 0–5 →
   comes back after 0/1/3/7/14/30 days; box ≥ 2 shows as ✅ known) and each round is logged in `Progress/Flashcard Log.md`.
+- **🇲🇽 Español switch** — header button (`site/i18n.js`): the interface (menus, tabs, buttons, instructions, week/guide/list titles)
+  switches to Mexican Spanish for Spanish-speaking family and friends; lessons, guides and exercises stay English on purpose.
+  New interface text goes through `T('…')` in app.js with its Spanish added to `ES` in i18n.js (missing ones fall back to English).
 - **Public copy** — `python3 publish.py` builds a read-only copy (no saving, no Vocabulary Bank: that's Quizlet's content)
   into `Site/public/` and pushes it to the repo's `gh-pages` branch for GitHub Pages. The tailnet site stays the main one.
 

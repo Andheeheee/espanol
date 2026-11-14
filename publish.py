@@ -19,7 +19,7 @@ from build import VAULT, build  # noqa: E402
 
 DOMAIN = "espanol.dunne.systems"  # Porkbun CNAME espanol → andheeheee.github.io
 OUT = HERE / "public"
-SITE_FILES = ["index.html", "app.js", "style.css", "content.js"]
+SITE_FILES = ["index.html", "i18n.js", "app.js", "style.css", "content.js"]
 
 
 def git(*args, cwd=HERE):
