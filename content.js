@@ -2119,7 +2119,7 @@ window.COURSE = {
    "phase": 1,
    "title": "Ser vs Estar — Who's Here, Who's Gone",
    "goal": "Choose between the two verbs for \"to be,\" and say who is here, there, or not here anymore.",
-   "lesson": "\n## Two verbs for \"to be\"\n| Ser | Estar |\n|---|---|\n| yo **soy** | yo **estoy** |\n| tú **eres** | tú **estás** |\n| él/ella/usted **es** | él/ella/usted **está** |\n| nosotros **somos** | nosotros **estamos** |\n| ellos/ustedes **son** | ellos/ustedes **están** |\n\n## SER — what someone IS\nThink **DOCTOR**: **D**escription, **O**ccupation, **C**haracteristics, **T**ime, **O**rigin, **R**elationship.\n- *Doña Rosa es muy chismosa.* — characteristic\n- *Javi es de Colombia.* — origin\n- *Lucía es doctora.* — occupation\n- *Son las tres. Hoy es lunes.* — time & dates\n- *Marco es el novio de Lucía.* — relationship\n- *La fiesta es en mi casa.* — where an **event** takes place\n\n## ESTAR — where someone is and how they are\nThink **PLACE**: **P**osition, **L**ocation, **A**ction (-ando), **C**ondition, **E**motion.\n- *¿Dónde está Marco?* — location\n- *Lucía está enojada.* — emotion right now\n- *El tío Beto está lleno.* — condition (full!)\n- *La sopa está fría.* — condition\n\n## Here, there, and over there\n| | |\n|---|---|\n| *aquí* / *acá* | here (acá is very common in Latin America) |\n| *ahí* | there (near you) |\n| *allí* / *allá* | over there (far from both of us) |\n\n- *Estoy aquí.* — I'm here.\n- *¿Está Marco? — No, no está.* — Is Marco here? — No, he isn't. (Just *no está* = he's not in.)\n- *Lucía está en casa.* — at home · *Javi está en el trabajo.* — at work\n- *Valeria ya no está.* — Valeria isn't here anymore. (*ya no* = not anymore)\n- *Todos están allá.* — Everyone's over there.\n\n## Hay vs está\n- **hay** = there is / there are (something exists): *Hay un chico nuevo en el edificio.*\n- **está** = it's located (a specific, known thing): *El chico nuevo está en el 4A.*\n\n## Same adjective, different meaning — food edition\n| ser | estar |\n|---|---|\n| es rico — is rich | está rico — is tasty |\n| es aburrido — is boring | está aburrido — is bored |\n| es listo — is clever | está listo — is ready |\n| es malo — is bad (a bad person) | está malo — is sick / has gone bad |\n\n## 🗣️ El chisme\nSay each line out loud before pressing 🔊.\n- *¿Dónde está Valeria? — Ya no está aquí.* — Where's Valeria? — She's not here anymore.\n- *Marco está aquí, pero Lucía no está.* — Marco is here, but Lucía isn't.\n- *Hay un chico nuevo en el edificio.* — There's a new guy in the building.\n- *Doña Rosa es muy chismosa.* — Doña Rosa is a big gossip.\n- *Lucía está enojada. ¿Por qué?* — Lucía is angry. Why?\n",
+   "lesson": "\n## Two verbs for \"to be\"\n| Ser | Estar |\n|---|---|\n| yo **soy** | yo **estoy** |\n| tú **eres** | tú **estás** |\n| él/ella/usted **es** | él/ella/usted **está** |\n| nosotros **somos** | nosotros **estamos** |\n| ellos/ustedes **son** | ellos/ustedes **están** |\n\n## SER — what someone IS\nThink **DOCTOR**: **D**escription, **O**ccupation, **C**haracteristics, **T**ime, **O**rigin, **R**elationship.\n- *Doña Rosa es muy chismosa.* — characteristic\n- *Javi es de Colombia.* — origin\n- *Lucía es doctora.* — occupation\n- *Son las tres. Hoy es lunes.* — time & dates\n- *Marco es el novio de Lucía.* — relationship\n- *La fiesta es en mi casa.* — where an **event** takes place\n\n## ESTAR — where someone is and how they are\nThink **PLACE**: **P**osition, **L**ocation, **A**ction (-ando), **C**ondition, **E**motion.\n- *¿Dónde está Marco?* — location\n- *Lucía está enojada.* — emotion right now\n- *El tío Beto está lleno.* — condition (full!)\n- *La sopa está fría.* — condition\n\n## Here, there, and over there\n| | |\n|---|---|\n| *aquí* / *acá* | here (acá is very common in Latin America) |\n| *ahí* | there (near you) |\n| *allí* / *allá* | over there (far from both of us) |\n\n- *Estoy aquí.* — I'm here.\n- *¿Está Marco? — No, no está.* — Is Marco here? — No, he isn't. (Just *no está* = he's not in.)\n- *Lucía está en casa.* — at home · *Javi está en el trabajo.* — at work\n- *Valeria ya no está.* — Valeria isn't here anymore. (*ya no* = not anymore)\n- *Todos están allá.* — Everyone's over there.\n\n## Hay vs está\n- **hay** = there is / there are (something exists): *Hay un chico nuevo en el edificio.*\n- **está** = it's located (a specific, known thing): *El chico nuevo está en el 4A.*\n\n## Same adjective, different meaning — food edition\n| ser | estar |\n|---|---|\n| es rico — is rich (a person) | está rico — is tasty (food you're eating) |\n| es aburrido — is boring | está aburrido — is bored |\n| es listo — is clever | está listo — is ready |\n| es malo — is bad (a bad person) | está malo — is sick / has gone bad |\n\n## 🗣️ El chisme\nSay each line out loud before pressing 🔊.\n- *¿Dónde está Valeria? — Ya no está aquí.* — Where's Valeria? — She's not here anymore.\n- *Marco está aquí, pero Lucía no está.* — Marco is here, but Lucía isn't.\n- *Hay un chico nuevo en el edificio.* — There's a new guy in the building.\n- *Doña Rosa es muy chismosa.* — Doña Rosa is a big gossip.\n- *Lucía está enojada. ¿Por qué?* — Lucía is angry. Why?\n",
    "chisme": [
     [
      "¿Dónde está Valeria? — Ya no está aquí.",
@@ -2400,13 +2400,18 @@ window.COURSE = {
      "alt": []
     },
     {
-     "en": "The tacos are tasty.",
-     "ok": "Los tacos están ricos.",
+     "en": "These tacos are tasty! (eating them now)",
+     "ok": "¡Los tacos están ricos!",
      "bad": [
-      "Los tacos son ricos."
+      "¡Los tacos están rico!",
+      "¡Los tacos es ricos!"
      ],
-     "x": "estar rico = tasty (ser rico = rich).",
-     "alt": []
+     "x": "Tasting it now → estar, and rico agrees with tacos: ricos. (Son ricos also works for food in general; about a person, ser rico = rich.)",
+     "alt": [
+      "Los tacos están ricos.",
+      "¡Los tacos son ricos!",
+      "Los tacos son ricos."
+     ]
     },
     {
      "en": "It's three o'clock.",
@@ -3732,7 +3737,7 @@ window.COURSE = {
    "phase": 1,
    "title": "Gustar — Who Likes What (and Whom)",
    "goal": "Talk about food you like and people you like (or don't) with gustar, encantar and caer bien/mal.",
-   "lesson": "\n## Why \"me gusta\" is backwards\n*Me gusta el café* literally means **\"Coffee is pleasing to me.\"** The thing you like is the subject — so the verb matches **the thing**, not you.\n\n- *Me gust**a** el mole.* — one thing → gusta\n- *Me gust**an** los tamales.* — plural things → gustan\n- *Me gust**a** cocinar.* — activities (infinitives) → always gusta\n\n## Who is pleased\n| | |\n|---|---|\n| me gusta — I like | nos gusta — we like |\n| te gusta — you like | les gusta — they / you all like |\n| le gusta — he / she / you (usted) like(s) | |\n\n**Clarify or emphasize with \"a\":** *A Lucía le gusta el picante. A Marco no. A mí me encanta.*\n\n## Same pattern\n- **encantar** — to love (things): *Me encantan las enchiladas.*\n- **molestar** — to bother: *A doña Rosa le molesta el ruido.*\n- **importar** — to matter: *No me importa.* (I don't care)\n- **faltar** — to be missing: *A la sopa le falta sal.*\n- **doler (o→ue)** — to hurt: *Me duele el estómago.* (too many tacos)\n\n## The gossip's secret weapon: caer bien / caer mal\nFor **people**, Spanish speakers usually say *caer bien* (to come across well) instead of *gustar*:\n- *Javi me cae bien.* — I like Javi.\n- *A doña Rosa no le cae bien Javi.* — Doña Rosa doesn't like Javi.\n- *Me caen mal los vecinos del 2C.* — I don't like the neighbors in 2C.\n\n> *Me gusta Javi* sounds romantic — it means you're attracted to him! Use *me cae bien* for \"I like him (as a person).\"\n\n> Never say *Yo gusto la pizza* — that means \"I am pleasing (to) the pizza.\"\n\n## 🗣️ El chisme\nSay each line out loud before pressing 🔊.\n- *A doña Rosa no le cae bien Javi.* — Doña Rosa doesn't like Javi.\n- *¿Te cae bien el novio de Lucía?* — Do you like Lucía's boyfriend?\n- *A Lucía le gusta Javi… ¡Ay, no!* — Lucía has a crush on Javi… Oh no!\n- *Al tío Beto le encantan los tamales.* — Tío Beto loves tamales.\n- *No me importa… bueno, un poquito.* — I don't care… well, a little.\n",
+   "lesson": "\n## Why \"me gusta\" is backwards\n*Me gusta el café* literally means **\"Coffee is pleasing to me.\"** The thing you like is the subject — so the verb matches **the thing**, not you.\n\n- *Me gust**a** el mole.* — one thing → gusta\n- *Me gust**an** los tamales.* — plural things → gustan\n- *Me gust**a** cocinar.* — activities (infinitives) → always gusta\n\n## Who is pleased\n| | |\n|---|---|\n| me gusta — I like | nos gusta — we like |\n| te gusta — you like | les gusta — they / you all like |\n| le gusta — he / she / you (usted) like(s) | |\n\n**Clarify or emphasize with \"a\":** *A Lucía le gusta el picante. A Marco no. A mí me encanta.*\n\n## Same pattern\n- **encantar** — to love (things): *Me encantan las enchiladas.*\n- **molestar** — to bother: *A doña Rosa le molesta el ruido.*\n- **importar** — to matter: *No me importa.* (I don't care)\n- **faltar** — to be missing: *A la sopa le falta sal.*\n- **doler (o→ue)** — to hurt: *Me duele el estómago.* (too many tacos)\n\n## The gossip's secret weapon: caer bien / caer mal\nFor **people**, Spanish speakers usually say *caer bien* (to come across well) instead of *gustar*:\n- *Javi me cae bien.* — I like Javi.\n- *A doña Rosa no le cae bien Javi.* — Doña Rosa doesn't like Javi.\n- *Me caen mal los vecinos del 2C.* — I don't like the neighbors in 2C.\n\n> *Me gusta Javi* sounds romantic — it means you're attracted to him! Use *me cae bien* for \"I like him (as a person).\"\n\n> Never say ~~Yo gusto la pizza~~ — that means \"I am pleasing (to) the pizza.\"\n\n## 🗣️ El chisme\nSay each line out loud before pressing 🔊.\n- *A doña Rosa no le cae bien Javi.* — Doña Rosa doesn't like Javi.\n- *¿Te cae bien el novio de Lucía?* — Do you like Lucía's boyfriend?\n- *A Lucía le gusta Javi… ¡Ay, no!* — Lucía has a crush on Javi… Oh no!\n- *Al tío Beto le encantan los tamales.* — Tío Beto loves tamales.\n- *No me importa… bueno, un poquito.* — I don't care… well, a little.\n",
    "chisme": [
     [
      "A doña Rosa no le cae bien Javi.",
@@ -4136,7 +4141,7 @@ window.COURSE = {
    "phase": 1,
    "title": "Right Now — Estar + -ando",
    "goal": "Say what's happening at this very moment: estar + -ando / -iendo.",
-   "lesson": "\n## Happening right now\n**estar** (conjugated) + the **-ando / -iendo** form:\n\n| | |\n|---|---|\n| hablar → habl**ando** | *Estoy hablando.* — I'm talking. |\n| comer → com**iendo** | *Estás comiendo.* — You're eating. |\n| salir → sal**iendo** | *Está saliendo.* — She's going out. |\n\n| estar | + gerund |\n|---|---|\n| estoy | cocinando |\n| estás | comiendo |\n| está | hablando |\n| estamos | esperando |\n| están | escribiendo |\n\n## Irregular -ing forms\n- Vowel + -iendo becomes **-yendo**: *leer → leyendo, traer → trayendo, oír → oyendo, ir → yendo*\n- -ir stem-changers change in the gerund too: *pedir → pidiendo, servir → sirviendo, decir → diciendo, dormir → durmiendo, venir → viniendo*\n\n## When to use it\nSpanish uses the progressive only for **right now, in progress**:\n- *¿Qué estás haciendo? — Estoy cenando.* — What are you doing? — I'm having dinner.\n- *Javi está hablando con Lucía.* — Javi is talking to Lucía (at this moment).\n\nBut NOT for plans — English \"I'm going out tonight\" is *Salgo esta noche* (or *Voy a salir*), never *Estoy saliendo esta noche*.\n\n> Exception that gossips love: *Están saliendo* also means \"They're dating.\"\n\n## Phrases\n- *¿Qué está pasando?* — What's going on?\n- *¿Me estás escuchando?* — Are you listening to me?\n- *Estoy esperando.* — I'm waiting.\n\n## 🗣️ El chisme\nSay each line out loud before pressing 🔊.\n- *¿Qué está haciendo Javi? — Está hablando con Lucía… otra vez.* — What's Javi doing? — He's talking with Lucía… again.\n- *Doña Rosa está mirando por la ventana.* — Doña Rosa is looking out the window.\n- *El tío Beto está comiendo. ¡Qué sorpresa!* — Tío Beto is eating. What a surprise!\n- *¿Están saliendo? — ¡No sé!* — Are they dating? — I don't know!\n- *¿Qué está pasando aquí?* — What's going on here?\n",
+   "lesson": "\n## Happening right now\n**estar** (conjugated) + the **-ando / -iendo** form:\n\n| | |\n|---|---|\n| hablar → habl**ando** | *Estoy hablando.* — I'm talking. |\n| comer → com**iendo** | *Estás comiendo.* — You're eating. |\n| salir → sal**iendo** | *Está saliendo.* — She's going out. |\n\n| estar | + gerund |\n|---|---|\n| estoy | cocinando |\n| estás | comiendo |\n| está | hablando |\n| estamos | esperando |\n| están | escribiendo |\n\n## Irregular -ing forms\n- Vowel + -iendo becomes **-yendo**: *leer → leyendo, traer → trayendo, oír → oyendo, ir → yendo*\n- -ir stem-changers change in the gerund too: *pedir → pidiendo, servir → sirviendo, decir → diciendo, dormir → durmiendo, venir → viniendo*\n\n## When to use it\nSpanish uses the progressive only for **right now, in progress**:\n- *¿Qué estás haciendo? — Estoy cenando.* — What are you doing? — I'm having dinner.\n- *Javi está hablando con Lucía.* — Javi is talking to Lucía (at this moment).\n\nBut NOT for plans — English \"I'm going out tonight\" is *Salgo esta noche* (or *Voy a salir*), never ~~Estoy saliendo esta noche~~.\n\n> Exception that gossips love: *Están saliendo* also means \"They're dating.\"\n\n## Phrases\n- *¿Qué está pasando?* — What's going on?\n- *¿Me estás escuchando?* — Are you listening to me?\n- *Estoy esperando.* — I'm waiting.\n\n## 🗣️ El chisme\nSay each line out loud before pressing 🔊.\n- *¿Qué está haciendo Javi? — Está hablando con Lucía… otra vez.* — What's Javi doing? — He's talking with Lucía… again.\n- *Doña Rosa está mirando por la ventana.* — Doña Rosa is looking out the window.\n- *El tío Beto está comiendo. ¡Qué sorpresa!* — Tío Beto is eating. What a surprise!\n- *¿Están saliendo? — ¡No sé!* — Are they dating? — I don't know!\n- *¿Qué está pasando aquí?* — What's going on here?\n",
    "chisme": [
     [
      "¿Qué está haciendo Javi? — Está hablando con Lucía… otra vez.",
@@ -4946,7 +4951,7 @@ window.COURSE = {
    "phase": 2,
    "title": "Going To — Va a pasar algo",
    "goal": "Talk about plans and predictions with ir a + infinitive.",
-   "lesson": "\n## The everyday future: ir + a + infinitive\n| ir | + a + infinitive |\n|---|---|\n| voy | a comer |\n| vas | a cocinar |\n| va | a llegar |\n| vamos | a salir |\n| van | a ver |\n\n*Voy a cocinar.* — I'm going to cook. *Van a llegar tarde.* — They're going to arrive late.\n\nThis is how most people talk about the future in everyday Latin American Spanish.\n\n## Don't drop the \"a\"\n*Voy **a** comer*, never *Voy comer*. And the second verb stays in the infinitive: never *Voy a como*.\n\n## Future time words\n| | |\n|---|---|\n| *hoy* | today |\n| *esta noche* | tonight |\n| *mañana* | tomorrow |\n| *pasado mañana* | the day after tomorrow |\n| *el fin de semana* | this weekend |\n| *la próxima semana* / *la semana que viene* | next week |\n| *el próximo año* | next year |\n| *pronto* | soon |\n| *más tarde* | later |\n\n## Predictions\n- *Va a llover.* — It's going to rain.\n- *Va a haber una fiesta.* — There's going to be a party. (*hay* → *va a haber*)\n- *¡Se va a enojar!* — She's going to get angry! (pronoun before *va*, or attached: *Va a enojarse.*)\n\n## Other ways to talk about plans\n- *pensar* + infinitive — to plan to: *Pienso cocinar mole.*\n- *tener que* + infinitive — to have to: *Tengo que comprar tortillas.*\n- *querer* + infinitive — to want to: *Quiero saber todo.*\n\n## 🗣️ El chisme\nSay each line out loud before pressing 🔊.\n- *No vas a creer lo que dicen.* — You're not going to believe what they're saying.\n- *Van a romper. ¡Estoy seguro!* — They're going to break up. I'm sure!\n- *Marco va a cocinar para Lucía esta noche.* — Marco is going to cook for Lucía tonight.\n- *Va a haber una fiesta en el 4A.* — There's going to be a party in 4A.\n- *Doña Rosa se va a enterar de todo.* — Doña Rosa is going to find out about everything.\n",
+   "lesson": "\n## The everyday future: ir + a + infinitive\n| ir | + a + infinitive |\n|---|---|\n| voy | a comer |\n| vas | a cocinar |\n| va | a llegar |\n| vamos | a salir |\n| van | a ver |\n\n*Voy a cocinar.* — I'm going to cook. *Van a llegar tarde.* — They're going to arrive late.\n\nThis is how most people talk about the future in everyday Latin American Spanish.\n\n## Don't drop the \"a\"\n*Voy **a** comer*, never ~~Voy comer~~. And the second verb stays in the infinitive: never ~~Voy a como~~.\n\n## Future time words\n| | |\n|---|---|\n| *hoy* | today |\n| *esta noche* | tonight |\n| *mañana* | tomorrow |\n| *pasado mañana* | the day after tomorrow |\n| *este fin de semana* | this weekend |\n| *la próxima semana* / *la semana que viene* | next week |\n| *el próximo año* | next year |\n| *pronto* | soon |\n| *más tarde* | later |\n\n## Predictions\n- *Va a llover.* — It's going to rain.\n- *Va a haber una fiesta.* — There's going to be a party. (*hay* → *va a haber*)\n- *¡Se va a enojar!* — She's going to get angry! (pronoun before *va*, or attached: *Va a enojarse.*)\n\n## Other ways to talk about plans\n- *pensar* + infinitive — to plan to: *Pienso cocinar mole.*\n- *tener que* + infinitive — to have to: *Tengo que comprar tortillas.*\n- *querer* + infinitive — to want to: *Quiero saber todo.*\n\n## 🗣️ El chisme\nSay each line out loud before pressing 🔊.\n- *No vas a creer lo que dicen.* — You're not going to believe what they're saying.\n- *Van a romper. ¡Estoy seguro!* — They're going to break up. I'm sure!\n- *Marco va a cocinar para Lucía esta noche.* — Marco is going to cook for Lucía tonight.\n- *Va a haber una fiesta en el 4A.* — There's going to be a party in 4A.\n- *Doña Rosa se va a enterar de todo.* — Doña Rosa is going to find out about everything.\n",
    "chisme": [
     [
      "No vas a creer lo que dicen.",
@@ -5323,14 +5328,6 @@ window.COURSE = {
     {
      "es": "Voy a comer",
      "say": "VOY a co·MER"
-    },
-    {
-     "es": "Voy comer",
-     "say": "VOY co·MER"
-    },
-    {
-     "es": "Voy a como",
-     "say": "VOY a CO·mo"
     },
     {
      "es": "hoy",
@@ -7372,7 +7369,7 @@ window.COURSE = {
    "phase": 3,
    "title": "Ayer, Hoy, Mañana — Tense Review",
    "goal": "Move one story through past, present and future without mixing up the tenses.",
-   "lesson": "\n## One verb, every time\n| | comer | estar | ir | irse |\n|---|---|---|---|---|\n| right now | está comiendo | está | va | se va |\n| present | come | está | va | se va |\n| going to | va a comer | va a estar | va a ir | se va a ir |\n| future / guess | comerá | estará | irá | se irá |\n| just did | acaba de comer | — | acaba de ir | acaba de irse |\n| has (ever) | ha comido | ha estado | ha ido | se ha ido |\n| did (once) | comió | estuvo | fue | se fue |\n| used to / was | comía | estaba | iba | se iba |\n\n## Signal words tell you the tense\n| Past | Present | Future |\n|---|---|---|\n| *ayer, anoche, el sábado pasado, hace un mes* → preterite | *hoy, ahora, siempre, todos los días* → present | *mañana, esta noche, la próxima semana* → ir a / future |\n| *antes, de niño, siempre, cada verano* → imperfect | *ahora mismo, en este momento* → estar + -ando | |\n| *ya, todavía no, nunca, alguna vez* → present perfect | | |\n\n## Read the full story — one week in the barrio\n*Antes, Valeria vivía arriba y cenaba con nosotros todos los domingos.*\n*El mes pasado, se fue sin decir nada.*\n*Ayer doña Rosa me dijo que Valeria estaba en Monterrey.*\n*Hoy hay una fiesta en el 4A. Ahora mismo, el tío Beto está comiendo y Javi está hablando con Lucía.*\n*¿Marco? Todavía no ha llegado.*\n*Mañana todos van a hablar de esta fiesta.*\n*¿Y Valeria? ¿Volverá algún día? ¿Dónde estará?*\n\n## Common mistakes to watch for\n- *Ayer voy al mercado* → Ayer **fui** al mercado\n- *Mañana fui* → Mañana **voy a ir** / **iré**\n- *Cuando era niño, comí tacos cada día* → … **comía** tacos cada día\n- *Voy comer* → Voy **a** comer\n- *Estoy saliendo mañana* → **Salgo** / **Voy a salir** mañana\n- *Me gusta los tacos* → Me gust**an** los tacos\n- *Estoy de México* → **Soy** de México\n\n## Checkpoint\n1. Worksheet, quiz and grammar check below mix every tense.\n2. Write the story of your week in all three timelines (practice tab).\n3. Record yourself telling it for 2 minutes with no notes. Listen back.\n\n## 🗣️ El chisme\nSay each line out loud before pressing 🔊.\n- *Antes Valeria vivía arriba. El mes pasado se fue. ¿Volverá?* — Valeria used to live upstairs. Last month she left. Will she come back?\n- *Ayer Javi comió con Lucía, hoy está cenando con ella y mañana van a desayunar juntos.* — Yesterday Javi had lunch with Lucía, today he's having dinner with her, and tomorrow they're having breakfast together.\n- *¿Marco? Todavía no ha llegado.* — Marco? He still hasn't arrived.\n- *Mañana todos van a hablar de esto.* — Tomorrow everyone's going to talk about this.\n- *¿Sabes qué? Ya lo sabía.* — You know what? I already knew it.\n",
+   "lesson": "\n## One verb, every time\n| | comer | estar | ir | irse |\n|---|---|---|---|---|\n| right now | está comiendo | está | va | se va |\n| present | come | está | va | se va |\n| going to | va a comer | va a estar | va a ir | se va a ir |\n| future / guess | comerá | estará | irá | se irá |\n| just did | acaba de comer | — | acaba de ir | acaba de irse |\n| has (ever) | ha comido | ha estado | ha ido | se ha ido |\n| did (once) | comió | estuvo | fue | se fue |\n| used to / was | comía | estaba | iba | se iba |\n\n## Signal words tell you the tense\n| Past | Present | Future |\n|---|---|---|\n| *ayer, anoche, el sábado pasado, hace un mes* → preterite | *hoy, ahora, siempre, todos los días* → present | *mañana, esta noche, la próxima semana* → ir a / future |\n| *antes, de niño, siempre, cada verano* → imperfect | *ahora mismo, en este momento* → estar + -ando | |\n| *ya, todavía no, nunca, alguna vez* → present perfect | | |\n\n## Read the full story — one week in the barrio\n*Antes, Valeria vivía arriba y cenaba con nosotros todos los domingos.*\n*El mes pasado, se fue sin decir nada.*\n*Ayer doña Rosa me dijo que Valeria estaba en Monterrey.*\n*Hoy hay una fiesta en el 4A. Ahora mismo, el tío Beto está comiendo y Javi está hablando con Lucía.*\n*¿Marco? Todavía no ha llegado.*\n*Mañana todos van a hablar de esta fiesta.*\n*¿Y Valeria? ¿Volverá algún día? ¿Dónde estará?*\n\n## Common mistakes to watch for\n- ❌ ~~Ayer voy al mercado~~ → ✅ *Ayer fui al mercado* — *ayer* needs the past.\n- ❌ ~~Mañana fui~~ → ✅ *Mañana voy a ir* / *Mañana iré* — *mañana* needs the future.\n- ❌ ~~Cuando era niño, comí tacos cada día~~ → ✅ *Cuando era niño, comía tacos cada día* — \"used to / every day\" is the imperfect.\n- ❌ ~~Voy comer~~ → ✅ *Voy a comer* — *ir* always takes *a* before the verb.\n- ❌ ~~Estoy saliendo mañana~~ → ✅ *Salgo mañana* / *Voy a salir mañana* — Spanish doesn't use -ando/-iendo for plans.\n- ❌ ~~Me gusta los tacos~~ → ✅ *Me gustan los tacos* — *gustar* agrees with the thing you like.\n- ❌ ~~Estoy de México~~ → ✅ *Soy de México* — where you're from uses *ser*, not *estar*.\n\n## Checkpoint\n1. Worksheet, quiz and grammar check below mix every tense.\n2. Write the story of your week in all three timelines (practice tab).\n3. Record yourself telling it for 2 minutes with no notes. Listen back.\n\n## 🗣️ El chisme\nSay each line out loud before pressing 🔊.\n- *Antes Valeria vivía arriba. El mes pasado se fue. ¿Volverá?* — Valeria used to live upstairs. Last month she left. Will she come back?\n- *Ayer Javi comió con Lucía, hoy está cenando con ella y mañana van a desayunar juntos.* — Yesterday Javi had lunch with Lucía, today he's having dinner with her, and tomorrow they're having breakfast together.\n- *¿Marco? Todavía no ha llegado.* — Marco? He still hasn't arrived.\n- *Mañana todos van a hablar de esto.* — Tomorrow everyone's going to talk about this.\n- *¿Sabes qué? Ya lo sabía.* — You know what? I already knew it.\n",
    "chisme": [
     [
      "Antes Valeria vivía arriba. El mes pasado se fue. ¿Volverá?",
@@ -7716,20 +7713,36 @@ window.COURSE = {
      "say": "al·GÚN DÍ·a"
     },
     {
-     "es": "Mañana fui",
-     "say": "ma·ÑA·na FUI"
+     "es": "Mañana iré",
+     "say": "ma·ÑA·na i·RÉ"
     },
     {
-     "es": "Voy comer",
-     "say": "VOY co·MER"
+     "es": "Voy a comer",
+     "say": "VOY a co·MER"
     },
     {
-     "es": "Estoy saliendo mañana",
-     "say": "es·TOY sa·LIEN·do ma·ÑA·na"
+     "es": "ir",
+     "say": "IR"
     },
     {
-     "es": "Estoy de México",
-     "say": "es·TOY de MÉ·xi·co"
+     "es": "Salgo mañana",
+     "say": "SAL·go ma·ÑA·na"
+    },
+    {
+     "es": "gustar",
+     "say": "gus·TAR"
+    },
+    {
+     "es": "Soy de México",
+     "say": "SOY de MÉ·xi·co"
+    },
+    {
+     "es": "ser",
+     "say": "SER"
+    },
+    {
+     "es": "estar",
+     "say": "es·TAR"
     }
    ]
   },
@@ -7922,8 +7935,8 @@ window.COURSE = {
       "IP"
      ],
      [
-      "uve pe ene",
-      "VPN (also ve pe ene)"
+      "ve pe ene",
+      "VPN (Spain says uve pe ene)"
      ],
      [
       "u ese be",
@@ -8268,7 +8281,7 @@ window.COURSE = {
      "DOS PUN·tos",
      "ma·YÚS·cu·la mi·NÚS·cu·la",
      "I PE",
-     "U·ve PE E·ne",
+     "VE PE E·ne",
      "U E·se BE",
      "de E·ne E·se",
      "HA·che te te PE E·se",
@@ -8493,8 +8506,8 @@ window.COURSE = {
      "say": "I PE"
     },
     {
-     "es": "uve pe ene",
-     "say": "U·ve PE E·ne"
+     "es": "ve pe ene",
+     "say": "VE PE E·ne"
     },
     {
      "es": "u ese be",
@@ -10551,7 +10564,7 @@ window.COURSE = {
    "phase": 4,
    "title": "Teaching: Advice & the Subjunctive",
    "goal": "Recognize the subjunctive and use it after wishes, hopes and \"cuando\" + future.",
-   "lesson": "\n## What it is\nThe subjunctive is a **mood**, not a tense. It's for things that are wished, hoped, doubted, felt or not yet real.\n\n## How to form it (present subjunctive)\nTake the **yo** present, drop **-o**, add the \"opposite\" endings:\n| | hablar (hablo) | comer (como) | tener (tengo) |\n|---|---|---|---|\n| yo | hable | coma | tenga |\n| tú | hables | comas | tengas |\n| él/ella/usted | hable | coma | tenga |\n| nosotros | hablemos | comamos | tengamos |\n| ellos/ustedes | hablen | coman | tengan |\n\nIrregular (**DISHES**): **d**ar → dé · **i**r → vaya · **s**er → sea · **h**aber → haya · **e**star → esté · **s**aber → sepa\n\n## When to use it: WEIRDO\n**W**ishes · **E**motions · **I**mpersonal expressions · **R**ecommendations · **D**oubt/denial · **O**jalá\n\nThe pattern is usually: *[trigger] + **que** + [different subject] + subjunctive*\n- *Quiero que **vengas**.* — I want you to come.\n- *Espero que **estés** bien.* — I hope you're well.\n- *Es importante que **estudies**.* — It's important that you study.\n- *No creo que **sea** verdad.* — I don't think it's true. (but *Creo que **es** verdad* — no doubt → indicative)\n- *Ojalá (que) no **llueva**.* — Hopefully it doesn't rain.\n\n**Same subject? Use the infinitive:** *Quiero **ir**.* (not *quiero que yo vaya*)\n\n## Cuando + future = subjunctive\n*Llámame cuando **llegues**.* — Call me when you arrive (hasn't happened yet).\n*Cuando **tenga** tiempo, te escribo.*\n\n> Don't aim to master this now. Learn these phrases as chunks; the rest comes with exposure.\n",
+   "lesson": "\n## What it is\nThe subjunctive is a **mood**, not a tense. It's for things that are wished, hoped, doubted, felt or not yet real.\n\n## How to form it (present subjunctive)\nTake the **yo** present, drop **-o**, add the \"opposite\" endings:\n| | hablar (hablo) | comer (como) | tener (tengo) |\n|---|---|---|---|\n| yo | hable | coma | tenga |\n| tú | hables | comas | tengas |\n| él/ella/usted | hable | coma | tenga |\n| nosotros | hablemos | comamos | tengamos |\n| ellos/ustedes | hablen | coman | tengan |\n\nIrregular (**DISHES**): **d**ar → dé · **i**r → vaya · **s**er → sea · **h**aber → haya · **e**star → esté · **s**aber → sepa\n\n## When to use it: WEIRDO\n**W**ishes · **E**motions · **I**mpersonal expressions · **R**ecommendations · **D**oubt/denial · **O**jalá\n\nThe pattern is usually: *[trigger] + **que** + [different subject] + subjunctive*\n- *Quiero que **vengas**.* — I want you to come.\n- *Espero que **estés** bien.* — I hope you're well.\n- *Es importante que **estudies**.* — It's important that you study.\n- *No creo que **sea** verdad.* — I don't think it's true. (but *Creo que **es** verdad* — no doubt → indicative)\n- *Ojalá (que) no **llueva**.* — Hopefully it doesn't rain.\n\n**Same subject? Use the infinitive:** *Quiero **ir**.* (not ~~quiero que yo vaya~~)\n\n## Cuando + future = subjunctive\n*Llámame cuando **llegues**.* — Call me when you arrive (hasn't happened yet).\n*Cuando **tenga** tiempo, te escribo.*\n\n> Don't aim to master this now. Learn these phrases as chunks; the rest comes with exposure.\n",
    "worksheet": [
     {
      "q": "hablar → yo (subjunctive)",
@@ -14077,7 +14090,26 @@ window.COURSE = {
    "la prepa": "audio/06e16a7c5e74.mp3",
    "Marco y Lucía se conocieron en la prepa.": "audio/89b65fdc0ce1.mp3",
    "el elote": "audio/51b504b4b704.mp3",
-   "Beto se comió tres elotes con chile.": "audio/5ca6cc714fc4.mp3"
+   "Beto se comió tres elotes con chile.": "audio/5ca6cc714fc4.mp3",
+   "Ayer fui al mercado": "audio/75610eedf793.mp3",
+   "Mañana voy a ir": "audio/4533974f9d8d.mp3",
+   "Mañana iré": "audio/8aa3976c7605.mp3",
+   "Cuando era niño, comía tacos cada día": "audio/7037cb443a98.mp3",
+   "ir": "audio/aa1553beed5d.mp3",
+   "Salgo mañana": "audio/e4385debcb35.mp3",
+   "Voy a salir mañana": "audio/abc22ea0bda1.mp3",
+   "Me gustan los tacos": "audio/b9503e555945.mp3",
+   "ser": "audio/605d3374e661.mp3",
+   "estar": "audio/c72ef9660b1d.mp3",
+   "este fin de semana": "audio/9c92bda79b73.mp3",
+   "ve pe ene": "audio/fe48a9ce6af6.mp3",
+   "¡Los tacos están ricos!": "audio/2294f0297c95.mp3",
+   "¡Los tacos están rico!": "audio/5077eed141f5.mp3",
+   "¡Los tacos es ricos!": "audio/179faac2b5ae.mp3",
+   "¿Qué le pasa, doña Rosa? Está muy pálida.": "audio/fa5f8746a82d.mp3",
+   "los quince años": "audio/5e01a78b2f75.mp3",
+   "Los quince años de la sobrina de Rosa fueron enormes.": "audio/dc9e27cc34a3.mp3",
+   "Doña Rosa les enseña fotos de sus nietos a todos.": "audio/ddd01b5c8d48.mp3"
   },
   "trimmed": [
    "audio/042dc4512fa3.mp3",
@@ -14203,7 +14235,8 @@ window.COURSE = {
      "Say \"tree\" but hold and exaggerate the middle: \"t-rrrr-ee.\"",
      "Say \"dream\" the same way: \"d-rrrr-eam.\"",
      "Now Spanish words: *tres* (t-rrr-es), *otro*, *padre*.",
-     "Once the buzz shows up after t or d, try to keep it going for a second."
+     "Once the buzz shows up after t or d, try to keep it going for a second.",
+     "In real speech *tres* and *otro* use a quick single tap — the long buzz is only a practice trick."
     ],
     "say": [
      "tres",
@@ -14277,7 +14310,7 @@ window.COURSE = {
     ]
    },
    {
-    "stage": "Stage 2 — After t / d",
+    "stage": "Stage 2 — After t / d (stretch it to practice; normally a tap)",
     "words": [
      "tres",
      "otro",
@@ -14288,7 +14321,7 @@ window.COURSE = {
     ]
    },
    {
-    "stage": "Stage 3 — After b, g, p, f, c",
+    "stage": "Stage 3 — After b, g, p, f, c (stretch it to practice; normally a tap)",
     "words": [
      "brazo",
      "grande",
@@ -14378,7 +14411,7 @@ window.COURSE = {
     "Stop for today. 5 minutes daily beats long sessions. Tension is the #1 thing that blocks the trill."
    ],
    [
-    "Nothing works lying down at a desk…",
+    "Nothing works sitting at a desk…",
     "Try lying on your back — gravity relaxes the tongue and some people get their first trill this way."
    ],
    [
@@ -14707,8 +14740,8 @@ window.COURSE = {
    "topic": "🩺 El doctor",
    "es": "¿Qué le pasa?",
    "en": "What's wrong? (formal)",
-   "ex": "Doctor, ¿qué me pasa?",
-   "ex_en": "Doctor, what's wrong with me?",
+   "ex": "¿Qué le pasa, doña Rosa? Está muy pálida.",
+   "ex_en": "What's wrong, doña Rosa? You look very pale.",
    "say": "QUÉ le PA·sa"
   },
   {
@@ -15169,11 +15202,11 @@ window.COURSE = {
   },
   {
    "topic": "🎉 La fiesta",
-   "es": "la quinceañera",
-   "en": "15th birthday party",
-   "ex": "La quinceañera de la sobrina de Rosa fue enorme.",
+   "es": "los quince años",
+   "en": "15th birthday party (the girl is la quinceañera)",
+   "ex": "Los quince años de la sobrina de Rosa fueron enormes.",
    "ex_en": "Rosa's niece's quinceañera was huge.",
-   "say": "la quin·ce·a·ÑE·ra"
+   "say": "los QUIN·ce A·ños"
   },
   {
    "topic": "🗣️ Verbos chismosos",
@@ -15419,7 +15452,7 @@ window.COURSE = {
    "topic": "👨‍👩‍👧 La familia",
    "es": "los nietos",
    "en": "grandchildren",
-   "ex": "Doña Rosa le enseña fotos de sus nietos a todos.",
+   "ex": "Doña Rosa les enseña fotos de sus nietos a todos.",
    "ex_en": "Doña Rosa shows everyone photos of her grandkids.",
    "say": "los NIE·tos"
   },
