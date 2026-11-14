@@ -325,6 +325,67 @@ la sopa de tortilla | tortilla soup |
 el ceviche | ceviche |
 el burrito | burrito | 💡 mostly a northern Mexico thing
 el antojito | street snack |
+los tacos de canasta | basket tacos (steamed) |
+los tacos de suadero | tacos of thin-cut beef | 💡 Mexico City
+los tacos de lengua | beef tongue tacos |
+la carne asada | grilled beef |
+la arrachera | skirt steak |
+la cochinita pibil | achiote slow-roasted pork | 💡 Yucatán
+la tinga | shredded chicken in chipotle sauce |
+el chicharrón | fried pork rind |
+la cecina | thin salted beef |
+la machaca | dried shredded beef | 💡 northern Mexico
+el alambre | grilled meat with peppers, onion and cheese |
+el cabrito | roast kid goat | 💡 Monterrey
+la carne en su jugo | beef in its own broth | 💡 Guadalajara
+el huarache | long oval masa base with toppings |
+la chalupa | small fried tortilla with salsa | 💡 Puebla
+la memela | oval masa cake with beans | 💡 Oaxaca, Puebla
+el panucho | bean-stuffed fried tortilla | 💡 Yucatán
+el salbute | puffy fried tortilla with toppings | 💡 Yucatán
+las enfrijoladas | tortillas in bean sauce |
+las entomatadas | tortillas in tomato sauce |
+las enmoladas | tortillas in mole |
+las enchiladas suizas | enchiladas in creamy green sauce |
+la empanada | turnover |
+el pambazo | chile-dipped sandwich with potato and chorizo |
+la guajolota | tamale inside a bread roll | 💡 Mexico City
+la torta ahogada | "drowned" sandwich in salsa | 💡 Guadalajara
+los molletes | open roll with beans and melted cheese |
+los huevos rancheros | fried eggs on tortillas with salsa |
+los huevos a la mexicana | scrambled eggs with tomato, onion and chile |
+los huevos divorciados | two eggs with red and green salsa |
+los huevos motuleños | eggs on tortillas with beans, ham and peas | 💡 Yucatán
+el menudo | tripe soup | 💡 Mexico City says la pancita
+el caldo de pollo | chicken soup |
+el caldo de res | beef and vegetable soup |
+el caldo tlalpeño | chicken soup with chipotle |
+la sopa de lima | lime soup | 💡 Yucatán
+la sopa de fideo | noodle soup |
+el consomé | broth (served with birria, barbacoa) |
+el mole de olla | beef and vegetable stew |
+el arroz rojo | Mexican red rice | 💡 also arroz a la mexicana
+los frijoles charros | cowboy beans with pork |
+los frijoles de la olla | whole pot beans |
+el aguachile | raw shrimp in lime and chile | 💡 Sinaloa
+el coctel de camarón | shrimp cocktail |
+el pescado a la veracruzana | fish with tomato, olives and capers |
+el pescado zarandeado | grilled butterflied fish | 💡 Nayarit, Sinaloa
+los camarones a la diabla | shrimp in spicy red sauce |
+los chiles en nogada | stuffed chiles in walnut sauce | 💡 Puebla, in September
+las rajas con crema | poblano strips in cream |
+el pipián | pumpkin-seed sauce |
+el adobo | chile marinade |
+el queso fundido | melted cheese (often with chorizo) |
+la ensalada de nopales | cactus salad |
+la salsa verde | green salsa |
+la salsa roja | red salsa |
+la salsa macha | chile oil salsa |
+los chicharrones de harina | wheat crisps with hot sauce |
+los tostilocos | loaded tortilla-chip snack |
+la fruta con chile | fruit with lime and chile powder |
+el chamoy | salty-sweet chile sauce |
+la chamoyada | mango slush with chamoy | 💡 also la mangonada
 """),
 ("🥤 Drinks", "05", """
 la bebida | drink |
