@@ -162,5 +162,14 @@ button.add { border: 0; background: none; cursor: pointer; font-size: 1rem; padd
 .vocab th:nth-child(3), .vocab td:nth-child(3) { width: 2.4em; padding-left: 4px; padding-right: 4px; text-align: center; }
 .vocab.search th:nth-child(4), .vocab.search td:nth-child(4) { width: 28%; font-size: .85rem; }
 
+/* 📖 Words tab */
+#wsets { margin: 8px 0 4px; display: flex; flex-wrap: wrap; gap: 6px; }
+#wsets .chip { cursor: pointer; font: inherit; font-size: .8rem; }
+#wsets .chip:hover { color: var(--accent); border-color: var(--accent); }
+.vocab .note { font-size: .8rem; color: var(--muted); margin-top: 2px; }
+.hide-en td.en { cursor: pointer; }
+.hide-en td.en:not(.peek) > * , .hide-en td.en:not(.peek) { color: transparent; text-shadow: 0 0 8px var(--muted); }
+.wquiz .card { margin: 8px 0 12px; }
+
 /* Public copy: hide anything that saves to the Obsidian vault */
 body.public .vault-only, body.public .sync { display: none !important; }
