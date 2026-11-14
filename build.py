@@ -2531,7 +2531,8 @@ RR_LAB = {
          "steps": ["Say \"tree\" but hold and exaggerate the middle: \"t-rrrr-ee.\"",
                    "Say \"dream\" the same way: \"d-rrrr-eam.\"",
                    "Now Spanish words: *tres* (t-rrr-es), *otro*, *padre*.",
-                   "Once the buzz shows up after t or d, try to keep it going for a second."],
+                   "Once the buzz shows up after t or d, try to keep it going for a second.",
+                   "In real speech *tres* and *otro* use a quick single tap — the long buzz is only a practice trick."],
          "say": ["tres", "tren", "otro", "cuatro", "padre", "dragón"]},
         {"name": "5. Brrr, it's cold!", "why": "b, g and p before r build air pressure behind the tongue, which helps start the vibration.",
          "steps": ["Shiver and say \"brrr\" — but make the buzz with your tongue tip, not your lips.",
@@ -2553,8 +2554,8 @@ RR_LAB = {
     ],
     "ladder": [
         {"stage": "Stage 1 — Single tap (you can already do this)", "words": ["pero", "para", "cara", "hora", "toro", "mira"]},
-        {"stage": "Stage 2 — After t / d", "words": ["tres", "otro", "cuatro", "padre", "dragón", "tren"]},
-        {"stage": "Stage 3 — After b, g, p, f, c", "words": ["brazo", "grande", "primo", "gracias", "frío", "crear"]},
+        {"stage": "Stage 2 — After t / d (stretch it to practice; normally a tap)", "words": ["tres", "otro", "cuatro", "padre", "dragón", "tren"]},
+        {"stage": "Stage 3 — After b, g, p, f, c (stretch it to practice; normally a tap)", "words": ["brazo", "grande", "primo", "gracias", "frío", "crear"]},
         {"stage": "Stage 4 — rr between vowels", "words": ["perro", "carro", "tierra", "arriba", "error", "guerra"]},
         {"stage": "Stage 5 — r at the start of a word (always rolled)", "words": ["rojo", "red", "rápido", "rosa", "ratón", "Roberto"]},
         {"stage": "Stage 6 — r after n, l, s (always rolled)", "words": ["enrutador", "honra", "alrededor", "Israel", "Enrique", "sonreír"]},
@@ -2572,7 +2573,7 @@ RR_LAB = {
         ("It sounds like a gargle or a French r.", "That's the back of your throat. Move it to the tongue tip: start from t or d (technique 4)."),
         ("I get \"brrr\" with my lips.", "That's a lip trill. Keep your lips relaxed and slightly open, and raise your tongue tip to the spot."),
         ("My tongue gets tired or tense.", "Stop for today. 5 minutes daily beats long sessions. Tension is the #1 thing that blocks the trill."),
-        ("Nothing works lying down at a desk…", "Try lying on your back — gravity relaxes the tongue and some people get their first trill this way."),
+        ("Nothing works sitting at a desk…", "Try lying on your back — gravity relaxes the tongue and some people get their first trill this way."),
         ("It's been weeks and I still can't.", "Normal for adults. Keep going daily. Meanwhile a strong single tap is understood — context tells pero from perro — and some native speakers don't trill the textbook way either."),
     ],
 }
@@ -3474,7 +3475,7 @@ la suegra | mother-in-law | La suegra de Marco llega el viernes. | Marco's mothe
 el cuñado | brother-in-law | El cuñado de Beto le debe dinero. | Beto's brother-in-law owes him money.
 el sobrino | nephew | ¿Javi es sobrino de doña Rosa? | Is Javi doña Rosa's nephew?
 la prima | cousin (female) | Valeria se fue a vivir con su prima. | Valeria went to live with her cousin.
-los nietos | grandchildren | Doña Rosa le enseña fotos de sus nietos a todos. | Doña Rosa shows everyone photos of her grandkids.
+los nietos | grandchildren | Doña Rosa les enseña fotos de sus nietos a todos. | Doña Rosa shows everyone photos of her grandkids.
 la novia | girlfriend | ¿Javi tiene novia? | Does Javi have a girlfriend?
 el ex | the ex | El ex de Valeria apareció en el barrio. | Valeria's ex showed up in the neighborhood.
 hijo único | only child | Javi es hijo único. | Javi is an only child.
@@ -3511,7 +3512,7 @@ la receta | prescription (also recipe) | El doctor me dio una receta. | The doct
 la pastilla | pill | Tómese una pastilla cada ocho horas. | Take one pill every eight hours.
 la cita | appointment (also a date) | Tengo cita con el doctor a las diez. | I have a doctor's appointment at ten.
 mareado | dizzy | Doña Rosa está mareada. | Doña Rosa is dizzy.
-¿Qué le pasa? | What's wrong? (formal) | Doctor, ¿qué me pasa? | Doctor, what's wrong with me?
+¿Qué le pasa? | What's wrong? (formal) | ¿Qué le pasa, doña Rosa? Está muy pálida. | What's wrong, doña Rosa? You look very pale.
 """,
     "🧹 Los quehaceres": """
 los quehaceres | chores | Marco odia los quehaceres. | Marco hates chores.
@@ -3541,7 +3542,7 @@ el pastel | cake | Beto se comió medio pastel. | Beto ate half the cake.
 las velas | candles | ¡Sopla las velas! | Blow out the candles!
 los invitados | guests | Llegaron cincuenta invitados. | Fifty guests arrived.
 el regalo | gift | ¿Quién trajo este regalo? | Who brought this gift?
-la quinceañera | 15th birthday party | La quinceañera de la sobrina de Rosa fue enorme. | Rosa's niece's quinceañera was huge.
+los quince años | 15th birthday party (the girl is la quinceañera) | Los quince años de la sobrina de Rosa fueron enormes. | Rosa's niece's quinceañera was huge.
 brindar | to toast | ¡Vamos a brindar por los novios! | Let's toast the couple!
 ¡Salud! | Cheers! | ¡Salud por Marco y Lucía! | Cheers to Marco and Lucía!
 colarse | to crash (a party) | Javi se coló en la fiesta. | Javi crashed the party.
